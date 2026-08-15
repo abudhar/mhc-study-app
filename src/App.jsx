@@ -2,13 +2,14 @@ import React, { useState, useEffect } from 'react';
 import { planData } from './data/planData';
 import DocumentViewer from './components/DocumentViewer';
 import Quiz from './components/Quiz';
+import Dashboard from './components/Dashboard';
 import { quizData } from './data/quizData';
 import { requestNotificationPermission } from './utils/notifications';
-import { CheckCircle, Circle, BookOpen, Menu, X } from 'lucide-react';
+import { CheckCircle, Circle, BookOpen, Menu, X, LayoutDashboard } from 'lucide-react';
 import './index.css';
 
 export default function App() {
-  const [selectedDay, setSelectedDay] = useState(planData[0]);
+  const [selectedDay, setSelectedDay] = useState(null); // null = Dashboard
   const [selectedPdf, setSelectedPdf] = useState(null);
   const [showQuiz, setShowQuiz] = useState(false);
   const [completedDays, setCompletedDays] = useState({});
@@ -52,6 +53,17 @@ export default function App() {
           </div>
           
           <div className="days-list">
+            <div 
+              className={`day-item ${!selectedDay ? 'active' : ''}`}
+              onClick={() => { setSelectedDay(null); setSelectedPdf(null); setShowQuiz(false); }}
+            >
+              <LayoutDashboard size={20} className="icon-mr" style={{marginRight: '12px'}} />
+              <div className="day-info">
+                <strong>Overview</strong>
+                <span>My Dashboard</span>
+              </div>
+            </div>
+
             {planData.map((day) => (
               <div 
                 key={day.day} 
@@ -83,8 +95,13 @@ export default function App() {
           </div>
         )}
 
-        {!selectedPdf && !showQuiz ? (
-          <div className="dashboard">
+        {!selectedDay ? (
+          <Dashboard 
+            completedDays={completedDays} 
+            onSelectDay={(day) => { setSelectedDay(day); setSelectedPdf(null); setShowQuiz(false); }} 
+          />
+        ) : !selectedPdf && !showQuiz ? (
+          <div className="dashboard-day">
             <h2>Day {selectedDay.day}: {selectedDay.title}</h2>
             {selectedDay.tasks.length === 0 ? (
               <p className="rest-day">This is a rest & revision day! Take a break or review past notes.</p>
@@ -121,7 +138,7 @@ export default function App() {
               dayId={selectedDay.day} 
               title={selectedDay.title}
               questions={quizData[selectedDay.day]} 
-              onComplete={() => { toggleDayComplete(selectedDay.day); setShowQuiz(false); }}
+              onComplete={() => { toggleDayComplete(selectedDay.day); setShowQuiz(false); setSelectedDay(null); }}
             />
           </div>
         ) : (
