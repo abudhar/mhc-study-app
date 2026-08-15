@@ -1,0 +1,270 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --border-color: #000000;
+  --hover-bg: #f0f0f0;
+  --active-bg: #000000;
+  --active-text: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+.app-container {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 320px;
+  border-right: 2px solid var(--border-color);
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-color);
+}
+
+.sidebar-header {
+  padding: 24px;
+  border-bottom: 2px solid var(--border-color);
+}
+
+.sidebar-header h1 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: -0.5px;
+  margin-bottom: 16px;
+}
+
+.progress-bar-container {
+  width: 100%;
+  height: 8px;
+  border: 1px solid var(--border-color);
+  background: var(--bg-color);
+}
+
+.progress-bar {
+  height: 100%;
+  background: var(--text-color);
+  transition: width 0.3s ease;
+}
+
+.progress-text {
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-top: 8px;
+}
+
+.days-list {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.day-item {
+  display: flex;
+  align-items: flex-start;
+  padding: 16px 24px;
+  border-bottom: 1px solid var(--border-color);
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.day-item:hover {
+  background: var(--hover-bg);
+}
+
+.day-item.active {
+  background: var(--active-bg);
+  color: var(--active-text);
+}
+
+.check-btn {
+  background: none;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  margin-right: 16px;
+  margin-top: 2px;
+}
+
+.day-info strong {
+  display: block;
+  font-size: 1.1rem;
+  margin-bottom: 4px;
+}
+
+.day-info span {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+/* Main Content */
+.main-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-color);
+  overflow-y: auto;
+}
+
+.dashboard {
+  padding: 48px;
+  max-width: 900px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.dashboard h2 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 40px;
+  letter-spacing: -1px;
+}
+
+.rest-day {
+  font-size: 1.2rem;
+  font-style: italic;
+  padding: 24px;
+  border: 1px dashed var(--border-color);
+}
+
+.tasks-container h3 {
+  font-size: 1.5rem;
+  margin-bottom: 24px;
+}
+
+.task-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+}
+
+.task-card {
+  border: 2px solid var(--border-color);
+  padding: 24px;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.task-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 4px 4px 0 var(--border-color);
+}
+
+.task-card h4 {
+  font-size: 1.2rem;
+  margin: 16px 0;
+  line-height: 1.4;
+}
+
+.btn-read {
+  margin-top: auto;
+  background: var(--text-color);
+  color: var(--bg-color);
+  border: none;
+  padding: 10px 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+/* Viewer Layout */
+.viewer-layout {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.viewer-header {
+  padding: 16px 24px;
+  border-bottom: 2px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.btn-back {
+  background: none;
+  border: 1px solid var(--border-color);
+  padding: 8px 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-back:hover {
+  background: var(--text-color);
+  color: var(--bg-color);
+}
+
+.document-viewer-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: #f8f8f8; /* slightly off-white to contrast the pdf page */
+}
+
+.toolbar {
+  padding: 12px 24px;
+  border-bottom: 1px solid var(--border-color);
+  display: flex;
+  justify-content: space-between;
+  background: var(--bg-color);
+}
+
+.toolbar-group {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  font-weight: 600;
+}
+
+.icon-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon-btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+.pdf-container {
+  flex: 1;
+  overflow: auto;
+  padding: 24px;
+  display: flex;
+  justify-content: center;
+}
+
+.pdf-document {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.react-pdf__Page {
+  margin-bottom: 24px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border: 1px solid var(--border-color);
+}
