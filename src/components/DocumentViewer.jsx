@@ -10,6 +10,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//unpkg.com/pdfjs-dist@${pdfjs.version}/b
 export default function DocumentViewer({ pdfFile }) {
   const [numPages, setNumPages] = useState(null);
   const [pageNumber, setPageNumber] = useState(1);
+  const [inputPage, setInputPage] = useState("1");
   const [scale, setScale] = useState(1.0);
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [completedPages, setCompletedPages] = useState([]);
@@ -20,8 +21,10 @@ export default function DocumentViewer({ pdfFile }) {
     const savedPage = localStorage.getItem(`pdf-page-${pdfFile}`);
     if (savedPage) {
       setPageNumber(parseInt(savedPage, 10));
+      setInputPage(savedPage);
     } else {
       setPageNumber(1);
+      setInputPage("1");
     }
     
     const savedCompleted = localStorage.getItem(`pdf-completed-${pdfFile}`);
@@ -42,6 +45,29 @@ export default function DocumentViewer({ pdfFile }) {
   function onDocumentLoadSuccess({ numPages }) {
     setNumPages(numPages);
   }
+
+  const handlePageInput = (e) => {
+    setInputPage(e.target.value);
+  };
+
+  const handlePageSubmit = (e) => {
+    if (e.key === 'Enter' || e.type === 'blur') {
+      let newPage = parseInt(inputPage, 10);
+      if (!isNaN(newPage) && newPage >= 1 && newPage <= numPages) {
+        setPageNumber(newPage);
+      } else {
+        setInputPage(pageNumber.toString()); // reset on invalid
+      }
+    }
+  };
+
+  const changePage = (offset) => {
+    const newPage = pageNumber + offset;
+    if (newPage >= 1 && newPage <= numPages) {
+      setPageNumber(newPage);
+      setInputPage(newPage.toString());
+    }
+  };
 
   const toggleFullscreen = () => {
     if (!document.fullscreenElement) {
@@ -73,8 +99,8 @@ export default function DocumentViewer({ pdfFile }) {
   };
 
   const swipeHandlers = useSwipeable({
-    onSwipedLeft: () => setPageNumber(prev => Math.min(prev + 1, numPages || prev)),
-    onSwipedRight: () => setPageNumber(prev => Math.max(prev - 1, 1)),
+    onSwipedLeft: () => changePage(1),
+    onSwipedRight: () => changePage(-1),
     preventDefaultTouchmoveEvent: false,
     trackMouse: false // Swipe primarily for touch devices
   });
@@ -97,16 +123,29 @@ export default function DocumentViewer({ pdfFile }) {
         <div className="toolbar-group">
           <button 
             disabled={pageNumber <= 1} 
-            onClick={() => setPageNumber(prev => Math.max(prev - 1, 1))}
+            onClick={() => changePage(-1)}
             className="icon-btn"
             title="Previous Page"
           >
             <ChevronLeft size={20} />
           </button>
-          <span>Page {pageNumber} of {numPages || '--'}</span>
+          <div className="page-input-container">
+            <span>Page</span>
+            <input 
+              type="number" 
+              value={inputPage}
+              onChange={handlePageInput}
+              onKeyDown={handlePageSubmit}
+              onBlur={handlePageSubmit}
+              className="page-input"
+              min={1}
+              max={numPages || 1}
+            />
+            <span>of {numPages || '--'}</span>
+          </div>
           <button 
             disabled={pageNumber >= numPages} 
-            onClick={() => setPageNumber(prev => Math.min(prev + 1, numPages))}
+            onClick={() => changePage(1)}
             className="icon-btn"
             title="Next Page"
           >

@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { planData } from './data/planData';
 import DocumentViewer from './components/DocumentViewer';
+import Quiz from './components/Quiz';
+import { quizData } from './data/quizData';
 import { requestNotificationPermission } from './utils/notifications';
 import { CheckCircle, Circle, BookOpen, Menu, X } from 'lucide-react';
 import './index.css';
@@ -8,6 +10,7 @@ import './index.css';
 export default function App() {
   const [selectedDay, setSelectedDay] = useState(planData[0]);
   const [selectedPdf, setSelectedPdf] = useState(null);
+  const [showQuiz, setShowQuiz] = useState(false);
   const [completedDays, setCompletedDays] = useState({});
   const [sidebarOpen, setSidebarOpen] = useState(true);
 
@@ -53,7 +56,7 @@ export default function App() {
               <div 
                 key={day.day} 
                 className={`day-item ${selectedDay.day === day.day ? 'active' : ''}`}
-                onClick={() => { setSelectedDay(day); setSelectedPdf(null); }}
+                onClick={() => { setSelectedDay(day); setSelectedPdf(null); setShowQuiz(false); }}
               >
                 <button 
                   className="check-btn"
@@ -80,7 +83,7 @@ export default function App() {
           </div>
         )}
 
-        {!selectedPdf ? (
+        {!selectedPdf && !showQuiz ? (
           <div className="dashboard">
             <h2>Day {selectedDay.day}: {selectedDay.title}</h2>
             {selectedDay.tasks.length === 0 ? (
@@ -96,9 +99,30 @@ export default function App() {
                       <button className="btn-read">Read Material</button>
                     </div>
                   ))}
+                  
+                  {/* Quiz Card */}
+                  <div className="task-card quiz-card" onClick={() => setShowQuiz(true)}>
+                    <CheckCircle size={32} />
+                    <h4>Day {selectedDay.day} Quiz</h4>
+                    <button className="btn-read" style={{background: 'var(--text-color)'}}>Take Quiz</button>
+                  </div>
+
                 </div>
               </div>
             )}
+          </div>
+        ) : showQuiz ? (
+          <div className="viewer-layout">
+            <div className="viewer-header">
+              <button className="btn-back" onClick={() => setShowQuiz(false)}>← Back to Day {selectedDay.day}</button>
+              <h2>Quiz</h2>
+            </div>
+            <Quiz 
+              dayId={selectedDay.day} 
+              title={selectedDay.title}
+              questions={quizData[selectedDay.day]} 
+              onComplete={() => { toggleDayComplete(selectedDay.day); setShowQuiz(false); }}
+            />
           </div>
         ) : (
           <div className="viewer-layout">
