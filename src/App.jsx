@@ -67,7 +67,7 @@ export default function App() {
             {planData.map((day) => (
               <div 
                 key={day.day} 
-                className={`day-item ${selectedDay.day === day.day ? 'active' : ''}`}
+                className={`day-item ${selectedDay?.day === day.day ? 'active' : ''}`}
                 onClick={() => { setSelectedDay(day); setSelectedPdf(null); setShowQuiz(false); }}
               >
                 <button 
