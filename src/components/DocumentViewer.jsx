@@ -3,6 +3,7 @@ import { Document, Page, pdfjs } from 'react-pdf';
 import 'react-pdf/dist/Page/AnnotationLayer.css';
 import 'react-pdf/dist/Page/TextLayer.css';
 import { ChevronLeft, ChevronRight, ZoomIn, ZoomOut, Maximize, Minimize, CheckCircle, Circle } from 'lucide-react';
+import { useSwipeable } from 'react-swipeable';
 
 pdfjs.GlobalWorkerOptions.workerSrc = `//unpkg.com/pdfjs-dist@${pdfjs.version}/build/pdf.worker.min.mjs`;
 
@@ -71,12 +72,19 @@ export default function DocumentViewer({ pdfFile }) {
     localStorage.setItem(`pdf-completed-${pdfFile}`, JSON.stringify(newCompleted));
   };
 
+  const swipeHandlers = useSwipeable({
+    onSwipedLeft: () => setPageNumber(prev => Math.min(prev + 1, numPages || prev)),
+    onSwipedRight: () => setPageNumber(prev => Math.max(prev - 1, 1)),
+    preventDefaultTouchmoveEvent: false,
+    trackMouse: false // Swipe primarily for touch devices
+  });
+
   const pdfUrl = `./materials/${pdfFile}`;
   const isCompleted = completedPages.includes(pageNumber);
   const completionPercent = numPages ? Math.round((completedPages.length / numPages) * 100) : 0;
 
   return (
-    <div className="document-viewer-container" ref={viewerRef} style={{ background: isFullscreen ? '#f8f8f8' : undefined, height: '100%', display: 'flex', flexDirection: 'column' }}>
+    <div className="document-viewer-container" ref={viewerRef} style={{ background: isFullscreen ? 'var(--bg-color)' : undefined, height: '100%', display: 'flex', flexDirection: 'column' }}>
       
       {/* PDF Progress Bar */}
       {numPages && (
@@ -112,7 +120,7 @@ export default function DocumentViewer({ pdfFile }) {
             onClick={togglePageComplete}
             title="Mark Page as Completed"
           >
-            {isCompleted ? <CheckCircle size={18} fill="#000" color="#fff" /> : <Circle size={18} />}
+            {isCompleted ? <CheckCircle size={18} fill="currentColor" color="var(--bg-color)" /> : <Circle size={18} />}
             <span>{isCompleted ? 'Page Read' : 'Mark as Read'}</span>
           </button>
         </div>
@@ -134,7 +142,7 @@ export default function DocumentViewer({ pdfFile }) {
         </div>
       </div>
 
-      <div className="pdf-container">
+      <div className="pdf-container" {...swipeHandlers}>
         <Document
           file={pdfUrl}
           onLoadSuccess={onDocumentLoadSuccess}
