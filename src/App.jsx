@@ -2,13 +2,14 @@ import React, { useState, useEffect } from 'react';
 import { planData } from './data/planData';
 import DocumentViewer from './components/DocumentViewer';
 import { requestNotificationPermission } from './utils/notifications';
-import { CheckCircle, Circle, BookOpen } from 'lucide-react';
+import { CheckCircle, Circle, BookOpen, Menu, X } from 'lucide-react';
 import './index.css';
 
 export default function App() {
   const [selectedDay, setSelectedDay] = useState(planData[0]);
   const [selectedPdf, setSelectedPdf] = useState(null);
   const [completedDays, setCompletedDays] = useState({});
+  const [sidebarOpen, setSidebarOpen] = useState(true);
 
   useEffect(() => {
     // Request notification permissions on start
@@ -32,38 +33,53 @@ export default function App() {
 
   return (
     <div className="app-container">
-      <aside className="sidebar">
-        <div className="sidebar-header">
-          <h1>MHC AP Study</h1>
-          <div className="progress-bar-container">
-            <div className="progress-bar" style={{ width: `${progressPercent}%` }}></div>
-          </div>
-          <div className="progress-text">{progressPercent}% Completed</div>
-        </div>
-        
-        <div className="days-list">
-          {planData.map((day) => (
-            <div 
-              key={day.day} 
-              className={`day-item ${selectedDay.day === day.day ? 'active' : ''}`}
-              onClick={() => { setSelectedDay(day); setSelectedPdf(null); }}
-            >
-              <button 
-                className="check-btn"
-                onClick={(e) => { e.stopPropagation(); toggleDayComplete(day.day); }}
-              >
-                {completedDays[day.day] ? <CheckCircle size={18} /> : <Circle size={18} />}
+      {sidebarOpen && (
+        <aside className="sidebar">
+          <div className="sidebar-header">
+            <div className="header-top">
+              <h1>MHC AP Study</h1>
+              <button className="icon-btn" onClick={() => setSidebarOpen(false)} title="Close Sidebar">
+                <X size={24} />
               </button>
-              <div className="day-info">
-                <strong>Day {day.day}</strong>
-                <span>{day.title}</span>
-              </div>
             </div>
-          ))}
-        </div>
-      </aside>
+            <div className="progress-bar-container">
+              <div className="progress-bar" style={{ width: `${progressPercent}%` }}></div>
+            </div>
+            <div className="progress-text">{progressPercent}% Completed</div>
+          </div>
+          
+          <div className="days-list">
+            {planData.map((day) => (
+              <div 
+                key={day.day} 
+                className={`day-item ${selectedDay.day === day.day ? 'active' : ''}`}
+                onClick={() => { setSelectedDay(day); setSelectedPdf(null); }}
+              >
+                <button 
+                  className="check-btn"
+                  onClick={(e) => { e.stopPropagation(); toggleDayComplete(day.day); }}
+                >
+                  {completedDays[day.day] ? <CheckCircle size={18} /> : <Circle size={18} />}
+                </button>
+                <div className="day-info">
+                  <strong>Day {day.day}</strong>
+                  <span>{day.title}</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </aside>
+      )}
 
       <main className="main-content">
+        {!sidebarOpen && (
+          <div className="floating-menu">
+            <button className="icon-btn" onClick={() => setSidebarOpen(true)} title="Open Sidebar">
+              <Menu size={24} />
+            </button>
+          </div>
+        )}
+
         {!selectedPdf ? (
           <div className="dashboard">
             <h2>Day {selectedDay.day}: {selectedDay.title}</h2>

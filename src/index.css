@@ -40,12 +40,18 @@ body {
   border-bottom: 2px solid var(--border-color);
 }
 
-.sidebar-header h1 {
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.header-top h1 {
   font-size: 1.5rem;
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: -0.5px;
-  margin-bottom: 16px;
 }
 
 .progress-bar-container {
@@ -117,6 +123,14 @@ body {
   flex-direction: column;
   background: var(--bg-color);
   overflow-y: auto;
+  position: relative;
+}
+
+.floating-menu {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  z-index: 10;
 }
 
 .dashboard {
@@ -124,6 +138,7 @@ body {
   max-width: 900px;
   margin: 0 auto;
   width: 100%;
+  padding-top: 64px;
 }
 
 .dashboard h2 {
@@ -217,7 +232,19 @@ body {
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  background: #f8f8f8; /* slightly off-white to contrast the pdf page */
+  background: var(--bg-color); 
+}
+
+.pdf-progress-container {
+  height: 4px;
+  background: #eee;
+  width: 100%;
+}
+
+.pdf-progress-bar {
+  height: 100%;
+  background: #000;
+  transition: width 0.3s;
 }
 
 .toolbar {
@@ -242,11 +269,35 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: var(--text-color);
 }
 
 .icon-btn:disabled {
   opacity: 0.3;
   cursor: not-allowed;
+}
+
+.divider {
+  width: 1px;
+  height: 24px;
+  background: var(--border-color);
+  margin: 0 8px;
+}
+
+.mark-complete-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: none;
+  border: 1px solid var(--border-color);
+  padding: 6px 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.mark-complete-btn:hover {
+  background: var(--hover-bg);
 }
 
 .pdf-container {
