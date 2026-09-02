@@ -1,8 +1,8 @@
 [
     {
         "question_number": 1,
-        "question": "தமிழ் இலக்கணம் எத்தனை வகைப்படும்?",
-        "answer": "A) 5",
+        "question": "jkpo; ,yf;fzk; vj;jid tifg;gLk;?",
+        "answer": "",
         "options": [
             "A) 5",
             "B) 4",
@@ -12,227 +12,209 @@
     },
     {
         "question_number": 2,
-        "question": "ஓலி வடிவமாக எழுப்பப்படுவதும் வரிவடிமாக எழுதப்படுவதும்------------ எனப்படுகிறது?",
-        "answer": "A) அசை",
+        "question": "Xyp tbtkhf vOg;gg;gLtJk; thptbkhf vOjg;gLtJk;------------ vdg;gLfpwJ?",
+        "answer": "D) d) vOj;J njhil",
         "options": [
-            "A) அசை",
-            "C) சீர்",
-            "D) தொடை"
+            "A) mir",
+            "C) rPh;",
+            "D) d) vOj;J njhil"
         ]
     },
     {
         "question_number": 3,
-        "question": "உயிருக்கு முதன்மையானது--------- ஆகும்.",
-        "answer": "D) காற்று",
+        "question": "capUf;F Kjd;ikahdJ--------- MFk;.",
+        "answer": "B) d) Mfhak; fhw;W",
         "options": [
-            "A) நீர்",
-            "B) ஆகாயம்",
-            "C) நிலம்",
-            "D) காற்று"
+            "A) c) ePh; epyk;",
+            "B) d) Mfhak; fhw;W"
         ]
     },
     {
         "question_number": 4,
-        "question": "இயல்பாகக் காற்று வெளிப்படும்போது----------- எழுத்துகள் (ஒலிககள்) பிறக்கின்றன.",
-        "answer": "A) எழுத்து",
+        "question": ",ay;ghff; fhw;W ntspg;gLk;NghJ----------- vOj;Jfs; (xypffs;) gpwf;fpd;wd.",
+        "answer": "A) vOj;J",
         "options": [
-            "A) எழுத்து",
-            "B) சீர்",
-            "C) உயிர்",
-            "D) அசை"
+            "A) vOj;J",
+            "B) d) rPh; mir",
+            "C) caph;"
         ]
     },
     {
         "question_number": 5,
-        "question": "வாயைத் திறத்தல், உதடுகளை விரித்தல், உதடுகளைக் குவித்தல் ஆகிய எளிய செயல்பாடுகளால் ‘அ’ முதல் ‘ஒள’ வரையுள்ள------------ எழுத்துகளும் (ஒலிகளும்) பிறக்கின்றன.",
-        "answer": "D) உயிர் எழுத்துகள்",
+        "question": "thiaj; jpwj;jy;> cjLfis tphpj;jy;> cjLfisf; Ftpj;jy; Mfpa vspa nray;ghLfshy; ‘m’ Kjy; ‘xs’ tiuAs;s------------ vOj;JfSk; (xypfSk;) gpwf;fpd;wd.",
+        "answer": "D) caph; vOj;Jfs;",
         "options": [
-            "A) ஆயுத எழுத்து",
-            "B) மெய்யெழுத்து",
-            "C) உயிர்மெய் எழுத்துகள்",
-            "D) உயிர் எழுத்துகள்"
+            "A) c) MAj vOj;J caph;nka; vOj;Jfs;",
+            "B) nka;naOj;J",
+            "D) caph; vOj;Jfs;"
         ]
     },
     {
         "question_number": 6,
-        "question": "ஒவ்வோர் எழுத்தையும் உச்சரிப்பதற்கு------------ உண்டு.",
-        "answer": "A) கால அளவு",
+        "question": "xt;Nthh; vOj;ijAk; cr;rhpg;gjw;F------------ cz;L.",
+        "answer": "A) c) fhy msT khj;jpiu",
         "options": [
-            "A) கால அளவு",
-            "B) அரை மாத்திரை",
-            "C) மாத்திரை",
-            "D) 2 மாத்திரை"
+            "A) c) fhy msT khj;jpiu",
+            "B) miu khj;jpiu",
+            "D) 2 khj;jpiu"
         ]
     },
     {
         "question_number": 7,
-        "question": "குறுகி ஒலிக்கும் அ, இ, உ, எ, ஒ ஆகிய ஐந்தும்------------           ; ஆகும்.",
-        "answer": "C) குறில் எழுத்து",
+        "question": "FWfp xypf;Fk; m> ,> c> v> x Mfpa Ie;Jk;------------ ; MFk;.",
+        "answer": "A) c) neby; vOj;J Fwpy; vOj;J",
         "options": [
-            "A) நெடில் எழுத்து",
-            "B) ஆய்த எழுத்து",
-            "C) குறில் எழுத்து",
-            "D) மெய்யெழுத்து"
+            "A) c) neby; vOj;J Fwpy; vOj;J",
+            "B) Ma;j vOj;J",
+            "D) nka;naOj;J"
         ]
     },
     {
         "question_number": 8,
-        "question": "நீண்டு ஒலிக்கும் ஆ, ஈ, ஊ, ஏ, ஐ, ஒள ஆகிய ஏழும்------------ ஆகும்.",
-        "answer": "A) நெடில் எழுத்து",
+        "question": "ePz;L xypf;Fk; M> <> C> V> I> xs Mfpa VOk;------------ MFk;.",
+        "answer": "A) c) neby; vOj;J Fwpy; vOj;J",
         "options": [
-            "A) நெடில் எழுத்து",
-            "B) ஆய்த எழுத்து",
-            "C) குறில் எழுத்து",
-            "D) மெய்யெழுத்து"
+            "A) c) neby; vOj;J Fwpy; vOj;J",
+            "B) Ma;j vOj;J",
+            "D) nka;naOj;J"
         ]
     },
     {
         "question_number": 9,
-        "question": "எழுத்தை உச்சரிக்க எடுத்துக்கொள்ளும்--------------- கொண்டே குறில், நெடில் என வகைப்படுததுகிறோம்.",
-        "answer": "C) கால அளவு",
+        "question": "vOj;ij cr;rhpf;f vLj;Jf;nfhs;Sk;--------------- nfhz;Nl Fwpy;> neby; vd tifg;gLjJfpNwhk;.",
+        "answer": "A) c) khj;jpiu fhy msT",
         "options": [
-            "A) மாத்திரை",
-            "B) 1 மாத்திரை",
-            "C) கால அளவு",
-            "D) 2 மாத்திரை"
+            "A) c) khj;jpiu fhy msT",
+            "B) 1",
+            "D) 2 khj;jpiu khj;jpiu"
         ]
     },
     {
         "question_number": 10,
-        "question": "------------ என்பது இங்குக் கால அளவைக் குறிக்கிறது.",
-        "answer": "A) மாத்திரை",
+        "question": "------------ vd;gJ ,q;Ff; fhy msitf; Fwpf;fpwJ.",
+        "answer": "B) 1 khj;jpiu",
         "options": [
-            "A) மாத்திரை",
-            "B) 1 மாத்திரை",
-            "C) கால அளவு",
-            "D) 2 மாத்திரை"
+            "A) c) khj;jpiu fhy msT",
+            "B) 1 khj;jpiu",
+            "D) 2 khj;jpiu"
         ]
     },
     {
         "question_number": 11,
-        "question": "------------ என்பது ஒருமுறை கண் இமைக்கவோ ஒருமுறை கை நொடிக்கவோ ஆகும் கால அளவாகும்.",
-        "answer": "A) மாத்திரை",
+        "question": "------------ vd;gJ xUKiw fz; ,ikf;fNth xUKiw if nehbf;fNth MFk; fhy msthFk;.",
+        "answer": "B) 1 khj;jpiu",
         "options": [
-            "A) மாத்திரை",
-            "B) 1 மாத்திரை",
-            "C) கால அளவு",
-            "D) 2 மாத்திரை"
+            "A) c) khj;jpiu fhy msT",
+            "B) 1 khj;jpiu",
+            "D) 2 khj;jpiu"
         ]
     },
     {
         "question_number": 12,
-        "question": "குறில் எழுத்தை ஒலிக்கும் கால அளவு------------ ஆகும்.",
-        "answer": "A) மாத்திரை",
+        "question": "Fwpy; vOj;ij xypf;Fk; fhy msT------------ MFk;.",
+        "answer": "B) 1 khj;jpiu",
         "options": [
-            "A) மாத்திரை",
-            "B) 1 மாத்திரை",
-            "C) கால அளவு",
-            "D) 2 மாத்திரை"
+            "A) c) khj;jpiu fhy msT",
+            "B) 1 khj;jpiu",
+            "D) 2 khj;jpiu"
         ]
     },
     {
         "question_number": 13,
-        "question": "நெடில் எழுத்தை ஒலிக்கும் கால அளவு------------ ஆகும்.",
-        "answer": "A) மாத்திரை",
+        "question": "neby; vOj;ij xypf;Fk; fhy msT------------ MFk;.",
+        "answer": "",
         "options": [
-            "A) மாத்திரை",
-            "B) கால அளவு",
-            "C) 1 மாத்திரை",
-            "D) 2 மாத்திரை"
+            "A) b) khj;jpiu fhy msT",
+            "C) 1 khj;jpiu",
+            "D) 2 khj;jpiu"
         ]
     },
     {
         "question_number": 14,
-        "question": "மெய் என்பது----------- எனப் பொருள்படும்.",
-        "answer": "B) உடம்பு",
+        "question": "nka; vd;gJ----------- vdg; nghUs;gLk;.",
+        "answer": "A) b) caph; clk;G",
         "options": [
-            "A) உயிர்",
-            "B) உடம்பு",
-            "C) எழுத்து",
-            "D) அசை"
+            "A) b) caph; clk;G",
+            "C) vOj;J",
+            "D) mir"
         ]
     },
     {
         "question_number": 15,
-        "question": "மெய் எழுத்துகளை ஒலிக்க--------- இயக்கத்தின் பங்கு இன்றியமையாதது.",
-        "answer": "D) உடல்",
+        "question": " nka; vOj;Jfis xypf;f--------- ,af;fj;jpd; gq;F ,d;wpaikahjJ.",
+        "answer": "D) cly;",
         "options": [
-            "A) உயிர்",
-            "B) எழுத்து",
-            "C) சீர்",
-            "D) உடல்"
+            "A) b) caph; vOj;J",
+            "C) rPh;",
+            "D) cly;"
         ]
     },
     {
         "question_number": 16,
-        "question": "மெய் எழுத்துகள் ஒலிக்கும் கால அளவு-------------- ஆகும்.",
-        "answer": "C) அரை மாத்திரை",
+        "question": " nka; vOj;Jfs; xypf;Fk; fhy msT-------------- MFk;.",
+        "answer": "C) miu khj;jpiu",
         "options": [
-            "A) 1 மாத்திரை",
-            "B) 2 மாத்திரை",
-            "C) அரை மாத்திரை",
-            "D) கால அளவு"
+            "A) b) 2 1 khj;jpiu khj;jpiu",
+            "C) miu khj;jpiu",
+            "D) fhy msT"
         ]
     },
     {
         "question_number": 17,
-        "question": ";க், ச், ட், த், ப், ற் - ஆகிய ஆறும்------------- ஆக ஒலிக்கின்றன.",
-        "answer": "A) வன்மையாக",
+        "question": " ;f;> r;> l;> j;> g;> w; - Mfpa MWk;------------- Mf xypf;fpd;wd.",
+        "answer": "A) td;ikahf",
         "options": [
-            "A) வன்மையாக",
-            "B) மென்மையாக",
-            "C) உயிராக",
-            "D) உடலாக"
+            "A) td;ikahf",
+            "B) nkd;ikahf",
+            "C) capuhf",
+            "D) clyhf"
         ]
     },
     {
         "question_number": 18,
-        "question": "ங், ஞ், ண், ந், ம், ன் - ஆகிய ஆறும்---------- ஆக ஒலிக்கின்றன.",
-        "answer": "B) மென்மையாக",
+        "question": " q;> Q;> z;> e;> k;> d; - Mfpa MWk;---------- Mf xypf;fpd;wd.",
+        "answer": "B) nkd;ikahf",
         "options": [
-            "A) வன்மையாக",
-            "B) மென்மையாக",
-            "C) உயிராக",
-            "D) உடலாக"
+            "A) td;ikahf",
+            "B) nkd;ikahf",
+            "C) capuhf",
+            "D) clyhf"
         ]
     },
     {
         "question_number": 19,
-        "question": "ய், ர், ல், வ், ழ், ள் - ஆகிய ஆறும் வன்மையாகவும் இல்லாமல், மென்மையாகவும் இல்லாமல்-------------- இடைப்பட்டு ஒலிக்கின்றன.",
-        "answer": "A) இரண்டிற்கும்",
+        "question": " a;> u;> y;> t;> o;> s; - Mfpa MWk; td;ikahfTk; ,y;yhky;> nkd;ikahfTk; ,y;yhky;-------------- ,ilg;gl;L xypf;fpd;wd.",
+        "answer": "A) ,uz;bw;Fk;",
         "options": [
-            "A) இரண்டிற்கும்",
-            "B) ஒன்றிற்க்கும்",
-            "C) ஐந்திற்கும்",
-            "D) நான்கிற்கும்"
+            "A) ,uz;bw;Fk;",
+            "B) xd;wpw;f;Fk;",
+            "C) Ie;jpw;Fk;",
+            "D) ehd;fpw;Fk;"
         ]
     },
     {
         "question_number": 20,
-        "question": "தமிழ் மொழியில் உயிர், மெய், உயிர்மெய் எழுத்துகள் தவிர தனி எழுத்து ஒன்றும் உள்ளது. அது--------------- எழுத்தாகும்.",
-        "answer": "A) ஆய்த",
+        "question": "jkpo; nkhopapy; caph;> nka;> caph;nka; vOj;Jfs; jtpu jdp vOj;J xd;Wk; cs;sJ. mJ--------------- vOj;jhFk;.",
+        "answer": "A) b) Ma;j caph;",
         "options": [
-            "A) ஆய்த",
-            "B) உயிர்",
-            "C) உயிர்",
-            "D) மெய்"
+            "A) b) Ma;j caph;",
+            "C) d) caph; nka;"
         ]
     },
     {
         "question_number": 21,
-        "question": "ஆய்த எழுத்தை ஒலிக்க ஆகும் கால அளவு----------- ஆகும்.",
-        "answer": "D) அரை மாத்திரை",
+        "question": "Ma;j vOj;ij xypf;f MFk; fhy msT----------- MFk;.",
+        "answer": "D) miu khj;jpiu",
         "options": [
-            "A) 1 மாத்திரை",
-            "B) 2 மாத்திரை",
-            "C) 3 மாத்திரை",
-            "D) அரை மாத்திரை"
+            "A) b) 1 khj;jpiu 2 khj;jpiu",
+            "C) 3 khj;jpiu",
+            "D) miu khj;jpiu"
         ]
     },
     {
         "question_number": 22,
-        "question": "எழுத்துகள் -------------- வகைப்படும்.",
-        "answer": "A) 3",
+        "question": "vOj;Jfs; -------------- tifg;gLk;.",
+        "answer": "",
         "options": [
             "A) 3",
             "B) 4",
@@ -242,41 +224,38 @@
     },
     {
         "question_number": 23,
-        "question": "உயிர் எழுத்துகள் பன்னிரண்டு, மெய்யெழுத்துகள் பதினெட்டு ஆகிய முப்பது எழுத்துகளும்----------- எழுத்துகள் ஆகும்.",
-        "answer": "B) முதல்",
+        "question": "caph; vOj;Jfs; gd;dpuz;L> nka;naOj;Jfs; gjpndl;L Mfpa Kg;gJ vOj;JfSk;----------- vOj;Jfs; MFk;.",
+        "answer": "A) b) rhh;G Kjy;",
         "options": [
-            "A) சார்பு",
-            "B) முதல்",
-            "C) இரண்டாம்",
-            "D) நான்காம்"
+            "A) b) rhh;G Kjy;",
+            "C) ,uz;lhk;",
+            "D) ehd;fhk;"
         ]
     },
     {
         "question_number": 24,
-        "question": "பிற எழுத்துகள் தோன்றுவதற்கு இயங்குவதற்கு முதற்காரணமாக---- இருக்கின்றன.",
-        "answer": "B) முதல்",
+        "question": "gpw vOj;Jfs; Njhd;Wtjw;F ,aq;Ftjw;F Kjw;fhuzkhf---- ,Uf;fpd;wd.",
+        "answer": "A) b) rhh;G Kjy;",
         "options": [
-            "A) சார்பு",
-            "B) முதல்",
-            "C) இரண்டாம்",
-            "D) நான்காம்"
+            "A) b) rhh;G Kjy;",
+            "C) ,uz;lhk;",
+            "D) ehd;fhk;"
         ]
     },
     {
         "question_number": 25,
-        "question": "முதல் எழுத்துகளைச் சார்ந்து வரும் எழுத்துகள்---------- ஆகும்.",
-        "answer": "A) சார்பு",
+        "question": "Kjy; vOj;Jfisr; rhh;e;J tUk; vOj;Jfs;---------- MFk;.",
+        "answer": "A) b) rhh;G Kjy;",
         "options": [
-            "A) சார்பு",
-            "B) முதல்",
-            "C) இரண்டாம்",
-            "D) நான்காம்"
+            "A) b) rhh;G Kjy;",
+            "C) ,uz;lhk;",
+            "D) ehd;fhk;"
         ]
     },
     {
         "question_number": 26,
-        "question": "சார்பெழுத்துகள் எத்தனை வகைப்படும்.",
-        "answer": "A) 4",
+        "question": "rhh;ngOj;Jfs; vj;jid tifg;gLk;.",
+        "answer": "",
         "options": [
             "A) 4",
             "B) 6",
@@ -286,52 +265,49 @@
     },
     {
         "question_number": 27,
-        "question": "மெய் எழுத்துகளும் ஒயிர் எழுத்துகளும் ஒன்றுடன் ஒன்று சேர்வதால்----------எழுத்துகள் தோன்றுகின்றன.",
-        "answer": "A) உயிர்மெய்",
+        "question": "nka; vOj;JfSk; xaph; vOj;JfSk; xd;Wld; xd;W Nrh;tjhy;----------vOj;Jfs; Njhd;Wfpd;wd.",
+        "answer": "A) b) caph;nka; Ma;jk;",
         "options": [
-            "A) உயிர்மெய்",
-            "B) ஆய்தம்",
-            "C) உயிரளபெடை",
-            "D) ஒற்றளபெடை"
+            "A) b) caph;nka; Ma;jk;",
+            "C) capusngil",
+            "D) xw;wsngil"
         ]
     },
     {
         "question_number": 28,
-        "question": "-----------எழுத்தின் ஒலிவடிவம் மெய்யும், உயிரும் சேர்ந்ததாக இருக்கும்.",
-        "answer": "D) உயிர்மெய்",
+        "question": " -----------vOj;jpd; xyptbtk; nka;Ak;> capUk; Nrh;e;jjhf ,Uf;Fk;.",
+        "answer": "D) caph;nka;",
         "options": [
-            "A) ஆய்தம்",
-            "B) உயிரபெடை",
-            "C) ஒற்றளபெடை",
-            "D) உயிர்மெய்"
+            "A) b) Ma;jk; capungil",
+            "C) xw;wsngil",
+            "D) caph;nka;"
         ]
     },
     {
         "question_number": 29,
-        "question": "வரிவடிவம்--------- எழுத்தை ஒத்திருக்கும்.",
-        "answer": "B) மெய்",
+        "question": " thptbtk;--------- vOj;ij xj;jpUf;Fk;.",
+        "answer": "B) nka;",
         "options": [
-            "A) உயிர்",
-            "B) மெய்",
-            "C) உயிர்மெய்",
-            "D) ஆயுதம ;"
+            "A) caph;",
+            "B) nka;",
+            "C) caph;nka;",
+            "D) MAjk ;"
         ]
     },
     {
         "question_number": 30,
-        "question": "ஒலிக்கும் கால அளவு---------- எழுத்தை ஒத்திருக்கும்.",
-        "answer": "B) உயிர்",
+        "question": "xypf;Fk; fhy msT---------- vOj;ij xj;jpUf;Fk;.",
+        "answer": "B) caph;",
         "options": [
-            "A) மெய்",
-            "B) உயிர்",
-            "C) உயிர்மெய்",
-            "D) ஆயுதம்"
+            "A) nka;",
+            "B) caph;",
+            "C) d) caph;nka; MAjk;"
         ]
     },
     {
         "question_number": 31,
-        "question": "----------------புள்ளிகளை உடைய தனித்த வடிவம் பெற்றது.",
-        "answer": "A) 1",
+        "question": "----------------Gs;spfis cila jdpj;j tbtk; ngw;wJ.",
+        "answer": "",
         "options": [
             "A) 1",
             "B) 2",
@@ -341,79 +317,71 @@
     },
     {
         "question_number": 32,
-        "question": "முப்புள்ளி, முப்பாற்புள்ளி, தனிநிலை, அஃகேனம் என்ற வேறு பெயர்களும்----------- உண்டு.",
-        "answer": "C) ஆய்தம்",
+        "question": "Kg;Gs;sp> Kg;ghw;Gs;sp> jdpepiy> m/Nfdk; vd;w NtW ngah;fSk;----------- cz;L.",
+        "answer": "C) Ma;jk;",
         "options": [
-            "A) உயிர்மெய்",
-            "B) உயிரளபெடை",
-            "C) ஆய்தம்",
-            "D) ஒற்றளபெடை"
+            "A) b) caph;nka; capusngil",
+            "C) Ma;jk;",
+            "D) xw;wsngil"
         ]
     },
     {
         "question_number": 33,
-        "question": "தனக்குமுன் ஒரு குறில் எழுத்தையும் தனக்குப்பின் ஒரு வல்லின வருவது------------- ஆகும்.",
-        "answer": "D) ஆய்தம்",
+        "question": "jdf;FKd; xU Fwpy; vOj;ijAk; jdf;Fg;gpd; xU ty;ypd tUtJ------------- MFk;.",
+        "answer": "D) Ma;jk;",
         "options": [
-            "A) உயிர்மெய்",
-            "B) உயிரளபெடை",
-            "C) ஒற்றளபெடை",
-            "D) ஆய்தம்"
+            "A) b) caph;nka; capusngil",
+            "C) xw;wsngil",
+            "D) Ma;jk;"
         ]
     },
     {
         "question_number": 34,
-        "question": "---------------தனித்து இயங்காது.",
-        "answer": "D) ஆய்தம்",
+        "question": "---------------jdpj;J ,aq;fhJ.",
+        "answer": "D) Ma;jk;",
         "options": [
-            "A) உயிர்மெய்",
-            "B) உயிரளபெடை",
-            "C) ஒற்றளபெடை",
-            "D) ஆய்தம்"
+            "A) b) caph;nka; capusngil",
+            "C) xw;wsngil",
+            "D) Ma;jk;"
         ]
     },
     {
         "question_number": 35,
-        "question": "முதல் எழுத்துகளாகிய உயிரையும், மெய்யையும் சார்ந்து இயங்குவதால்------------ எழுத்து சார்பெழுத்து ஆகும்.",
-        "answer": "A) ஆய்தம்",
+        "question": "Kjy; vOj;Jfshfpa capiuAk;> nka;iaAk; rhh;e;J ,aq;Ftjhy;------------ vOj;J rhh;ngOj;J MFk;.",
+        "answer": "A) b) Ma;jk; caph;nka;",
         "options": [
-            "A) ஆய்தம்",
-            "B) உயிர்மெய்",
-            "C) ஒற்றளபெடை",
-            "D) உயிரளபெடை"
+            "A) b) Ma;jk; caph;nka;",
+            "C) xw;wsngil",
+            "D) capusngil"
         ]
     },
     {
         "question_number": 36,
-        "question": "மொழி என்பதற்கு------------- சொல் என்றும் பொருளும் உண்டு.",
-        "answer": "D) சொல்",
+        "question": "nkhop vd;gjw;F------------- nrhy; vd;Wk; nghUSk; cz;L.",
+        "answer": "D) nrhy;",
         "options": [
-            "A) இலக்கணம்",
-            "B) பொருள்",
-            "C) எழுத்து",
-            "D) சொல்"
+            "A) b) ,yf;fzk; nghUs;",
+            "C) vOj;J",
+            "D) nrhy;"
         ]
     },
     {
         "question_number": 37,
-        "question": "-------------எழுத்துகள் சொல்லின் முதலில் வரும்.",
-        "answer": "A) உயிர்",
+        "question": "-------------vOj;Jfs; nrhy;ypd; Kjypy; tUk;.",
+        "answer": "D) caph;nka; ------------vOj;Jfs;",
         "options": [
-            "A) உயிர்",
-            "B) மெய்",
-            "C) ஆய்தம்",
-            "D) உயிர்மெய்"
+            "A) b) caph; nka;",
+            "C) Ma;jk;",
+            "D) caph;nka; ------------vOj;Jfs;"
         ]
     },
     {
         "question_number": 38,
-        "question": "-------------மற்றும் ------------எழுத்துகள் சொல்லின் முதலில் வராது.",
-        "answer": "C) மெய்யெழுத்து, உயிர் எழுத்து",
+        "question": "-------------kw;Wk; nrhy;ypd; Kjypy; tuhJ. a) Ma;j vOj;J> nka;naOj;J",
+        "answer": "",
         "options": [
-            "A) ஆய்த எழுத்து, மெய்யெழுத்து",
-            "B) உயிர் எழுத்து, ஆய்த எழுத்து",
-            "C) மெய்யெழுத்து, உயிர் எழுத்து",
-            "D) ஆய்த எழுத்து, உயிர்மெய் எழுத்து ;"
+            "B) caph; vOj;J> Ma;j vOj;J c) nka;naOj;J> caph; vOj;J",
+            "D) Ma;j vOj;J> caph;nka; vOj;J ;"
         ]
     }
 ]

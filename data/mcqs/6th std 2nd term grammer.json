@@ -1,156 +1,145 @@
 [
     {
         "question_number": 1,
-        "question": "சொல்லின் இறுதியில் வரும் எழுத்துகளை-------------- எழுத்துகள் என்பர்.",
-        "answer": "C) மொழி இறுதி",
+        "question": "nrhy;ypd; ,Wjpapy; tUk; vOj;Jfis-------------- vOj;Jfs; vd;gh;.",
+        "answer": "A) c) nkhop Kjy; nkhop ,Wjp",
         "options": [
-            "A) மொழி முதல்",
-            "B) உயிரெழுத்து",
-            "C) மொழி இறுதி",
-            "D) மெய்யெழுத்து"
+            "A) c) nkhop Kjy; nkhop ,Wjp",
+            "B) capnuOj;J",
+            "D) nka;naOj;J"
         ]
     },
     {
         "question_number": 2,
-        "question": "உயிர் எழுத்துகள் பன்னிரண்டும் மெய்யுடன் இணைந்து உயிர்மெய்யாக மட்டுமே------------ வரும்.",
-        "answer": "C) மொழி இறுதி",
+        "question": "caph; vOj;Jfs; gd;dpuz;Lk; nka;Ald; ,ize;J caph;nka;ahf kl;LNk------------ tUk;.",
+        "answer": "A) c) nkhop Kjy; nkhop ,Wjp",
         "options": [
-            "A) மொழி முதல்",
-            "B) உயிரெழுத்து",
-            "C) மொழி இறுதி",
-            "D) மெய்யெழுத்து"
+            "A) c) nkhop Kjy; nkhop ,Wjp",
+            "B) capnuOj;J",
+            "D) nka;naOj;J"
         ]
     },
     {
         "question_number": 3,
-        "question": "சொல்லின் இறுதியில்------------ தனித்து வருவதில்லை.",
-        "answer": "B) உயிரெழுத்துகள்",
+        "question": "nrhy;ypd; ,Wjpapy;------------ jdpj;J tUtjpy;iy.",
+        "answer": "B) d) capnuOj;Jfs; nka;naOj;Jfs;",
         "options": [
-            "A) மொழி முதல்",
-            "B) உயிரெழுத்துகள்",
-            "C) மொழி இறுதி",
-            "D) மெய்யெழுத்துகள்"
+            "A) nkhop Kjy;",
+            "B) d) capnuOj;Jfs; nka;naOj;Jfs;",
+            "C) nkhop ,Wjp"
         ]
     },
     {
         "question_number": 4,
-        "question": "உயிர் எழுத்துகள் மெய்யெழுத்துடன் இணைந்து உயிர்மெய்யாக மட்டுமே சொல்லின்--------------- வரும்.",
-        "answer": "C) இறுதியில்",
+        "question": "caph; vOj;Jfs; nka;naOj;Jld; ,ize;J caph;nka;ahf kl;LNk nrhy;ypd;--------------- tUk;.",
+        "answer": "C) ,Wjpapy;",
         "options": [
-            "A) மொழி முதல்",
-            "B) உயிரெழுத்து",
-            "C) இறுதியில்",
-            "D) மெய்யெழுத்து"
+            "A) nkhop Kjy;",
+            "B) capnuOj;J",
+            "C) ,Wjpapy;",
+            "D) nka;naOj;J"
         ]
     },
     {
         "question_number": 5,
-        "question": "அளபெடை எழுத்துகளில் இடம் பெறும்போது-------------- சொல்லின் இறுதியில் வரும்.",
-        "answer": "B) உயிரெழுத்துகள்",
+        "question": "msngil vOj;Jfspy; ,lk; ngWk;NghJ-------------- nrhy;ypd; ,Wjpapy; tUk;.",
+        "answer": "B) capnuOj;Jfs;",
         "options": [
-            "A) மொழி முதல்",
-            "B) உயிரெழுத்துகள்",
-            "C) இறுதியில்",
-            "D) மெய்யெழுத்து"
+            "A) c) nkhop Kjy; ,Wjpapy;",
+            "B) capnuOj;Jfs;",
+            "D) nka;naOj;J"
         ]
     },
     {
         "question_number": 6,
-        "question": "உயிர்மெய் எழுத்துகளுள்-----------எழுத்து வரிசை சொல்லின் இறுதியில் வராது.",
-        "answer": "A) ங        ;",
+        "question": "caph;nka; vOj;JfSs;-----------vOj;J thpir nrhy;ypd; ,Wjpapy; tuhJ.",
+        "answer": "A) c) q ; e ;",
         "options": [
-            "A) ங        ;",
-            "B) உ",
-            "C) ந                      ;",
-            "D) ம"
+            "A) c) q ; e ;",
+            "B) c",
+            "D) k"
         ]
     },
     {
         "question_number": 7,
-        "question": "எகர வரிசையில்--------முதல்-------- முடிய எந்த உயிர்மெய் எழுத்தும் மொழி இறுதியில் வருவதில்லை.",
-        "answer": "C) கெ, னெ",
+        "question": "vfu thpirapy;--------Kjy;-------- Kba ve;j caph;nka; vOj;Jk; nkhop ,Wjpapy; tUtjpy;iy.",
+        "answer": "C) nf> nd",
         "options": [
-            "A) க, கா     ;",
-            "B) த, தா",
-            "C) கெ, னெ",
-            "D) ம, மா"
+            "A) f> fh ;",
+            "B) d) j> jh k> kh",
+            "C) nf> nd"
         ]
     },
     {
         "question_number": 8,
-        "question": "ஒகர வரிசையில் -------------- தவிர பிற உயிர்மெய் எழுத்துகள் மொழி இறுதியில் வருவதில்லை.",
-        "answer": "B) நொ",
+        "question": "xfu thpirapy; -------------- jtpu gpw caph;nka; vOj;Jfs; nkhop ,Wjpapy; tUtjpy;iy.",
+        "answer": "B) neh",
         "options": [
-            "A) ங        ;",
-            "B) நொ",
-            "C) ந                      ;",
-            "D) ம"
+            "A) q ;",
+            "B) neh",
+            "C) e ;",
+            "D) k"
         ]
     },
     {
         "question_number": 9,
-        "question": "-------------------என்னும் எழுத்து ஓரெழுத்து ஒரு மொழியாகத் துன்பம் என்னும் பொருளின் வரும்.",
-        "answer": "B) நொ",
+        "question": "-------------------vd;Dk; vOj;J XnuOj;J xU nkhopahfj; Jd;gk; vd;Dk; nghUspd; tUk;.",
+        "answer": "B) neh",
         "options": [
-            "A) ங        ;",
-            "B) நொ",
-            "C) ந                      ;",
-            "D) ம"
+            "A) c) q ; e ;",
+            "B) neh",
+            "D) k"
         ]
     },
     {
         "question_number": 10,
-        "question": "ஓற்றுமை உள்ள எழுத்துகள்-------------- எனப்படும்.",
-        "answer": "A) இன எழுத்துகள்",
+        "question": "Xw;Wik cs;s vOj;Jfs;-------------- vdg;gLk;.",
+        "answer": "A) ,d vOj;Jfs;",
         "options": [
-            "A) இன எழுத்துகள்",
-            "B) குறில்",
-            "C) வல்லின எழுத்துகள்",
-            "D) நெடில்"
+            "A) ,d vOj;Jfs;",
+            "B) d) Fwpy; neby;",
+            "C) ty;ypd vOj;Jfs;"
         ]
     },
     {
         "question_number": 11,
-        "question": "ஆறு வல்லின மெய் எழுத்துகளுக்கும் ஆறு மெல்லின எழுத்துகளும்-------- ஆகும்.",
-        "answer": "A) இன எழுத்துகள்",
+        "question": "MW ty;ypd nka; vOj;JfSf;Fk; MW nky;ypd vOj;JfSk;-------- MFk;.",
+        "answer": "A) ,d vOj;Jfs;",
         "options": [
-            "A) இன எழுத்துகள்",
-            "B) குறில்",
-            "C) வல்லின எழுத்துகள்",
-            "D) நெடில்"
+            "A) ,d vOj;Jfs;",
+            "B) Fwpy;",
+            "C) ty;ypd vOj;Jfs;",
+            "D) neby;"
         ]
     },
     {
         "question_number": 12,
-        "question": "சொற்களில் மெல்லின மெய் எழுத்தை அடுத்துப் பெரும்பெலும் அதன் இனமாகிய----------------- வரும்.",
-        "answer": "C) வல்லின எழுத்துகள்",
+        "question": "nrhw;fspy; nky;ypd nka; vOj;ij mLj;Jg; ngUk;ngYk; mjd; ,dkhfpa----------------- tUk;.",
+        "answer": "A) c) ,d vOj;Jfs; ty;ypd vOj;Jfs;",
         "options": [
-            "A) இன எழுத்துகள்",
-            "B) குறில்",
-            "C) வல்லின எழுத்துகள்",
-            "D) நெடில்"
+            "A) c) ,d vOj;Jfs; ty;ypd vOj;Jfs;",
+            "B) Fwpy;",
+            "D) neby;"
         ]
     },
     {
         "question_number": 13,
-        "question": "உயிர் எழுத்துகளில் குறிலுக்கு நெடிலும், நெடிலுக்குக் குறிலும்------------- ஆகும்.",
-        "answer": "A) இன எழுத்துகள்",
+        "question": "caph; vOj;Jfspy; FwpYf;F nebYk;> nebYf;Ff; FwpYk;------------- MFk;.",
+        "answer": "A) ,d vOj;Jfs;",
         "options": [
-            "A) இன எழுத்துகள்",
-            "B) குறில்",
-            "C) வல்லின எழுத்துகள்",
-            "D) நெடில்"
+            "A) ,d vOj;Jfs;",
+            "B) d) Fwpy; neby;",
+            "C) ty;ypd vOj;Jfs;"
         ]
     },
     {
         "question_number": 14,
-        "question": "அளபெடையில் மட்டும் நெடிலைத் தொடர்ந்து அதன் இனமாகிய ------------- எழுத்து சேர்ந்து வரும.;",
-        "answer": "B) குறில்",
+        "question": "msngilapy; kl;Lk; nebiyj; njhlh;e;J mjd; ,dkhfpa ------------- vOj;J Nrh;e;J tUk.;",
+        "answer": "",
         "options": [
-            "A) இன எழுத்துகள்",
-            "B) குறில்",
-            "C) வல்லின எழுத்துகள்",
-            "D) நெடில் ;"
+            "A) ,d vOj;Jfs;",
+            "B) d) Fwpy; neby; ;",
+            "C) ty;ypd vOj;Jfs;"
         ]
     }
 ]

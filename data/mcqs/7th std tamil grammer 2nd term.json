@@ -1,30 +1,28 @@
 [
     {
         "question_number": 1,
-        "question": "ஓர் எழுத்து தனித்தும் ஒன்றிற்கும் மேற்பட்ட எழுத்துகள் தொடர்ந்தும் வந்து பொருள் தருவது------------ எனப்படும்?",
-        "answer": "A) சொல்",
+        "question": "Xu; vOj;J jdpj;Jk; xd;wpw;Fk; Nkw;gl;l vOj;Jfs; njhlu;e;Jk; te;J nghUs; jUtJ------------ vdg;gLk;?",
+        "answer": "A) nrhy;",
         "options": [
-            "A) சொல்",
-            "B) வினை இயற்சொற்கள்",
-            "C) இயற்சொற்கள்",
-            "D) பெயர் இயற்சொற்கள்"
+            "A) nrhy;",
+            "B) tpid ,aw;nrhw;fs;",
+            "C) d) ,aw;nrhw;fs; ngau; ,aw;nrhw;fs;"
         ]
     },
     {
         "question_number": 2,
-        "question": "மொழி, பதம், கிளவி என்பன-------------- என்னும் பொருள் தரும் வேறு சொற்களாகும்?",
-        "answer": "C) சொல்",
+        "question": "nkhop> gjk;> fpstp vd;gd-------------- vd;Dk; nghUs; jUk; NtW nrhw;fshFk;?",
+        "answer": "C) nrhy;",
         "options": [
-            "A) இயற்சொற்கள்",
-            "B) வினை இயற்சொற்கள்",
-            "C) சொல்",
-            "D) பெயர் இயற்சொற்கள்"
+            "A) ,aw;nrhw;fs; b) tpid ,aw;nrhw;fs;",
+            "C) nrhy;",
+            "D) ngau; ,aw;nrhw;fs;"
         ]
     },
     {
         "question_number": 3,
-        "question": "இலக்கண முறைப்படி பெயர்ச்சொல், வினைச்சொல், இடைச்சொல், உரிச்சொல் எனச் சொற்கள்------------வகைப்படும்.",
-        "answer": "A) 8",
+        "question": ",yf;fz Kiwg;gb ngau;r;nrhy;> tpidr;nrhy;> ,ilr;nrhy;> cupr;nrhy; vdr; nrhw;fs;------------tifg;gLk;.",
+        "answer": "",
         "options": [
             "A) 8",
             "B) 4",
@@ -34,8 +32,8 @@
     },
     {
         "question_number": 4,
-        "question": "இலக்கிய வகையில் சொற்களை இயற்சொல், திரிசொல், திசைச்சொல், வடசொல் என-------------- வகையாகப் பிரிக்கலாம்.",
-        "answer": "A) 2",
+        "question": " ,yf;fpa tifapy; nrhw;fis ,aw;nrhy;> jpupnrhy;> jpirr;nrhy;> tlnrhy; vd-------------- tifahfg; gpupf;fyhk;.",
+        "answer": "",
         "options": [
             "A) 2",
             "B) 3",
@@ -45,19 +43,19 @@
     },
     {
         "question_number": 5,
-        "question": "ஏளிதில் பொருள் விளங்கும் வகையில் அமைந்த சொற்கள்------------- எனப்படும்.",
-        "answer": "A) இயற்சொற்கள்",
+        "question": " Vspjpy; nghUs; tpsq;Fk; tifapy; mike;j nrhw;fs;------------- vdg;gLk;.",
+        "answer": "A) ,aw;nrhw;fs;",
         "options": [
-            "A) இயற்சொற்கள்",
-            "B) வினை இயற்சொற்கள்",
-            "C) பெயர் இயற்சொற்கள்",
-            "D) சொல்"
+            "A) ,aw;nrhw;fs;",
+            "B) tpid ,aw;nrhw;fs;",
+            "C) ngau; ,aw;nrhw;fs;",
+            "D) nrhy;"
         ]
     },
     {
         "question_number": 6,
-        "question": "இயற்சொல்லைப் பெயர், வினை, இடை, உரி என------------ வகையாகப் பிரிக்கலாம்.",
-        "answer": "A) 1",
+        "question": " ,aw;nrhy;iyg; ngau;> tpid> ,il> cup vd------------ tifahfg; gpupf;fyhk;.",
+        "answer": "",
         "options": [
             "A) 1",
             "B) 2",
@@ -67,211 +65,189 @@
     },
     {
         "question_number": 7,
-        "question": "மண், பொன் என்பவை----------------.",
-        "answer": "C) பெயர் இயற்சொற்கள்",
+        "question": " kz;> nghd; vd;git----------------.",
+        "answer": "C) ngau; ,aw;nrhw;fs;",
         "options": [
-            "A) வினை இயற்சொற்கள்",
-            "B) இடை இயற்சொற்கள்",
-            "C) பெயர் இயற்சொற்கள்",
-            "D) உரி இயற்சொற்கள்"
+            "A) tpid ,aw;nrhw;fs;",
+            "B) ,il ,aw;nrhw;fs;",
+            "C) ngau; ,aw;nrhw;fs;",
+            "D) cup ,aw;nrhw;fs;"
         ]
     },
     {
         "question_number": 8,
-        "question": "நடந்தான,; வந்தான் என்பவை------------------.",
-        "answer": "A) வினை இயற்சொற்கள்",
+        "question": " ele;jhd>; te;jhd; vd;git------------------.",
+        "answer": "A) tpid ,aw;nrhw;fs;",
         "options": [
-            "A) வினை இயற்சொற்கள்",
-            "B) இடை இயற்சொற்கள்",
-            "C) பெயர் இயற்சொற்கள்",
-            "D) உரி இயற்சொற்கள்"
+            "A) tpid ,aw;nrhw;fs;",
+            "B) d) ,il ,aw;nrhw;fs; cup ,aw;nrhw;fs;",
+            "C) ngau; ,aw;nrhw;fs;"
         ]
     },
     {
         "question_number": 9,
-        "question": "அவனை, அவனால் என்பவை----------------.",
-        "answer": "B) இடை இயற்சொற்கள்",
+        "question": "mtid> mtdhy; vd;git----------------.",
+        "answer": "A) tpid ,aw;nrhw;fs;",
         "options": [
-            "A) வினை இயற்சொற்கள்",
-            "B) இடை இயற்சொற்கள்",
-            "C) பெயர் இயற்சொற்கள்",
-            "D) உரி இயற்சொற்கள்"
+            "A) tpid ,aw;nrhw;fs;",
+            "B) d) ,il ,aw;nrhw;fs; cup ,aw;nrhw;fs;",
+            "C) ngau; ,aw;nrhw;fs;"
         ]
     },
     {
         "question_number": 10,
-        "question": "மாநகர் என்பவை---------------.",
-        "answer": "D) உரி இயற்சொல்",
+        "question": "khefu; vd;git---------------.",
+        "answer": "A) c) tpid ,aw;nrhy; ,il ,aw;nrhy;",
         "options": [
-            "A) வினை இயற்சொல்",
-            "B) பெயர் இயற்சொல்",
-            "C) இடை இயற்சொல்",
-            "D) உரி இயற்சொல்"
+            "A) c) tpid ,aw;nrhy; ,il ,aw;nrhy;",
+            "B) d) ngau; ,aw;nrhy; cup ,aw;nrhy;"
         ]
     },
     {
         "question_number": 11,
-        "question": "இலக்கியங்களில் மட்டுமே பயின்று வருபவையாகவும் அமையும் சொற்கள்----------------எனப்படும்.",
-        "answer": "A) திரிசொற்கள்",
+        "question": ",yf;fpaq;fspy; kl;LNk gapd;W tUgitahfTk; mikAk; nrhw;fs;----------------vdg;gLk;.",
+        "answer": "B) cup ,aw;nrhy;",
         "options": [
-            "A) திரிசொற்கள்",
-            "B) உரி இயற்சொல்",
-            "C) பெயர் இயற்சொல்",
-            "D) இடை இயற்சொல்"
+            "A) c) jpupnrhw;fs; ngau; ,aw;nrhy;",
+            "B) cup ,aw;nrhy;",
+            "D) ,il ,aw;nrhy;"
         ]
     },
     {
         "question_number": 12,
-        "question": "அழுவம், வங்கம் என்பவை----------------.",
-        "answer": "A) பெயர்த் திரிசொல்",
+        "question": "mOtk;> tq;fk; vd;git----------------.",
+        "answer": "B) cupj; jpupnrhy;",
         "options": [
-            "A) பெயர்த் திரிசொல்",
-            "B) உரித் திரிசொல்",
-            "C) வினைத் திரிசொல்",
-            "D) இடைத் திரிசொல்"
+            "A) c) ngau;j; jpupnrhy; tpidj; jpupnrhy;",
+            "B) cupj; jpupnrhy;",
+            "D) ,ilj; jpupnrhy;"
         ]
     },
     {
         "question_number": 13,
-        "question": "இயம்பினான், பயின்றாள் என்பவை---------------.",
-        "answer": "B) வினைத் திரிசொல்",
+        "question": ",ak;gpdhd;> gapd;whs; vd;git---------------.",
+        "answer": "B) tpidj; jpupnrhy;",
         "options": [
-            "A) பெயர்த் திரிசொல்",
-            "B) வினைத் திரிசொல்",
-            "C) உரித் திரிசொல்",
-            "D) இடைத் திரிசொல்"
+            "A) c) ngau;j; jpupnrhy; cupj; jpupnrhy;",
+            "B) tpidj; jpupnrhy;",
+            "D) ,ilj; jpupnrhy;"
         ]
     },
     {
         "question_number": 14,
-        "question": "அன்ன, மான என்பவை--------------.",
-        "answer": "D) இடைத் திரிசொல்",
+        "question": "md;d> khd vd;git--------------.",
+        "answer": "D) ,ilj; jpupnrhy;",
         "options": [
-            "A) பெயர்த் திரிசொல்",
-            "B) வினைத் திரிசொல்",
-            "C) உரித் திரிசொல்",
-            "D) இடைத் திரிசொல்"
+            "A) c) ngau;j; jpupnrhy; cupj; jpupnrhy;",
+            "B) tpidj; jpupnrhy;",
+            "D) ,ilj; jpupnrhy;"
         ]
     },
     {
         "question_number": 15,
-        "question": "கூர், கழி என்பவை-----------------.",
-        "answer": "B) உரித் திரிசொல்",
+        "question": "$u;> fop vd;git-----------------.",
+        "answer": "B) cupj; jpupnrhy;",
         "options": [
-            "A) பெயர்த் திரிசொல்",
-            "B) உரித் திரிசொல்",
-            "C) வினைத் திரிசொல்",
-            "D) இடைத் திரிசொல்"
+            "A) c) ngau;j; jpupnrhy; tpidj; jpupnrhy;",
+            "B) cupj; jpupnrhy;",
+            "D) ,ilj; jpupnrhy;"
         ]
     },
     {
         "question_number": 16,
-        "question": "வடமொழி தவிர, பிற மொழிகளில் இருந்து வந்து தமிழில் இடம்பெறும் சொற்கள்-------------- எனப்படும்.",
-        "answer": "A) திசைச்சொற்கள்",
+        "question": "tlnkhop jtpu> gpw nkhopfspy; ,Ue;J te;J jkpopy; ,lk;ngWk; nrhw;fs;-------------- vdg;gLk;.",
+        "answer": "A) c) jpirr;nrhw;fs; ,ilj; jpupnrhy;",
         "options": [
-            "A) திசைச்சொற்கள்",
-            "B) பெயர்ச் சொற்கள்",
-            "C) இடைத் திரிசொல்",
-            "D) வினைத் திரிசொல்"
+            "A) c) jpirr;nrhw;fs; ,ilj; jpupnrhy;",
+            "B) ngau;r; nrhw;fs;",
+            "D) tpidj; jpupnrhy;"
         ]
     },
     {
         "question_number": 17,
-        "question": "முற்காலத்தில் பாண்டிநாட்டைத் தவிர, தமிழ்நாட்டின் பிற பகுதிகளில் வழங்கிய சொற்களையும்--------------- என்றே வழங்கினர்.",
-        "answer": "A) திசைச்சொற்கள்",
+        "question": " Kw;fhyj;jpy; ghz;behl;ilj; jtpu> jkpo;ehl;bd; gpw gFjpfspy; toq;fpa nrhw;fisAk;--------------- vd;Nw toq;fpdu;.",
+        "answer": "A) c) jpirr;nrhw;fs; ,ilj; jpupnrhy;",
         "options": [
-            "A) திசைச்சொற்கள்",
-            "B) பெயர்ச் சொற்கள்",
-            "C) இடைத் திரிசொல்",
-            "D) வினைத் திரிசொல்"
+            "A) c) jpirr;nrhw;fs; ,ilj; jpupnrhy;",
+            "B) ngau;r; nrhw;fs;",
+            "D) tpidj; jpupnrhy;"
         ]
     },
     {
         "question_number": 18,
-        "question": "வடமொழியிலிருந்து வந்து தமிழில் இடம்பெறும் சொற்கள்----------- எனப்படும்.",
-        "answer": "B) வடசொற்கள்",
+        "question": " tlnkhopapypUe;J te;J jkpopy; ,lk;ngWk; nrhw;fs;----------- vdg;gLk;.",
+        "answer": "B) tlnrhw;fs;",
         "options": [
-            "A) தொழிற்பெயர்",
-            "B) வடசொற்கள்",
-            "C) வினைத் திரிசொல்",
-            "D) இடைத் திரிசொல்"
+            "A) njhopw;ngah;",
+            "B) tlnrhw;fs;",
+            "C) tpidj; jpupnrhy;",
+            "D) ,ilj; jpupnrhy;"
         ]
     },
     {
         "question_number": 19,
-        "question": "வடசொற்களைத் தற்சமம், தற்பவம் என --------- வகையாகப் பிரிப்பர்.",
-        "answer": "A) 1",
+        "question": "tlnrhw;fisj; jw;rkk;> jw;gtk; vd --------- tifahfg; gpupg;gu;.",
+        "answer": "",
         "options": [
-            "A) 1",
-            "B) 2",
-            "C) 3",
-            "D) 4"
+            "A) c) 1 3",
+            "B) d) 2 4"
         ]
     },
     {
         "question_number": 20,
-        "question": "செயலின் அல்லது வினையின் பெயராக அமைவது------------ எனப்படும்.",
-        "answer": "B) தொழிற்பெயர்",
+        "question": "nraypd; my;yJ tpidapd; ngauhf miktJ------------ vdg;gLk;.",
+        "answer": "B) njhopw;ngau;",
         "options": [
-            "A) படர்க்கை",
-            "B) தொழிற்பெயர்",
-            "C) விகுதி பெற்ற",
-            "D) முதல் நிலை"
+            "A) c) glu;f;if tpFjp ngw;w",
+            "B) njhopw;ngau;",
+            "D) Kjy; epiy"
         ]
     },
     {
         "question_number": 21,
-        "question": "தொழிற்பெயர் -------------- இடத்தில் மட்டும் வரும்.",
-        "answer": "C) படர்க்கை",
+        "question": "njhopw;ngau; -------------- ,lj;jpy; kl;Lk; tUk;.",
+        "answer": "A) c) jpirr;nrhw;fs; glu;f;if",
         "options": [
-            "A) திசைச்சொற்கள்",
-            "B) தொழிற்பெயர்",
-            "C) படர்க்கை",
-            "D) முதல் நிலை"
+            "A) c) jpirr;nrhw;fs; glu;f;if",
+            "B) njhopw;ngau;",
+            "D) Kjy; epiy"
         ]
     },
     {
         "question_number": 22,
-        "question": "வினைப்பகுதியுடன் தொழிற்பெயர் விகுதி சேர்ந்து வருவது------------ தொழிற்பெயராகும்.",
-        "answer": "A) விகுதி பெற்ற",
+        "question": "tpidg;gFjpAld; njhopw;ngau; tpFjp Nru;e;J tUtJ------------ njhopw;ngauhFk;.",
+        "answer": "A) c) tpFjp ngw;w glu;f;if",
         "options": [
-            "A) விகுதி பெற்ற",
-            "B) தொழிற்பெயர்",
-            "C) படர்க்கை",
-            "D) முதல் நிலை"
+            "A) c) tpFjp ngw;w glu;f;if",
+            "B) njhopw;ngau;",
+            "D) Kjy; epiy"
         ]
     },
     {
         "question_number": 23,
-        "question": "ஏவல் ஒருமை வினையாக அமையும் வினைச் சொற்களின் பகுதியை------------- என்பர்.",
-        "answer": "A) முதல் நிலை",
+        "question": "Vty; xUik tpidahf mikAk; tpidr; nrhw;fspd; gFjpia------------- vd;gu;.",
+        "answer": "A) b) Kjy; epiy glu;f;if",
         "options": [
-            "A) முதல் நிலை",
-            "B) படர்க்கை",
-            "C) தொழிற்பெயர்",
-            "D) திசைச்சொற்கள்"
+            "A) b) Kjy; epiy glu;f;if",
+            "C) njhopw;ngau;",
+            "D) jpirr;nrhw;fs;"
         ]
     },
     {
         "question_number": 24,
-        "question": "பகுதியாகிய முதல் நிலை எவ்வகை மாற்றமும் பெறாமல் தொழிற்பெயராக அமைவது------------------- எனப்படும்.",
-        "answer": "D) முதல் நிலைத் தொழிற்பெயர்",
+        "question": "gFjpahfpa Kjy; epiy vt;tif khw;wKk; ngwhky; njhopw;ngauhf miktJ------------------- vdg;gLk;. a) Kjy; epiy",
+        "answer": "C) jpirr;nrhw;fs; d) Kjy; epiyj; njhopw;ngau;",
         "options": [
-            "A) முதல் நிலை",
-            "B) படர்க்கை",
-            "C) திசைச்சொற்கள்",
-            "D) முதல் நிலைத் தொழிற்பெயர்"
+            "B) glu;f;if",
+            "C) jpirr;nrhw;fs; d) Kjy; epiyj; njhopw;ngau;"
         ]
     },
     {
         "question_number": 25,
-        "question": "பகுதியாகிய முதல்நிலை திரிவதால் உருவாகும் தொழிற்பெயர்------- தொழிற்பெயர் எனப்படும்.",
-        "answer": "A) முதல் நிலை திரிந்த",
+        "question": "gFjpahfpa Kjy;epiy jpuptjhy; cUthFk; njhopw;ngau;------- njhopw;ngau; vdg;gLk;. a) Kjy; epiy jpupe;j b) glu;f;if",
+        "answer": "",
         "options": [
-            "A) முதல் நிலை திரிந்த",
-            "B) படர்க்கை",
-            "C) முதல் நிலை",
-            "D) திரிசொற்கள்"
+            "C) Kjy; epiy d) jpupnrhw;fs;"
         ]
     }
 ]
