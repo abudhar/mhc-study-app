@@ -1,700 +1,776 @@
 [
     {
         "question_number": 1,
-        "question": "vOj;jpYk; Ngr;rpYk; nrhw;fisg; gad;gLj;Jk; Kiw ------------- vd;gu;?",
-        "answer": "A) tof;F",
+        "question": "எழுத்திலும் பேச்சிலும் சொற்களைப் பயன்படுத்தும் முறை ------------- என்பர்?",
         "options": [
-            "A) tof;F",
-            "B) jFjp tof;F",
-            "C) d) ,ay;G tof;F ,yf;fzk;"
-        ]
+            "A) வழக்கு",
+            "B) தகுதி வழக்கு",
+            "C) இயல்பு வழக்கு",
+            "D) இலக்கணம்"
+        ],
+        "answer": "A) வழக்கு"
     },
     {
         "question_number": 2,
-        "question": ",ay;G tof;F> jFjp tof;F vd tof;F------------ tifg;gLk;?",
-        "answer": "",
+        "question": "இயல்பு வழக்கு, தகுதி வழக்கு என வழக்கு------------ வகைப்படும்?",
         "options": [
             "A) 5",
-            "C) 2",
-            "D) d) 4 3"
-        ]
+            "B) 2",
+            "C) 4",
+            "D) 3"
+        ],
+        "answer": "A) 5"
     },
     {
         "question_number": 3,
-        "question": "xU nghUis mjw;Nf cupa ,ay;ghd nrhw;fshy; Fwpg;gpLtJ------ MFk;.",
-        "answer": "A) tof;F",
+        "question": "ஒரு பொருளை அதற்கே உரிய இயல்பான சொற்களால் குறிப்பிடுவது------ ஆகும்.",
         "options": [
-            "A) tof;F",
-            "B) d) ,ay;G tof;F ,yf;fzk;",
-            "C) jFjp tof;F"
-        ]
+            "A) வழக்கு",
+            "B) தகுதி வழக்கு",
+            "C) இயல்பு வழக்கு",
+            "D) இலக்கணம்"
+        ],
+        "answer": "C) இயல்பு வழக்கு"
     },
     {
         "question_number": 4,
-        "question": ",ay;G tof;F------------ tifg;gLk;.",
-        "answer": "",
+        "question": "இயல்பு வழக்கு------------ வகைப்படும்.",
         "options": [
             "A) 1",
-            "B) d) 2 4",
-            "C) 3"
-        ]
+            "B) 3",
+            "C) 2",
+            "D) 4"
+        ],
+        "answer": "A) 1"
     },
     {
         "question_number": 5,
-        "question": ",yf;fz Kiwg;gb mikahtpl;lhYk;> ,yf;fzKilait NghyNt Vw;Wf; nfhs;sg;gLk; nrhw;fs;--------------- vdg;gLk;.",
-        "answer": "C) ,yf;fzg;Nghyp",
+        "question": "இலக்கண முறைப்படி அமையாவிட்டாலும், இலக்கணமுடையவை போலவே ஏற்றுக் கொள்ளப்படும் சொற்கள்--------------- எனப்படும்.",
         "options": [
-            "A) ,ay;G tof;F",
-            "B) d) tof;F ,yf;fzk;",
-            "C) ,yf;fzg;Nghyp"
-        ]
+            "A) இயல்பு வழக்கு",
+            "B) இலக்கணப்போலி",
+            "C) வழக்கு",
+            "D) இலக்கணம்"
+        ],
+        "answer": "B) இலக்கணப்போலி"
     },
     {
         "question_number": 6,
-        "question": ",yf;fz newp khwhky; Kiwahf mike;j nrhy;----------- cilaJ MFk;.",
-        "answer": "B) d) ,yf;fzk; tof;F",
+        "question": "இலக்கண நெறி மாறாமல் முறையாக அமைந்த சொல்----------- உடையது ஆகும்.",
         "options": [
-            "A) ,ay;G tof;F",
-            "B) d) ,yf;fzk; tof;F",
-            "C) ,yf;fzg;Nghyp"
-        ]
+            "A) இயல்பு வழக்கு",
+            "B) இலக்கணப்போலி",
+            "C) இலக்கணம்",
+            "D) வழக்கு"
+        ],
+        "answer": "C) இலக்கணம்"
     },
     {
         "question_number": 7,
-        "question": ",yf;fzg;Nghypahfpa------------- vd;gJ ngUk;ghYk; nrhw;fspd; Kd;gpd; gFjpfs; ,lk;khwp tUtijNa Fwpf;Fk;.",
-        "answer": "A) c) ,ay;G tof;F nrhw;Nghyp",
+        "question": "இலக்கணப்போலியாகிய------------- என்பது பெரும்பாலும் சொற்களின் முன்பின் பகுதிகள் இடம்மாறி வருவதையே குறிக்கும்.",
         "options": [
-            "A) c) ,ay;G tof;F nrhw;Nghyp",
-            "B) ,yf;fzk;",
-            "D) tof;F"
-        ]
+            "A) இயல்பு வழக்கு",
+            "B) சொற்போலி",
+            "C) இலக்கணம்",
+            "D) வழக்கு"
+        ],
+        "answer": "B) சொற்போலி"
     },
     {
         "question_number": 8,
-        "question": ",yf;fzg; Nghypia ---------------- vdTk; Fwpg;gpLtu;.",
-        "answer": "B) Kd;gpd;dhfj; njhf;f Nghyp",
+        "question": "இலக்கணப் போலியை ---------------- எனவும் குறிப்பிடுவர்.",
         "options": [
-            "A) c) ,yf;fzk; nrhw;Nghyp",
-            "B) Kd;gpd;dhfj; njhf;f Nghyp",
-            "D) tof;F"
-        ]
+            "A) இலக்கணம்",
+            "B) சொற்போலி",
+            "C) முன்பின்னாகத் தொக்க போலி",
+            "D) வழக்கு"
+        ],
+        "answer": "C) முன்பின்னாகத் தொக்க போலி"
     },
     {
         "question_number": 9,
-        "question": "nrhy;ypd; KjypNyh> ,ilapNyh> ,WjpapNyh ,ay;ghf ,Uf;f Ntz;ba Xu; vOj;jpw;Fg; gjpyhf NtW Xu; vOj;J ,lk;ngWk; mNj nghUs; jUtJ--------------- vdg;gLk;.",
-        "answer": "A) c) nrhy; vOj;Jg;Nghyp",
+        "question": "சொல்லின் முதலிலோ, இடையிலோ, இறுதியிலோ இயல்பாக இருக்க வேண்டிய ஓர் எழுத்திற்குப் பதிலாக வேறு ஓர் எழுத்து இடம்பெறும் அதே பொருள் தருவது--------------- எனப்படும்.",
         "options": [
-            "A) c) nrhy; vOj;Jg;Nghyp",
-            "B) d) Kjw;Nghyp ,yf;fzk;"
-        ]
+            "A) சொல்",
+            "B) எழுத்துப்போலி",
+            "C) முதற்போலி",
+            "D) இலக்கணம்"
+        ],
+        "answer": "B) எழுத்துப்போலி"
     },
     {
         "question_number": 10,
-        "question": "vOj;Jg;Nghyp------------------- tifg;gLk;.",
-        "answer": "",
+        "question": "எழுத்துப்போலி------------------- வகைப்படும்.",
         "options": [
-            "A) c) 1 3",
-            "B) 2",
+            "A) 1",
+            "B) 3",
+            "C) 2",
             "D) 4"
-        ]
+        ],
+        "answer": "A) 1"
     },
     {
         "question_number": 11,
-        "question": "nrhy;ypd; Kjypy; ,Uf;f Ntz;ba vOj;jpw;Fg; gjpyhf NtW Xu; vOj;J mike;J mNj nghUs; jUtJ---------------- MFk;?",
-        "answer": "B) nrhy;",
+        "question": "சொல்லின் முதலில் இருக்க வேண்டிய எழுத்திற்குப் பதிலாக வேறு ஓர் எழுத்து அமைந்து அதே பொருள் தருவது---------------- ஆகும்?",
         "options": [
-            "B) nrhy;",
-            "C) Kjw;Nghyp e) d) vOj;Jg;Nghyp ,yf;fzk;"
-        ]
+            "A) சொல்",
+            "B) முதற்போலி",
+            "D) இலக்கணம்"
+        ],
+        "answer": "B) முதற்போலி"
     },
     {
         "question_number": 12,
-        "question": "nrhy;ypd; ,ilapy; ,Uf;f Ntz;ba vOj;jpw;Fg; gjpyhf NtW Xu; vOj;J mike;J mNj nghUs; jUtJ--------------MFk;?",
-        "answer": "A) nrhy;",
+        "question": "சொல்லின் இடையில் இருக்க வேண்டிய எழுத்திற்குப் பதிலாக வேறு ஓர் எழுத்து அமைந்து அதே பொருள் தருவது--------------ஆகும்?",
         "options": [
-            "A) nrhy;",
-            "C) ,ilg;Nghyp f) d) vOj;Jg;Nghyp Kjw;Nghyp"
-        ]
+            "A) சொல்",
+            "B) இடைப்போலி",
+            "D) முதற்போலி"
+        ],
+        "answer": "B) இடைப்போலி"
     },
     {
         "question_number": 13,
-        "question": "nrhy;ypd; ,ilapy; tUk; Ifhu vOj;jpw;Fg; gjpyhf --------- Nghypahf tUk;.",
-        "answer": "A) mfuk;",
+        "question": "சொல்லின் இடையில் வரும் ஐகார எழுத்திற்குப் பதிலாக --------- போலியாக வரும்.",
         "options": [
-            "A) mfuk;",
-            "B) d) nrhy; vOj;J",
-            "C) ,ilg;Nghyp"
-        ]
+            "A) அகரம்",
+            "B) இடைப்போலி",
+            "C) சொல்",
+            "D) எழுத்து"
+        ],
+        "answer": "A) அகரம்"
     },
     {
         "question_number": 14,
-        "question": "nrhy;ypd; ,Wjpapy; ,Uf;f Ntz;ba vOj;jpw;Fg; gjpyhf NtW Xu; vOj;J mike;J mNj nghUs; jUtJ------------ MFk;.",
-        "answer": "A) c) mfuk; filg;Nghyp",
+        "question": "சொல்லின் இறுதியில் இருக்க வேண்டிய எழுத்திற்குப் பதிலாக வேறு ஓர் எழுத்து அமைந்து அதே பொருள் தருவது------------ ஆகும்.",
         "options": [
-            "A) c) mfuk; filg;Nghyp",
-            "B) d) nrhy; vOj;J"
-        ]
+            "A) அகரம்",
+            "B) கடைப்போலி",
+            "C) சொல்",
+            "D) எழுத்து"
+        ],
+        "answer": "B) கடைப்போலி"
     },
     {
         "question_number": 15,
-        "question": "mQ;R vd;Dk; nrhy; Ie;J vd;Dk; nrhy;ypd; ---------------- tbtkhFk;.",
-        "answer": "A) c) Nghyp mfuk;",
+        "question": "அஞ்சு என்னும் சொல் ஐந்து என்னும் சொல்லின் ---------------- வடிவமாகும்.",
         "options": [
-            "A) c) Nghyp mfuk;",
-            "B) nrhy;",
-            "D) vOj;J"
-        ]
+            "A) போலி",
+            "B) அகரம்",
+            "C) சொல்",
+            "D) எழுத்து"
+        ],
+        "answer": "A) போலி"
     },
     {
         "question_number": 16,
-        "question": "xU nrhy;ypy; ,ay;ghf mike;j vOj;JfSf;Fg; gjpyhf vOj;Jfs; midj;Jk; NtWgl;lhYk; nghUs; khwhky; ,Ug;gJ--------- vdg;gLk;.",
-        "answer": "C) Kw;Wg;Nghyp",
+        "question": "ஒரு சொல்லில் இயல்பாக அமைந்த எழுத்துகளுக்குப் பதிலாக எழுத்துகள் அனைத்தும் வேறுபட்டாலும் பொருள் மாறாமல் இருப்பது--------- எனப்படும்.",
         "options": [
-            "A) b) Nghyp mfuk;",
-            "C) Kw;Wg;Nghyp",
-            "D) vOj;J"
-        ]
+            "A) போலி",
+            "B) அகரம்",
+            "C) முற்றுப்போலி",
+            "D) எழுத்து"
+        ],
+        "answer": "C) முற்றுப்போலி"
     },
     {
         "question_number": 17,
-        "question": ",ay;G tof;fpd; %d;whtJ tif-------- vd;gjhFk;.",
-        "answer": "D) k&c",
+        "question": "இயல்பு வழக்கின் மூன்றாவது வகை-------- என்பதாகும்.",
         "options": [
-            "A) b) Nghyp mfuk;",
-            "C) Kjw;Nghyp",
-            "D) k&c"
-        ]
+            "A) போலி",
+            "B) அகரம்",
+            "C) முதற்போலி",
+            "D) மரூஉ"
+        ],
+        "answer": "D) மரூஉ"
     },
     {
         "question_number": 18,
-        "question": ",yf;fz newpapypUe;J gpwo;e;J> rpije;J toq;Fk; nrhw;fs; --------------vdg;gLk;.",
-        "answer": "A) c) Nghyp mfuk;",
+        "question": "இலக்கண நெறியிலிருந்து பிறழ்ந்து, சிதைந்து வழங்கும் சொற்கள் --------------எனப்படும்.",
         "options": [
-            "A) c) Nghyp mfuk;",
-            "B) d) k&c Kjw;Nghyp"
-        ]
+            "A) போலி",
+            "B) அகரம்",
+            "C) மரூஉ",
+            "D) முதற்போலி"
+        ],
+        "answer": "C) மரூஉ"
     },
     {
         "question_number": 19,
-        "question": "VNjDk; xU fhuzj;jpdhy; gpwuplk; nrhy;yj; jFjpaw;w nrhw;fisj; jFjpahd NtW nrhw;fshy; Fwpg;gpLtJ------------ MFk;.",
-        "answer": "A) c) nrhy; jFjp tof;F",
+        "question": "ஏதேனும் ஒரு காரணத்தினால் பிறரிடம் சொல்லத் தகுதியற்ற சொற்களைத் தகுதியான வேறு சொற்களால் குறிப்பிடுவது------------ ஆகும்.",
         "options": [
-            "A) c) nrhy; jFjp tof;F",
-            "B) Nghyp",
-            "D) ,yf;fzk;"
-        ]
+            "A) சொல்",
+            "B) தகுதி வழக்கு",
+            "C) போலி",
+            "D) இலக்கணம்"
+        ],
+        "answer": "B) தகுதி வழக்கு"
     },
     {
         "question_number": 20,
-        "question": "jFjp tof;F------------- tifg;gLk;.",
-        "answer": "",
+        "question": "தகுதி வழக்கு------------- வகைப்படும்.",
         "options": [
-            "A) c) 1 3",
-            "B) 2",
+            "A) 1",
+            "B) 3",
+            "C) 2",
             "D) 4"
-        ]
+        ],
+        "answer": "A) 1"
     },
     {
         "question_number": 21,
-        "question": "gpwuplk; ntspg;gilahfr; nrhy;yj; jfhj nrhw;fisj; jFjpAila NtW nrhw;fshy; $WtJ------------- MFk;?",
-        "answer": "A) ,lf;fulf;fy;",
+        "question": "பிறரிடம் வெளிப்படையாகச் சொல்லத் தகாத சொற்களைத் தகுதியுடைய வேறு சொற்களால் கூறுவது------------- ஆகும்?",
         "options": [
-            "A) ,lf;fulf;fy;",
-            "B) d)mfuk; nrhy;",
-            "C) Nghyp"
-        ]
+            "A) இடக்கரடக்கல்",
+            "B) போலி",
+            "C) ன)அகரம்"
+        ],
+        "answer": "A) இடக்கரடக்கல்"
     },
     {
         "question_number": 22,
-        "question": "kq;fykpy;yhj nrhw;fis NtW nrhw;fshy; Fwpg;gij----------- vd;gu;.",
-        "answer": "A) Kq;fyk;",
+        "question": "மங்கலமில்லாத சொற்களை வேறு சொற்களால் குறிப்பதை----------- என்பர்.",
         "options": [
-            "A) Kq;fyk;",
-            "B) d) Nghyp mfuk;",
-            "C) nrhy;"
-        ]
+            "A) முங்கலம்",
+            "B) சொல்",
+            "C) போலி",
+            "D) அகரம்"
+        ],
+        "answer": "A) முங்கலம்"
     },
     {
         "question_number": 23,
-        "question": "xU FOtpdu; xU nghUs; my;yJ nraiyf; Fwpf;fj; jkf;Fs; gad;gLj;jpf; nfhs;Sk; nrhw;fs;-------------- vdg;gLk;.",
-        "answer": "B) d) Nghyp F*cf;Fwp",
+        "question": "ஒரு குழுவினர் ஒரு பொருள் அல்லது செயலைக் குறிக்கத் தமக்குள் பயன்படுத்திக் கொள்ளும் சொற்கள்-------------- எனப்படும்.",
         "options": [
-            "A) kq;fyk;",
-            "B) d) Nghyp F*cf;Fwp",
-            "C) mfuk;"
-        ]
+            "A) மங்கலம்",
+            "B) அகரம்",
+            "C) போலி",
+            "D) குழூஉக்குறி"
+        ],
+        "answer": "D) குழூஉக்குறி"
     },
     {
         "question_number": 24,
-        "question": "jpiz-------------- tifg;gLk;.",
-        "answer": "",
+        "question": "திணை-------------- வகைப்படும்.",
         "options": [
-            "A) c) 2 4",
-            "B) 3",
+            "A) 2",
+            "B) 4",
+            "C) 3",
             "D) 5"
-        ]
+        ],
+        "answer": "A) 2"
     },
     {
         "question_number": 25,
-        "question": "MW mwpTila kdpju;fis---------------- vd;gu;.",
-        "answer": "D) c) Rl;L vOj;Jfs; mfuk; e) Gwr;Rl;L d) cau;jpiz",
+        "question": "ஆறு அறிவுடைய மனிதர்களை---------------- என்பர்.",
         "options": [
-            "D) c) Rl;L vOj;Jfs; mfuk; e) Gwr;Rl;L d) cau;jpiz"
-        ]
+            "A) சுட்டு எழுத்துகள்",
+            "B) அகரம்",
+            "D) உயர்திணை"
+        ],
+        "answer": "D) உயர்திணை"
     },
     {
         "question_number": 26,
-        "question": "Gwitfs;> tpyq;Ffpdq;fs;> jhtuq;fs; Mfpatw;iwAk; capuw;w nghUs;fisAk;----------------- vd;gu;.",
-        "answer": "D) c) Rl;Lj;jphpG m/wpiz e) Nra;ikr;Rl;L d) mz;ikr;Rl;L",
+        "question": "புறவைகள், விலங்குகினங்கள், தாவரங்கள் ஆகியவற்றையும் உயிரற்ற பொருள்களையும்----------------- என்பர்.",
         "options": [
-            "D) c) Rl;Lj;jphpG m/wpiz e) Nra;ikr;Rl;L d) mz;ikr;Rl;L"
-        ]
+            "A) சுட்டுத்திரிபு",
+            "B) அஃறிணை",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "B) அஃறிணை"
     },
     {
         "question_number": 27,
-        "question": "ghy;----------- tifg;gLk;.",
-        "answer": "",
+        "question": "பால்----------- வகைப்படும்.",
         "options": [
-            "A) c) 4 6",
-            "B) 5",
+            "A) 4",
+            "B) 6",
+            "C) 5",
             "D) 7"
-        ]
+        ],
+        "answer": "A) 4"
     },
     {
         "question_number": 28,
-        "question": "Xu; Miz Fwpg;gJ----------------.",
-        "answer": "C) Mz; ghy;",
+        "question": "ஓர் ஆணை குறிப்பது----------------.",
         "options": [
-            "A) gytpd; ghy;",
-            "B) d) gyu; ghy; ngz; ghy;",
-            "C) Mz; ghy;"
-        ]
+            "A) பலவின் பால்",
+            "B) ஆண் பால்",
+            "C) பலர் பால்",
+            "D) பெண் பால்"
+        ],
+        "answer": "B) ஆண் பால்"
     },
     {
         "question_number": 29,
-        "question": "Xu; ngz;iz Fwpg;gJ------------------.",
-        "answer": "A) c) gytpd; ghy; Mz; ghy;",
+        "question": "ஓர் பெண்ணை குறிப்பது------------------.",
         "options": [
-            "A) c) gytpd; ghy; Mz; ghy;",
-            "B) d) gyu; ghy; ngz; ghy;"
-        ]
+            "A) பலவின்",
+            "B) பால் ஆண் பால்",
+            "C) பலர் பால்",
+            "D) பெண் பால்"
+        ],
+        "answer": "D) பெண் பால்"
     },
     {
         "question_number": 30,
-        "question": "xUtUf;F Nkw;gl;ltu;fisf; Fwpg;gJ------------------.",
-        "answer": "C) gytpd; ghy;",
+        "question": "ஒருவருக்கு மேற்பட்டவர்களைக் குறிப்பது------------------.",
         "options": [
-            "B) Mz; ghy; g) d) gyu; ghy; ngz; ghy;",
-            "C) gytpd; ghy;"
-        ]
+            "A) பலவின் பால்",
+            "B) ஆண் பால்",
+            "D) பெண் பால்"
+        ],
+        "answer": "A) பலவின் பால்"
     },
     {
         "question_number": 31,
-        "question": "xd;iwf; Fwpg;gJ------------------.",
-        "answer": "A) xd;wd; ghy;",
+        "question": "ஒன்றைக் குறிப்பது------------------.",
         "options": [
-            "A) xd;wd; ghy;",
-            "B) d) gyu; ghy; ngz; ghy;",
-            "C) Mz; ghy;"
-        ]
+            "A) ஒன்றன் பால்",
+            "B) ஆண் பால்",
+            "C) பலர் பால்",
+            "D) பெண் பால்"
+        ],
+        "answer": "A) ஒன்றன் பால்"
     },
     {
         "question_number": 32,
-        "question": "xd;Wf;F Nkw;gl;ltw;iwf; Fwpg;gJ----------------.",
-        "answer": "B) d) gyu; ghy; gytpd; ghy;",
+        "question": "ஒன்றுக்கு மேற்பட்டவற்றைக் குறிப்பது----------------.",
         "options": [
-            "A) ngz; ghy;",
-            "B) d) gyu; ghy; gytpd; ghy;",
-            "C) Mz; ghy;"
-        ]
+            "A) பெண் பால்",
+            "B) ஆண் பால்",
+            "C) பலர் பால்",
+            "D) பலவின் பால்"
+        ],
+        "answer": "D) பலவின் பால்"
     },
     {
         "question_number": 33,
-        "question": "jkpopy; xUik> gd;ik vd vz; --------- tifg;gLk;.",
-        "answer": "",
+        "question": "தமிழில் ஒருமை, பன்மை என எண் --------- வகைப்படும்.",
         "options": [
             "A) 1",
-            "B) d) 3 4",
-            "C) 2"
-        ]
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "A) 1"
     },
     {
         "question_number": 34,
-        "question": "xUtiuNah xd;iwNah kl;Lk; Fwpg;gJ-----------MFk;.",
-        "answer": "C) xUik",
+        "question": "ஒருவரையோ ஒன்றையோ மட்டும் குறிப்பது-----------ஆகும்.",
         "options": [
-            "A) Mz;",
-            "B) d) ngz; gd;ik",
-            "C) xUik"
-        ]
+            "A) ஆண்",
+            "B) ஒருமை",
+            "C) பெண்",
+            "D) பன்மை"
+        ],
+        "answer": "B) ஒருமை"
     },
     {
         "question_number": 35,
-        "question": "xd;Wf;F Nkw;gl;ltw;iwf; Fwpg;gJ----------- MFk;.",
-        "answer": "A) c) nrhy; xUik",
+        "question": "ஒன்றுக்கு மேற்பட்டவற்றைக் குறிப்பது----------- ஆகும்.",
         "options": [
-            "A) c) nrhy; xUik",
-            "B) d) Rl;Lj;jphpG gd;ik"
-        ]
+            "A) சொல்",
+            "B) ஒருமை",
+            "C) சுட்டுத்திரிபு",
+            "D) பன்மை"
+        ],
+        "answer": "D) பன்மை"
     },
     {
         "question_number": 36,
-        "question": ",lk;----------- tifg;gLk;.",
-        "answer": "",
+        "question": "இடம்----------- வகைப்படும்.",
         "options": [
-            "A) 1 c) 3",
-            "B) 2",
+            "A) 1",
+            "B) 3",
+            "C) 2",
             "D) 4"
-        ]
+        ],
+        "answer": "A) 1"
     },
     {
         "question_number": 37,
-        "question": " jd;id Fwpg;gJ-------------.",
-        "answer": "A) jd;ik",
+        "question": " தன்னை குறிப்பது-------------.",
         "options": [
-            "A) jd;ik",
-            "B) chpr;nrhy;",
-            "C) nray;",
-            "D) ngah;r;nrhy;"
-        ]
+            "A) தன்மை",
+            "B) செயல்",
+            "C) உரிச்சொல்",
+            "D) பெயர்ச்சொல்"
+        ],
+        "answer": "A) தன்மை"
     },
     {
         "question_number": 38,
-        "question": " jd;ik xUik> jd;ik gd;ik vd ------------- tifg;gLk;.",
-        "answer": "",
+        "question": " தன்மை ஒருமை, தன்மை பன்மை என ------------- வகைப்படும்.",
         "options": [
             "A) 4",
             "B) 2",
             "C) 1",
             "D) 3"
-        ]
+        ],
+        "answer": "A) 4"
     },
     {
         "question_number": 39,
-        "question": "Kd;dhy; ,Ug;gtiuf; Fwpg;gJ-----------------?",
-        "answer": "",
+        "question": "முன்னால் இருப்பவரைக் குறிப்பது-----------------?",
         "options": [
-            "A) ,ilr;nrhy;",
-            "B) chpr;nrhy;",
-            "C) d) tpidr;nrhy; Kd;dpiy"
-        ]
+            "A) இடைச்சொல்",
+            "B) உரிச்சொல்",
+            "C) வினைச்சொல்",
+            "D) முன்னிலை"
+        ],
+        "answer": "D) முன்னிலை"
     },
     {
         "question_number": 40,
-        "question": "Kd;dpiy xUik> Kd;dpiy gd;ik vd----------- tifg;gLk;.",
-        "answer": "",
+        "question": "முன்னிலை ஒருமை, முன்னிலை பன்மை என----------- வகைப்படும்.",
         "options": [
-            "A) b) 1 2",
-            "C) d) 3 4"
-        ]
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "A) 1"
     },
     {
         "question_number": 41,
-        "question": "jd;idAk; Kd;dhy; ,Ug;gtiuAk; my;yhky; %d;whktiuf; Fwpg;gJ------------------ MFk;.",
-        "answer": "A) b) glu;f;if ngah;r;nrhy;",
+        "question": "தன்னையும் முன்னால் இருப்பவரையும் அல்லாமல் மூன்றாமவரைக் குறிப்பது------------------ ஆகும்.",
         "options": [
-            "A) b) glu;f;if ngah;r;nrhy;",
-            "C) chpr;nrhy;",
-            "D) tpidr;nrhy;"
-        ]
+            "A) படர்க்கை",
+            "B) பெயர்ச்சொல்",
+            "C) உரிச்சொல்",
+            "D) வினைச்சொல்"
+        ],
+        "answer": "A) படர்க்கை"
     },
     {
         "question_number": 42,
-        "question": "fhyk;-------------- tifg;gLk;.",
-        "answer": "C) %d;W",
+        "question": "காலம்-------------- வகைப்படும்.",
         "options": [
-            "A) b) ,uz;L MW",
-            "C) %d;W",
-            "D) Ie;J"
-        ]
+            "A) இரண்டு",
+            "B) ஆறு",
+            "C) மூன்று",
+            "D) ஐந்து"
+        ],
+        "answer": "A) இரண்டு"
     },
     {
         "question_number": 43,
-        "question": "ele;j nraiyf; Fwpg;gJ------------- MFk;.",
-        "answer": "D) ,we;j fhyk;",
+        "question": "நடந்த செயலைக் குறிப்பது------------- ஆகும்.",
         "options": [
-            "A) b) vjpu; fhyk; epfo; fhyk;",
-            "C) chpr;nrhy;",
-            "D) ,we;j fhyk;"
-        ]
+            "A) எதிர்",
+            "B) காலம் நிகழ் காலம்",
+            "C) உரிச்சொல்",
+            "D) இறந்த காலம்"
+        ],
+        "answer": "A) எதிர்"
     },
     {
         "question_number": 44,
-        "question": "elf;fpd;w nraiyf; Fwpg;gJ--------------- MFk;.",
-        "answer": "D) ,we;j fhyk;",
+        "question": "நடக்கின்ற செயலைக் குறிப்பது--------------- ஆகும்.",
         "options": [
-            "A) b) njhopw;ngah; epfo; fhyk;",
-            "C) gz;Gg;ngah;",
-            "D) ,we;j fhyk;"
-        ]
+            "A) தொழிற்பெயர்",
+            "B) நிகழ் காலம்",
+            "C) பண்புப்பெயர்",
+            "D) இறந்த காலம்"
+        ],
+        "answer": "A) தொழிற்பெயர்"
     },
     {
         "question_number": 45,
-        "question": "elf;ftpUf;Fk; nraiyf; Fwpg;gJ---------------MFk;.",
-        "answer": "D) vjpu; fhyk;",
+        "question": "நடக்கவிருக்கும் செயலைக் குறிப்பது---------------ஆகும்.",
         "options": [
-            "A) b) njhopw;ngah; epfo; fhyk;",
-            "C) gz;Gg;ngah;",
-            "D) vjpu; fhyk;"
-        ]
+            "A) தொழிற்பெயர்",
+            "B) நிகழ் காலம்",
+            "C) பண்புப்பெயர்",
+            "D) எதிர் காலம்"
+        ],
+        "answer": "A) தொழிற்பெயர்"
     },
     {
         "question_number": 46,
-        "question": ",ul;ilahf ,ize;J te;J> gpupe;jhy; jdpg; nghUs; juhj nrhw;fis-------------------- vd;gu;.",
-        "answer": "A) b) ,ul;ilf;fpstp rpidg;ngah;",
+        "question": "இரட்டையாக இணைந்து வந்து, பிரிந்தால் தனிப் பொருள் தராத சொற்களை-------------------- என்பர்.",
         "options": [
-            "A) b) ,ul;ilf;fpstp rpidg;ngah;",
-            "C) mLf;Fj;njhlu;",
-            "D) ,lg;ngah;"
-        ]
+            "A) இரட்டைக்கிளவி",
+            "B) சினைப்பெயர்",
+            "C) அடுக்குத்தொடர்",
+            "D) இடப்பெயர்"
+        ],
+        "answer": "A) இரட்டைக்கிளவி"
     },
     {
         "question_number": 47,
-        "question": " xU nrhy; xd;Wf;F Nkw;gl;l Kiw njhlu;e;J tUtij--------- vd;gu;.",
-        "answer": "C) mLf;Fj;njhlu;",
+        "question": " ஒரு சொல் ஒன்றுக்கு மேற்பட்ட முறை தொடர்ந்து வருவதை--------- என்பர்.",
         "options": [
-            "A) b) ,ul;ilf;fpstp rpidg;ngah;",
-            "C) mLf;Fj;njhlu;",
-            "D) ,lg;ngah;"
-        ]
+            "A) இரட்டைக்கிளவி",
+            "B) சினைப்பெயர்",
+            "C) அடுக்குத்தொடர்",
+            "D) இடப்பெயர்"
+        ],
+        "answer": "A) இரட்டைக்கிளவி"
     },
     {
         "question_number": 48,
-        "question": " nrhw;fisg; gpupj;jhy; nghUs; juhjJ------------------.",
-        "answer": "A) b) gz;Gg;ngah; ,ul;ilf;fpstp",
+        "question": " சொற்களைப் பிரித்தால் பொருள் தராதது------------------.",
         "options": [
-            "A) b) gz;Gg;ngah; ,ul;ilf;fpstp",
-            "C) njhopw;ngah;",
-            "D) mLf;Fj;njhlu;"
-        ]
+            "A) பண்புப்பெயர்",
+            "B) இரட்டைக்கிளவி",
+            "C) தொழிற்பெயர்",
+            "D) அடுக்குத்தொடர்"
+        ],
+        "answer": "A) பண்புப்பெயர்"
     },
     {
         "question_number": 49,
-        "question": " nrhw;fisg; gpupj;jhy; nghUs; jUtJ-----------------.",
-        "answer": "D) mLf;Fj;njhlu;",
+        "question": " சொற்களைப் பிரித்தால் பொருள் தருவது-----------------.",
         "options": [
-            "A) Ie;J",
-            "B) ,ul;ilf;fpstp",
-            "C) ,uz;L",
-            "D) mLf;Fj;njhlu;"
-        ]
+            "A) ஐந்து",
+            "B) இரட்டைக்கிளவி",
+            "C) இரண்டு",
+            "D) அடுக்குத்தொடர்"
+        ],
+        "answer": "A) ஐந்து"
     },
     {
         "question_number": 50,
-        "question": "xU nrhy; ,uz;LKiw kl;Lk; tUtJ---------------.",
-        "answer": "B) ,ul;ilf;fpstp",
+        "question": "ஒரு சொல் இரண்டுமுறை மட்டும் வருவது---------------.",
         "options": [
-            "A) ,LFwpg;ngah;fs;",
-            "B) ,ul;ilf;fpstp",
-            "C) d) rpidg;ngah; mLf;Fj;njhlu;"
-        ]
+            "A) இடுகுறிப்பெயர்கள்",
+            "B) இரட்டைக்கிளவி",
+            "C) சினைப்பெயர்",
+            "D) அடுக்குத்தொடர்"
+        ],
+        "answer": "A) இடுகுறிப்பெயர்கள்"
     },
     {
         "question_number": 51,
-        "question": "xU nrhy; ,uz;L Kjy; ehd;F Kiw tUtJ-----------------.",
-        "answer": "A) b) mLf;Fj;njhlu; nrhy;",
+        "question": "ஒரு சொல் இரண்டு முதல் நான்கு முறை வருவது-----------------.",
         "options": [
-            "A) b) mLf;Fj;njhlu; nrhy;",
-            "C) d) ,ul;ilf;fpstp Nghyp"
-        ]
+            "A) அடுக்குத்தொடர்",
+            "B) சொல்",
+            "C) இரட்டைக்கிளவி",
+            "D) போலி"
+        ],
+        "answer": "A) அடுக்குத்தொடர்"
     },
     {
         "question_number": 52,
-        "question": "nrhw;fs; ,ize;J epw;gJ----------------.",
-        "answer": "C) ,ul;ilf;fpstp",
+        "question": "சொற்கள் இணைந்து நிற்பது----------------.",
         "options": [
-            "A) b) mLf;Fj;njhlu; njhopw;ngah;",
-            "C) ,ul;ilf;fpstp",
-            "D) ,LFwpg;nghJg; ngah;"
-        ]
+            "A) அடுக்குத்தொடர்",
+            "B) தொழிற்பெயர்",
+            "C) இரட்டைக்கிளவி",
+            "D) இடுகுறிப்பொதுப் பெயர்"
+        ],
+        "answer": "A) அடுக்குத்தொடர்"
     },
     {
         "question_number": 53,
-        "question": "nrhw;fs; jdpj;jdpNa epw;gJ----------------.",
-        "answer": "D) mLf;Fj;njhlu;",
+        "question": "சொற்கள் தனித்தனியே நிற்பது----------------.",
         "options": [
-            "A) b) gz;Gg;ngah; ,ul;ilf;fpstp",
-            "C) rpidg;ngah;",
-            "D) mLf;Fj;njhlu;"
-        ]
+            "A) பண்புப்பெயர்",
+            "B) இரட்டைக்கிளவி",
+            "C) சினைப்பெயர்",
+            "D) அடுக்குத்தொடர்"
+        ],
+        "answer": "A) பண்புப்பெயர்"
     },
     {
         "question_number": 54,
-        "question": "tpidr; nrhy;Yf;F milnkhopahf Fwpg;gJg; nghUspy; tUtJ------------------.",
-        "answer": "C) ,ul;ilf;fpstp",
+        "question": "வினைச் சொல்லுக்கு அடைமொழியாக குறிப்பதுப் பொருளில் வருவது------------------.",
         "options": [
-            "A) b) mLf;Fj;njhlu; gz;Gg;ngah;",
-            "C) ,ul;ilf;fpstp",
-            "D) rpidg;ngah;"
-        ]
+            "A) அடுக்குத்தொடர்",
+            "B) பண்புப்பெயர்",
+            "C) இரட்டைக்கிளவி",
+            "D) சினைப்பெயர்"
+        ],
+        "answer": "A) அடுக்குத்தொடர்"
     },
     {
         "question_number": 55,
-        "question": "tpiuT> ntFsp> ctif> mr;rk;> mtyk; Mfpa nghUs;fspy; tUtJ----------------- MFk;.",
-        "answer": "C) mLf;Fj;njhlu;",
+        "question": "விரைவு, வெகுளி, உவகை, அச்சம், அவலம் ஆகிய பொருள்களில் வருவது----------------- ஆகும்.",
         "options": [
-            "A) b) ,ul;ilf;fpstp gz;Gg;ngah;",
-            "C) mLf;Fj;njhlu;",
-            "D) rpidg;ngah;"
-        ]
+            "A) இரட்டைக்கிளவி",
+            "B) பண்புப்பெயர்",
+            "C) அடுக்குத்தொடர்",
+            "D) சினைப்பெயர்"
+        ],
+        "answer": "A) இரட்டைக்கிளவி"
     },
     {
         "question_number": 56,
-        "question": "mwptpdh> mwpahtpdh> Iatpdh> nfhsy; tpdh> nfhil tpdh> Vty; tpdh vd;W tpdh------------- tifg;gLk;.",
-        "answer": "",
+        "question": "அறிவினா, அறியாவினா, ஐயவினா, கொளல் வினா, கொடை வினா, ஏவல் வினா என்று வினா------------- வகைப்படும்.",
         "options": [
-            "A) b) 5 6",
+            "A) 5",
+            "B) 6",
             "C) 8",
             "D) 7"
-        ]
+        ],
+        "answer": "A) 5"
     },
     {
         "question_number": 57,
-        "question": "jhd; tpil mwpe;jpUe;Jk; mt;tpil gpwUf;F njupAkh vd;gij mwpAk; nghUl;Lf; Nfl;gJ------------------.",
-        "answer": "D) mwpahtpdh",
+        "question": "தான் விடை அறிந்திருந்தும் அவ்விடை பிறருக்கு தெரியுமா என்பதை அறியும் பொருட்டுக் கேட்பது------------------.",
         "options": [
-            "A) c) Vty; tpdh mwptpdh",
-            "B) nfhil tpdh",
-            "D) mwpahtpdh"
-        ]
+            "A) ஏவல் வினா",
+            "B) அறிவினா",
+            "C) கொடை வினா",
+            "D) அறியாவினா"
+        ],
+        "answer": "A) ஏவல் வினா"
     },
     {
         "question_number": 58,
-        "question": " jhd; mwpahj xd;iw mwpe;J nfhs;tjw;fhff; Nfl;gJ------------.",
-        "answer": "D) mwpahtpdh",
+        "question": " தான் அறியாத ஒன்றை அறிந்து கொள்வதற்காகக் கேட்பது------------.",
         "options": [
-            "A) Vty; tpdh",
-            "B) Gwr;Rl;L",
-            "C) mwptpdh",
-            "D) mwpahtpdh"
-        ]
+            "A) ஏவல் வினா",
+            "B) அறிவினா",
+            "C) புறச்சுட்டு",
+            "D) அறியாவினா"
+        ],
+        "answer": "A) ஏவல் வினா"
     },
     {
         "question_number": 59,
-        "question": " Iak; ePq;fpj; njspT ngWtjw;fhff; Nfl;fg;gLtJ.",
-        "answer": "B) Ia tpdh",
+        "question": " ஐயம் நீங்கித் தெளிவு பெறுவதற்காகக் கேட்கப்படுவது.",
         "options": [
-            "A) Vty; tpdh",
-            "B) Ia tpdh",
-            "C) mwptpdh",
-            "D) mwpahtpdh"
-        ]
+            "A) ஏவல் வினா",
+            "B) அறிவினா",
+            "C) ஐய வினா",
+            "D) அறியாவினா"
+        ],
+        "answer": "A) ஏவல் வினா"
     },
     {
         "question_number": 60,
-        "question": "jhd; xU nghUis thq;fpf; nfhs;Sk; nghUl;L Nfl;gJ------ .",
-        "answer": "A) nfhsy; tpdh",
+        "question": "தான் ஒரு பொருளை வாங்கிக் கொள்ளும் பொருட்டு கேட்பது------ .",
         "options": [
-            "A) nfhsy; tpdh",
-            "B) d) Nra;ikr;Rl;L mwpahtpdh",
-            "C) mwptpdh"
-        ]
+            "A) கொளல் வினா",
+            "B) அறிவினா",
+            "C) சேய்மைச்சுட்டு",
+            "D) அறியாவினா"
+        ],
+        "answer": "A) கொளல் வினா"
     },
     {
         "question_number": 61,
-        "question": "gpwUf;F xU nghUisf; nfhLj;J cjTk; nghUl;Lf; Nfl;gJ-------------.",
-        "answer": "A) c) nfhil tpdh ngah;r;nrhy;",
+        "question": "பிறருக்கு ஒரு பொருளைக் கொடுத்து உதவும் பொருட்டுக் கேட்பது-------------.",
         "options": [
-            "A) c) nfhil tpdh ngah;r;nrhy;",
-            "B) mwpahtpdh",
-            "D) ,yf;fzk;"
-        ]
+            "A) கொடை வினா",
+            "B) பெயர்ச்சொல்",
+            "C) அறியாவினா",
+            "D) இலக்கணம்"
+        ],
+        "answer": "A) கொடை வினா"
     },
     {
         "question_number": 62,
-        "question": "xU nraiyr; nra;AkhW VTjw; nghUl;Lf; Nfl;gJ-----------.",
-        "answer": "A) c) ,ilr;nrhy; Vty; tpdh",
+        "question": "ஒரு செயலைச் செய்யுமாறு ஏவுதற் பொருட்டுக் கேட்பது-----------.",
         "options": [
-            "A) c) ,ilr;nrhy; Vty; tpdh",
-            "B) chpr;nrhy;",
-            "D) mwptpdh"
-        ]
+            "A) இடைச்சொல்",
+            "B) ஏவல் வினா",
+            "C) உரிச்சொல்",
+            "D) அறிவினா"
+        ],
+        "answer": "A) இடைச்சொல்"
     },
     {
         "question_number": 63,
-        "question": "Rl;L tpil> kiw tpil> Neu; tpil> Vty; tpil> tpdh vjpu; tpdhjy; tpil> cw;wJ ciuj;jy; tpil> cWtJ $Wjy; tpil> ,dnkhop tpil vd;W tpil-------------tifg;gLk;?",
-        "answer": "",
+        "question": "சுட்டு விடை, மறை விடை, நேர் விடை, ஏவல் விடை, வினா எதிர் வினாதல் விடை, உற்றது உரைத்தல் விடை, உறுவது கூறுதல் விடை, இனமொழி விடை என்று விடை-------------வகைப்படும்?",
         "options": [
-            "B) 6 h) d) 4 8",
-            "D) 2"
-        ]
+            "A) 2",
+            "B) 6",
+            "D) 8"
+        ],
+        "answer": "A) 2"
     },
     {
         "question_number": 64,
-        "question": "Rl;L $Wk; tpil-----------------.",
-        "answer": "A) Rl;L tpil",
+        "question": "சுட்டு கூறும் விடை-----------------.",
         "options": [
-            "A) Rl;L tpil",
-            "B) d) kiw tpil Neu; tpil",
-            "C) Vty; tpil"
-        ]
+            "A) சுட்டு விடை",
+            "B) ஏவல் விடை",
+            "C) மறை விடை",
+            "D) நேர் விடை"
+        ],
+        "answer": "A) சுட்டு விடை"
     },
     {
         "question_number": 65,
-        "question": "kWj;Jf; $Wk; tpil-----------.",
-        "answer": "B) d) kiw tpil mz;ikr;Rl;L",
+        "question": "மறுத்துக் கூறும் விடை-----------.",
         "options": [
-            "A) Rl;L vOj;Jfs;",
-            "B) d) kiw tpil mz;ikr;Rl;L",
-            "C) mfr;Rl;L"
-        ]
+            "A) சுட்டு எழுத்துகள்",
+            "B) அகச்சுட்டு",
+            "C) மறை விடை",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "A) சுட்டு எழுத்துகள்"
     },
     {
         "question_number": 66,
-        "question": "cld;gl;Lf; $Wk; tpil------------.",
-        "answer": "A) c) Rl;L vOj;Jfs; Neu; tpil",
+        "question": "உடன்பட்டுக் கூறும் விடை------------.",
         "options": [
-            "A) c) Rl;L vOj;Jfs; Neu; tpil",
-            "B) d) Gwr;Rl;L mz;ikr;Rl;L"
-        ]
+            "A) சுட்டு எழுத்துகள்",
+            "B) நேர் விடை",
+            "C) புறச்சுட்டு",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "A) சுட்டு எழுத்துகள்"
     },
     {
         "question_number": 67,
-        "question": "khl;Nld; vd;W kWg;gij VTjyhff; $Wk; tpil-----------.",
-        "answer": "D) Vty; tpil",
+        "question": "மாட்டேன் என்று மறுப்பதை ஏவுதலாகக் கூறும் விடை-----------.",
         "options": [
-            "A) c) Rl;Lj;jphpG mfr;Rl;L",
-            "B) Nra;ikr;Rl;L",
-            "D) Vty; tpil"
-        ]
+            "A) சுட்டுத்திரிபு",
+            "B) அகச்சுட்டு",
+            "C) சேய்மைச்சுட்டு",
+            "D) ஏவல் விடை"
+        ],
+        "answer": "A) சுட்டுத்திரிபு"
     },
     {
         "question_number": 68,
-        "question": "tpdhtpw;F tpilahf ,d;ndhU tpdhitf; Nfl;gJ--------------.",
-        "answer": "D) tpdh vjpu; tpdhjy; tpil",
+        "question": "வினாவிற்கு விடையாக இன்னொரு வினாவைக் கேட்பது--------------.",
         "options": [
-            "A) c) nray; ngah;r;nrhy;",
-            "B) Rl;Lj;jphpG",
-            "D) tpdh vjpu; tpdhjy; tpil"
-        ]
+            "A) செயல்",
+            "B) பெயர்ச்சொல்",
+            "C) சுட்டுத்திரிபு",
+            "D) வினா எதிர் வினாதல் விடை"
+        ],
+        "answer": "A) செயல்"
     },
     {
         "question_number": 69,
-        "question": "tpdhtpw;F tpilahf Vw;nfdNt Neu;e;jijf; $WtJ-----------.",
-        "answer": "D) cw;wJ ciuj;jy; tpil",
+        "question": "வினாவிற்கு விடையாக ஏற்கெனவே நேர்ந்ததைக் கூறுவது-----------.",
         "options": [
-            "A) c) ,ilr;nrhy; ngah;r;nrhy;",
-            "B) chpr;nrhy;",
-            "D) cw;wJ ciuj;jy; tpil"
-        ]
+            "A) இடைச்சொல்",
+            "B) பெயர்ச்சொல்",
+            "C) உரிச்சொல்",
+            "D) உற்றது உரைத்தல் விடை"
+        ],
+        "answer": "A) இடைச்சொல்"
     },
     {
         "question_number": 70,
-        "question": "tpdhtpw;F tpilahf ,dpNky; NeuNghtijf; $WtJ----------.",
-        "answer": "A) c) Rl;Lj;jphpG cWtJ $wy; tpil",
+        "question": "வினாவிற்கு விடையாக இனிமேல் நேரபோவதைக் கூறுவது----------.",
         "options": [
-            "A) c) Rl;Lj;jphpG cWtJ $wy; tpil",
-            "B) Nra;ikr;Rl;L",
-            "D) Vty; tpil"
-        ]
+            "A) சுட்டுத்திரிபு",
+            "B) உறுவது கூறல் விடை",
+            "C) சேய்மைச்சுட்டு",
+            "D) ஏவல் விடை"
+        ],
+        "answer": "A) சுட்டுத்திரிபு"
     },
     {
         "question_number": 71,
-        "question": "tpdhtpw;F tpilahf ,izahd kw;nwhd;iw tpilahff; $WtJ------------------.",
-        "answer": "",
+        "question": "வினாவிற்கு விடையாக இணையான மற்றொன்றை விடையாகக் கூறுவது------------------.",
         "options": [
-            "A) c) ,dnkhop tpil ngah;r;nrhy;",
-            "B) d) Rl;Lj;jphpG tpdh vjpu; tpdhjy; tpil"
-        ]
+            "A) இனமொழி விடை",
+            "B) பெயர்ச்சொல்",
+            "C) சுட்டுத்திரிபு",
+            "D) வினா எதிர் வினாதல் விடை"
+        ],
+        "answer": "A) இனமொழி விடை"
     }
 ]

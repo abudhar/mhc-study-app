@@ -1,322 +1,351 @@
 [
     {
         "question_number": 1,
-        "question": "nrhw;fs; njhlu;e;J nghUs;ju miktJ---------- MFk;?",
-        "answer": "A) b) njhlu; nka;",
+        "question": "சொற்கள் தொடர்ந்து பொருள்தர அமைவது---------- ஆகும்?",
         "options": [
-            "A) b) njhlu; nka;",
-            "C) vr;rk;",
-            "D) capu;"
-        ]
+            "A) தொடர்",
+            "B) மெய்",
+            "C) எச்சம்",
+            "D) உயிர்"
+        ],
+        "answer": "A) தொடர்"
     },
     {
         "question_number": 2,
-        "question": " njhlUf;F vOtha;> gadpiy> nrag;gLnghUs; vd;W ------------ cWg;Gfs; cs;sd?",
-        "answer": "",
+        "question": " தொடருக்கு எழுவாய், பயனிலை, செயப்படுபொருள் என்று ------------ உறுப்புகள் உள்ளன?",
         "options": [
             "A) 1",
-            "C) 3",
+            "B) 3",
+            "C) 2",
             "D) 4"
-        ]
+        ],
+        "answer": "A) 1"
     },
     {
         "question_number": 3,
-        "question": "vOthAk; gadpiyAk;---------------f;F ,d;wpaikahjit.",
-        "answer": "C) njhlu;",
+        "question": "எழுவாயும் பயனிலையும்---------------க்கு இன்றியமையாதவை.",
         "options": [
-            "A) nka;",
-            "B) capu;",
-            "C) njhlu;",
-            "D) ty;ypd nka;"
-        ]
+            "A) மெய்",
+            "B) தொடர்",
+            "C) உயிர்",
+            "D) வல்லின மெய்"
+        ],
+        "answer": "B) தொடர்"
     },
     {
         "question_number": 4,
-        "question": " ---------------nrhw;nwhlupy; ngau;r;nrhy;> vl;tu;L vd;gjhFk;.",
-        "answer": "D) vOtha;",
+        "question": " ---------------சொற்றொடரில் பெயர்ச்சொல், எட்வர்டு என்பதாகும்.",
         "options": [
-            "A) Rl;L vOj;Jfs;",
-            "B) Gwr;Rl;L",
-            "C) nky;ypd nka;",
-            "D) vOtha;"
-        ]
+            "A) சுட்டு எழுத்துகள்",
+            "B) மெல்லின மெய்",
+            "C) புறச்சுட்டு",
+            "D) எழுவாய்"
+        ],
+        "answer": "D) எழுவாய்"
     },
     {
         "question_number": 5,
-        "question": " nrhw;nwhlu; vOtjw;F mbg;gilahf mikAk; ngau;r;nrhy;iyNa - ------------- vd;fpNwhk;.",
-        "answer": "A) vOtha;",
+        "question": " சொற்றொடர் எழுவதற்கு அடிப்படையாக அமையும் பெயர்ச்சொல்லையே - ------------- என்கிறோம்.",
         "options": [
-            "A) vOtha;",
-            "B) ,ilapd nka;",
-            "C) mfr;Rl;L",
-            "D) mz;ikr;Rl;L"
-        ]
+            "A) எழுவாய்",
+            "B) அகச்சுட்டு",
+            "C) இடையின மெய்",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "A) எழுவாய்"
     },
     {
         "question_number": 6,
-        "question": " gbj;jha; vd;gJ gadpiy. eP vd;Dk; vOtha; ntspg;gilahff; Fwpg;gplg;gltpy;iy. ,ij -------------- vd;W $WfpNwhk;.",
-        "answer": "D) Njhd;wh vOtha;",
+        "question": " படித்தாய் என்பது பயனிலை. நீ என்னும் எழுவாய் வெளிப்படையாகக் குறிப்பிடப்படவில்லை. இதை -------------- என்று கூறுகிறோம்.",
         "options": [
-            "A) Rl;L vOj;Jfs;",
-            "B) Gwr;Rl;L",
-            "C) mfr;Rl;L",
-            "D) Njhd;wh vOtha;"
-        ]
+            "A) சுட்டு எழுத்துகள்",
+            "B) அகச்சுட்டு",
+            "C) புறச்சுட்டு",
+            "D) தோன்றா எழுவாய்"
+        ],
+        "answer": "D) தோன்றா எழுவாய்"
     },
     {
         "question_number": 7,
-        "question": " xU njhlupy; gad; epiyj;J ,Uf;Fk; ,lj;ij------------ vd;fpNwhk;..",
-        "answer": "B) d) gadpiy mz;ikr;Rl;L",
+        "question": " ஒரு தொடரில் பயன் நிலைத்து இருக்கும் இடத்தை------------ என்கிறோம்..",
         "options": [
-            "A) kaq;nfhypfs;",
-            "B) d) gadpiy mz;ikr;Rl;L",
-            "C) mfr;Rl;L"
-        ]
+            "A) மயங்கொலிகள்",
+            "B) அகச்சுட்டு",
+            "C) பயனிலை",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "C) பயனிலை"
     },
     {
         "question_number": 8,
-        "question": "vOtha; xU tpidiar; nra;a mjw;F mbg;gilaha;j; Nju;e;njLf;fg;gl;l nghUNs------------------ MFk;.",
-        "answer": "C) nrag;gLnghUs;",
+        "question": "எழுவாய் ஒரு வினையைச் செய்ய அதற்கு அடிப்படையாய்த் தேர்ந்தெடுக்கப்பட்ட பொருளே------------------ ஆகும்.",
         "options": [
-            "A) Rl;Lj;jphpG",
-            "B) d) Nra;ikr;Rl;L mz;ikr;Rl;L",
-            "C) nrag;gLnghUs;"
-        ]
+            "A) சுட்டுத்திரிபு",
+            "B) செயப்படுபொருள்",
+            "C) சேய்மைச்சுட்டு",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "B) செயப்படுபொருள்"
     },
     {
         "question_number": 9,
-        "question": "xd;wpd; rpwg;ig czu;j;j tUk; nrhy; --------- MFk;.",
-        "answer": "B) d) Rl;Lj;jphpG milnkhop",
+        "question": "ஒன்றின் சிறப்பை உணர்த்த வரும் சொல் --------- ஆகும்.",
         "options": [
-            "A) nray;",
-            "B) d) Rl;Lj;jphpG milnkhop",
-            "C) ngah;r;nrhy;"
-        ]
+            "A) செயல்",
+            "B) பெயர்ச்சொல்",
+            "C) சுட்டுத்திரிபு",
+            "D) அடைமொழி"
+        ],
+        "answer": "D) அடைமொழி"
     },
     {
         "question_number": 10,
-        "question": "---------------------I mtw;wpd; mikg;G> nghUs;> nrhw;nwhlupy; mit njhopw;gLk; tpjk; Kjyhd mbg;gilfspy; gytifahfg; ghFgLj;jyhk;.",
-        "answer": "B) d) tpidr; nrhw;fs; tpidr;nrhy;",
+        "question": "---------------------ஐ அவற்றின் அமைப்பு, பொருள், சொற்றொடரில் அவை தொழிற்படும் விதம் முதலான அடிப்படைகளில் பலவகையாகப் பாகுபடுத்தலாம்.",
         "options": [
-            "A) c) ,ilr;nrhy; ,ilapd ufuk;",
-            "B) d) tpidr; nrhw;fs; tpidr;nrhy;"
-        ]
+            "A) இடைச்சொல்",
+            "B) இடையின ரகரம்",
+            "C) வினைச்",
+            "D) சொற்கள் வினைச்சொல்"
+        ],
+        "answer": "C) வினைச்"
     },
     {
         "question_number": 11,
-        "question": "tpidr; nrhw;fis mikg;gpd; mbg;gilapy; jdptpid> $l;Ltpid vd------------ tifg;gLj;jyhk;.",
-        "answer": "",
+        "question": "வினைச் சொற்களை அமைப்பின் அடிப்படையில் தனிவினை, கூட்டுவினை என------------ வகைப்படுத்தலாம்.",
         "options": [
-            "A) c) 1 3",
-            "B) 2",
+            "A) 1",
+            "B) 3",
+            "C) 2",
             "D) 4"
-        ]
+        ],
+        "answer": "A) 1"
     },
     {
         "question_number": 12,
-        "question": "jdptpidabfisf; nfhz;l tpidr; nrhw;fis----------- vd;gu;.",
-        "answer": "A) b) jdptpid ngah;r;nrhy;",
+        "question": "தனிவினையடிகளைக் கொண்ட வினைச் சொற்களை----------- என்பர்.",
         "options": [
-            "A) b) jdptpid ngah;r;nrhy;",
-            "C) chpr;nrhy;",
-            "D) tpidr;nrhy;"
-        ]
+            "A) தனிவினை",
+            "B) பெயர்ச்சொல்",
+            "C) உரிச்சொல்",
+            "D) வினைச்சொல்"
+        ],
+        "answer": "A) தனிவினை"
     },
     {
         "question_number": 13,
-        "question": "gFgjkhf cs;s tpidabfis---------------vd;gu;?",
-        "answer": "A) b) ,ilr;nrhy; $l;L tpidabfs;",
+        "question": "பகுபதமாக உள்ள வினையடிகளை---------------என்பர்?",
         "options": [
-            "A) b) ,ilr;nrhy; $l;L tpidabfs;",
-            "C) tpidr;nrhy;",
-            "D) ngah;r;nrhy;"
-        ]
+            "A) இடைச்சொல்",
+            "B) கூட்டு வினையடிகள்",
+            "C) வினைச்சொல்",
+            "D) பெயர்ச்சொல்"
+        ],
+        "answer": "B) கூட்டு வினையடிகள்"
     },
     {
         "question_number": 14,
-        "question": "$l;Ltpidabfisf; nfhz;l tpidr;nrhw;fis--------------- vd;gu;.",
-        "answer": "A) b) $l;Ltpid nka;",
+        "question": "கூட்டுவினையடிகளைக் கொண்ட வினைச்சொற்களை--------------- என்பர்.",
         "options": [
-            "A) b) $l;Ltpid nka;",
-            "C) vr;rk;",
-            "D) capu;"
-        ]
+            "A) கூட்டுவினை",
+            "B) மெய்",
+            "C) எச்சம்",
+            "D) உயிர்"
+        ],
+        "answer": "A) கூட்டுவினை"
     },
     {
         "question_number": 15,
-        "question": "$l;L tpidfs; nghJthf-------------- tifahf Mf;fg;gLfpd;wd.",
-        "answer": "",
+        "question": "கூட்டு வினைகள் பொதுவாக-------------- வகையாக ஆக்கப்படுகின்றன.",
         "options": [
-            "A) b) 1 3",
+            "A) 1",
+            "B) 3",
             "C) 2",
             "D) 4"
-        ]
+        ],
+        "answer": "A) 1"
     },
     {
         "question_number": 16,
-        "question": "jkpopy; Vwj;jho---------------Jiztpidfs; cs;sd.",
-        "answer": "",
+        "question": "தமிழில் ஏறத்தாழ---------------துணைவினைகள் உள்ளன.",
         "options": [
-            "A) b) 20 40",
+            "A) 20",
+            "B) 40",
             "C) 30",
             "D) 50"
-        ]
+        ],
+        "answer": "A) 20"
     },
     {
         "question_number": 17,
-        "question": "----------------- f> r> j> g Mfpa ehd;Fk; nkhopf;F Kjypy; tUk;.",
-        "answer": "A) b) ty;nyOj;Jfs; tpidr;nrhy;",
+        "question": "----------------- க, ச, த, ப ஆகிய நான்கும் மொழிக்கு முதலில் வரும்.",
         "options": [
-            "A) b) ty;nyOj;Jfs; tpidr;nrhy;",
-            "C) chpr;nrhy;",
-            "D) nghUl;ngah;"
-        ]
+            "A) வல்லெழுத்துகள்",
+            "B) வினைச்சொல்",
+            "C) உரிச்சொல்",
+            "D) பொருட்பெயர்"
+        ],
+        "answer": "A) வல்லெழுத்துகள்"
     },
     {
         "question_number": 18,
-        "question": " nrhw;fspy;--------------- kpFk;NghJ xU nghUSk; kpfhj NghJ NtnwhU nghUSk; tUk;.",
-        "answer": "A) b) ty;ypdk; ,lg;ngah;",
+        "question": " சொற்களில்--------------- மிகும்போது ஒரு பொருளும் மிகாத போது வேறொரு பொருளும் வரும்.",
         "options": [
-            "A) b) ty;ypdk; ,lg;ngah;",
-            "C) Vty; tpidKw;W",
-            "D) rpidg;ngah;"
-        ]
+            "A) வல்லினம்",
+            "B) இடப்பெயர்",
+            "C) ஏவல் வினைமுற்று",
+            "D) சினைப்பெயர்"
+        ],
+        "answer": "A) வல்லினம்"
     },
     {
         "question_number": 19,
-        "question": " nra;As; ,aw;Wk; Kiwfisf; $Wk; ,yf;fzNk--------------.",
-        "answer": "D) ahg;gpyf;fzk;",
+        "question": " செய்யுள் இயற்றும் முறைகளைக் கூறும் இலக்கணமே--------------.",
         "options": [
-            "A) njhopw;ngah;",
-            "B) ,lg;ngah;",
-            "C) tpaq;Nfhs; tpidKw;W",
-            "D) ahg;gpyf;fzk;"
-        ]
+            "A) தொழிற்பெயர்",
+            "B) இடப்பெயர்",
+            "C) வியங்கோள் வினைமுற்று",
+            "D) யாப்பிலக்கணம்"
+        ],
+        "answer": "D) யாப்பிலக்கணம்"
     },
     {
         "question_number": 20,
-        "question": "vOj;J> mir> rPu;> jis> mb> njhil Mfpa------------- ahg;gpd; cWg;Gfs; MFk;.",
-        "answer": "",
+        "question": "எழுத்து, அசை, சீர், தளை, அடி, தொடை ஆகிய------------- யாப்பின் உறுப்புகள் ஆகும்.",
         "options": [
-            "A) b) 6 3",
-            "C) d) 2 4"
-        ]
+            "A) 6",
+            "B) 3",
+            "C) 2",
+            "D) 4"
+        ],
+        "answer": "A) 6"
     },
     {
         "question_number": 21,
-        "question": "ahg;gpyf;fz mbg;gilapy; vOj;Jfs; Fwpy;> neby;> xw;W vd---------------- tifg;gLk;.",
-        "answer": "",
+        "question": "யாப்பிலக்கண அடிப்படையில் எழுத்துகள் குறில், நெடில், ஒற்று என---------------- வகைப்படும்.",
         "options": [
-            "A) b) 1 3",
+            "A) 1",
+            "B) 3",
             "C) 2",
             "D) 4"
-        ]
+        ],
+        "answer": "A) 1"
     },
     {
         "question_number": 22,
-        "question": "------------- vd;gJ nka;naOj;JfSk; Ma;j vOj;Jk; MFk;.",
-        "answer": "A) b) Ma;jk; xw;W",
+        "question": "------------- என்பது மெய்யெழுத்துகளும் ஆய்த எழுத்தும் ஆகும்.",
         "options": [
-            "A) b) Ma;jk; xw;W",
-            "C) capu;",
-            "D) nka;"
-        ]
+            "A) ஆய்தம்",
+            "B) ஒற்று",
+            "C) உயிர்",
+            "D) மெய்"
+        ],
+        "answer": "B) ஒற்று"
     },
     {
         "question_number": 23,
-        "question": "vOj;Jfshy; MdJ------------- vdg;gLk;.",
-        "answer": "A) b) rPu; mir",
+        "question": "எழுத்துகளால் ஆனது------------- எனப்படும்.",
         "options": [
-            "A) b) rPu; mir",
-            "C) mb",
-            "D) njhil"
-        ]
+            "A) சீர்",
+            "B) அசை",
+            "C) அடி",
+            "D) தொடை"
+        ],
+        "answer": "B) அசை"
     },
     {
         "question_number": 24,
-        "question": "mir Neuir> epiuair vd------------- tifg;gLk;.",
-        "answer": "",
+        "question": "அசை நேரசை, நிரையசை என------------- வகைப்படும்.",
         "options": [
-            "A) b) 1 3",
+            "A) 1",
+            "B) 3",
             "C) 2",
             "D) 4"
-        ]
+        ],
+        "answer": "A) 1"
     },
     {
         "question_number": 25,
-        "question": "xd;W my;yJ xd;Wf;F Nkw;gl;l mirfspd; Nru;f;if--------- MFk;.",
-        "answer": "A) b) rPu; ,lg;ngah;",
+        "question": "ஒன்று அல்லது ஒன்றுக்கு மேற்பட்ட அசைகளின் சேர்க்கை--------- ஆகும்.",
         "options": [
-            "A) b) rPu; ,lg;ngah;",
-            "C) Vty; tpidKw;W",
-            "D) rpidg;ngah;"
-        ]
+            "A) சீர்",
+            "B) இடப்பெயர்",
+            "C) ஏவல் வினைமுற்று",
+            "D) சினைப்பெயர்"
+        ],
+        "answer": "A) சீர்"
     },
     {
         "question_number": 26,
-        "question": "Xuirr;rPu;> <uirr;rPu;> %tirr;rPu;> ehyirr;rPu; vdr; rPu;fs;-------- tifg;gLk;. a);1 b) 3",
-        "answer": "",
-        "options": [
-            "C) 2",
-            "D) 4"
-        ]
-    },
-    {
-        "question_number": 27,
-        "question": "ntz;ghtpd; ,Wjpapy; Neu; vd;gNjhL---------- Nru;e;J KbtJ cz;L.",
-        "answer": "A) b) cfuk; nka;",
-        "options": [
-            "A) b) cfuk; nka;",
-            "C) vr;rk;",
-            "D) capu;"
-        ]
-    },
-    {
-        "question_number": 28,
-        "question": " ---------------rPu;fSf;F ,aw;rPu;> Mrpupa cupr;rPu; vd;Dk; NtW ngau;fSk; cz;L.",
-        "answer": "A) b) <uir nka;",
-        "options": [
-            "A) b) <uir nka;",
-            "C) vr;rk;",
-            "D) capu;"
-        ]
-    },
-    {
-        "question_number": 29,
-        "question": " ,uz;L my;yJ ,uz;bw;F Nkw;gl;l rPu;fs; njhlu;e;J tUtJ ------------ vdg;gLk;. a);mb b) njhil",
-        "answer": "C) vr;rk;",
-        "options": [
-            "C) vr;rk;",
-            "D) rPu;"
-        ]
-    },
-    {
-        "question_number": 30,
-        "question": "mb----------- tifg;gLk;.",
-        "answer": "",
+        "question": "ஓரசைச்சீர், ஈரசைச்சீர், மூவசைச்சீர், நாலசைச்சீர் எனச் சீர்கள்-------- வகைப்படும்.",
         "options": [
             "A) 2",
             "B) 3",
-            "C) d) 4; 5"
-        ]
+            "D) 4"
+        ],
+        "answer": "A) 2"
+    },
+    {
+        "question_number": 27,
+        "question": "வெண்பாவின் இறுதியில் நேர் என்பதோடு---------- சேர்ந்து முடிவது உண்டு.",
+        "options": [
+            "A) உகரம்",
+            "B) மெய்",
+            "C) எச்சம்",
+            "D) உயிர்"
+        ],
+        "answer": "A) உகரம்"
+    },
+    {
+        "question_number": 28,
+        "question": " ---------------சீர்களுக்கு இயற்சீர், ஆசிரிய உரிச்சீர் என்னும் வேறு பெயர்களும் உண்டு.",
+        "options": [
+            "A) ஈரசை",
+            "B) மெய்",
+            "C) எச்சம்",
+            "D) உயிர்"
+        ],
+        "answer": "A) ஈரசை"
+    },
+    {
+        "question_number": 29,
+        "question": " இரண்டு அல்லது இரண்டிற்கு மேற்பட்ட சீர்கள் தொடர்ந்து வருவது ------------ எனப்படும்.",
+        "options": [
+            "A) எச்சம்",
+            "B) தொடை",
+            "D) சீர்"
+        ],
+        "answer": "A) எச்சம்"
+    },
+    {
+        "question_number": 30,
+        "question": "அடி----------- வகைப்படும்.",
+        "options": [
+            "A) 2",
+            "B) 3",
+            "C) 5",
+            "D) 4;"
+        ],
+        "answer": "A) 2"
     },
     {
         "question_number": 31,
-        "question": "mbfspNyh> rPu;fspNyh vOj;Jfs; xd;wptuj; njhLg;gJ------------ MFk;.",
-        "answer": "A) b) njhil nka;",
+        "question": "அடிகளிலோ, சீர்களிலோ எழுத்துகள் ஒன்றிவரத் தொடுப்பது------------ ஆகும்.",
         "options": [
-            "A) b) njhil nka;",
-            "C) vr;rk;",
-            "D) capu;"
-        ]
+            "A) தொடை",
+            "B) மெய்",
+            "C) எச்சம்",
+            "D) உயிர்"
+        ],
+        "answer": "A) தொடை"
     },
     {
         "question_number": 32,
-        "question": "xU ghlypy; mbfspNyh> rPu;fspNyh KjnyOj;J xd;wp miktJ---------------. a);Nkhilj; b) njhil nka;",
-        "answer": "",
+        "question": "ஒரு பாடலில் அடிகளிலோ, சீர்களிலோ முதலெழுத்து ஒன்றி அமைவது---------------.",
         "options": [
-            "C) vr;rk;",
-            "D) capu;"
-        ]
+            "A) எச்சம்",
+            "B) தொடை மெய்",
+            "D) உயிர்"
+        ],
+        "answer": "B) தொடை மெய்"
     }
 ]

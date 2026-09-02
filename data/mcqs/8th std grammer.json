@@ -1,214 +1,232 @@
 [
     {
         "question_number": 1,
-        "question": "vOj;Jfspd; gpwg;gpid ,lg;gpwg;G> Kaw;rpg; gpwg;G vd------------ tifg;gLk;?",
-        "answer": "",
+        "question": "எழுத்துகளின் பிறப்பினை இடப்பிறப்பு, முயற்சிப் பிறப்பு என------------ வகைப்படும்?",
         "options": [
-            "A) b) 1 3",
+            "A) 1",
+            "B) 3",
             "C) 2",
             "D) 4"
-        ]
+        ],
+        "answer": "A) 1"
     },
     {
         "question_number": 2,
-        "question": " ---------vOj;Jfs; gd;dpuz;Lk; fOj;ij ,lkhff; nfhz;L gpwf;fpd;wd?",
-        "answer": "A) capu;",
+        "question": " ---------எழுத்துகள் பன்னிரண்டும் கழுத்தை இடமாகக் கொண்டு பிறக்கின்றன?",
         "options": [
-            "A) capu;",
-            "C) mfr;Rl;L",
-            "D) mz;ikr;Rl;L"
-        ]
+            "A) உயிர்",
+            "B) அகச்சுட்டு",
+            "C) புறச்சுட்டு",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "A) உயிர்"
     },
     {
         "question_number": 3,
-        "question": "---------------- vOj;Jfs; MWk; khu;ig ,lkhff; nfhz;L gpwf;fpd;wd.",
-        "answer": "D) ty;ypd nka;",
+        "question": "---------------- எழுத்துகள் ஆறும் மார்பை இடமாகக் கொண்டு பிறக்கின்றன.",
         "options": [
-            "A) v",
-            "B) x",
-            "C) nky;ypd nka;",
-            "D) ty;ypd nka;"
-        ]
+            "A) எ",
+            "B) மெல்லின மெய்",
+            "C) ஒ",
+            "D) வல்லின மெய்"
+        ],
+        "answer": "D) வல்லின மெய்"
     },
     {
         "question_number": 4,
-        "question": " ---------------vOj;Jfs; MWk; %f;if ,lkhff; nfhz;L gpwf;fpd;wd.",
-        "answer": "C) nky;ypd nka;",
+        "question": " ---------------எழுத்துகள் ஆறும் மூக்கை இடமாகக் கொண்டு பிறக்கின்றன.",
         "options": [
-            "A) Rl;L vOj;Jfs;",
-            "B) Gwr;Rl;L",
-            "C) nky;ypd nka;",
-            "D) mz;ikr;Rl;L"
-        ]
+            "A) சுட்டு எழுத்துகள்",
+            "B) மெல்லின மெய்",
+            "C) புறச்சுட்டு",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "B) மெல்லின மெய்"
     },
     {
         "question_number": 5,
-        "question": " -------------- vOj;Jfs; MWk; fOj;ij ,lkhff; nfhz;L gpwf;fpd;wd.",
-        "answer": "B) ,ilapd nka;",
+        "question": " -------------- எழுத்துகள் ஆறும் கழுத்தை இடமாகக் கொண்டு பிறக்கின்றன.",
         "options": [
-            "A) Rl;L vOj;Jfs;",
-            "B) ,ilapd nka;",
-            "C) mfr;Rl;L",
-            "D) mz;ikr;Rl;L"
-        ]
+            "A) சுட்டு எழுத்துகள்",
+            "B) அகச்சுட்டு",
+            "C) இடையின மெய்",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "C) இடையின மெய்"
     },
     {
         "question_number": 6,
-        "question": " -------------- vOj;J jiyia ,lkhff; nfhz;L gpwf;fpd;wd.",
-        "answer": "D) Ma;j",
+        "question": " -------------- எழுத்து தலையை இடமாகக் கொண்டு பிறக்கின்றன.",
         "options": [
-            "A) Rl;L vOj;Jfs;",
-            "B) Gwr;Rl;L",
-            "C) mfr;Rl;L",
-            "D) Ma;j"
-        ]
+            "A) சுட்டு எழுத்துகள்",
+            "B) அகச்சுட்டு",
+            "C) புறச்சுட்டு",
+            "D) ஆய்த"
+        ],
+        "answer": "D) ஆய்த"
     },
     {
         "question_number": 7,
-        "question": " cr;rupg;gpy; rpwpjsT kl;LNk NtWghL cs;s xypfis------------- vd;fpNwhk;.",
-        "answer": "A) kaq;nfhypfs;",
+        "question": " உச்சரிப்பில் சிறிதளவு மட்டுமே வேறுபாடு உள்ள ஒலிகளை------------- என்கிறோம்.",
         "options": [
-            "A) kaq;nfhypfs;",
-            "B) d) Nra;ikr;Rl;L mz;ikr;Rl;L",
-            "C) mfr;Rl;L"
-        ]
+            "A) மயங்கொலிகள்",
+            "B) அகச்சுட்டு",
+            "C) சேய்மைச்சுட்டு",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "A) மயங்கொலிகள்"
     },
     {
         "question_number": 8,
-        "question": "------------- vOj;J jkpOf;F cupj;jhd rpwg;G xyp.",
-        "answer": "C) o",
+        "question": "------------- எழுத்து தமிழுக்கு உரித்தான சிறப்பு ஒலி.",
         "options": [
-            "A) Rl;Lj;jphpG",
-            "B) d) Nra;ikr;Rl;L mz;ikr;Rl;L",
-            "C) o"
-        ]
+            "A) சுட்டுத்திரிபு",
+            "B) ழ",
+            "C) சேய்மைச்சுட்டு",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "B) ழ"
     },
     {
         "question_number": 9,
-        "question": "------------- vOj;J rpwg;G ofuk; vd;W miof;fpNwhk;.",
-        "answer": "A) nray;",
+        "question": "------------- எழுத்து சிறப்பு ழகரம் என்று அழைக்கிறோம்.",
         "options": [
-            "A) nray;",
-            "B) d) Rl;Lj;jphpG o",
-            "C) ngah;r;nrhy;"
-        ]
+            "A) செயல்",
+            "B) பெயர்ச்சொல்",
+            "C) சுட்டுத்திரிபு",
+            "D) ழ"
+        ],
+        "answer": "D) ழ"
     },
     {
         "question_number": 10,
-        "question": ",ilapd vOj;J vd;gjhy;---------------- vd;fpNwhk;.",
-        "answer": "C) ,ilapd ufuk;",
+        "question": "இடையின எழுத்து என்பதால்---------------- என்கிறோம்.",
         "options": [
-            "A) ,ilr;nrhy;",
-            "B) d) chpr;nrhy; tpidr;nrhy;",
-            "C) ,ilapd ufuk;"
-        ]
+            "A) இடைச்சொல்",
+            "B) இடையின ரகரம்",
+            "C) உரிச்சொல்",
+            "D) வினைச்சொல்"
+        ],
+        "answer": "B) இடையின ரகரம்"
     },
     {
         "question_number": 11,
-        "question": "ty;ypd vOj;J vd;gjhy;----------- vd;fpNwhk;.",
-        "answer": "B) d) ty;ypd wfuk; ngah;r;nrhy;",
+        "question": "வல்லின எழுத்து என்பதால்----------- என்கிறோம்.",
         "options": [
-            "A) c) ,ilr;nrhy; nray;",
-            "B) d) ty;ypd wfuk; ngah;r;nrhy;"
-        ]
+            "A) இடைச்சொல்",
+            "B) செயல்",
+            "C) வல்லின",
+            "D) றகரம் பெயர்ச்சொல்"
+        ],
+        "answer": "C) வல்லின"
     },
     {
         "question_number": 12,
-        "question": "nraiy-----------vd;Wk; Fwpg;gu;.",
-        "answer": "D) tpidr;nrhy;",
+        "question": "செயலை-----------என்றும் குறிப்பர்.",
         "options": [
-            "A) b) tpid ngah;r;nrhy;",
-            "C) chpr;nrhy;",
-            "D) tpidr;nrhy;"
-        ]
+            "A) வினை",
+            "B) பெயர்ச்சொல்",
+            "C) உரிச்சொல்",
+            "D) வினைச்சொல்"
+        ],
+        "answer": "A) வினை"
     },
     {
         "question_number": 13,
-        "question": "xd;wd; nraiyf; Fwpf;Fk; nrhy;--------------- vdg;gLk;?",
-        "answer": "C) tpidr;nrhy;",
+        "question": "ஒன்றன் செயலைக் குறிக்கும் சொல்--------------- எனப்படும்?",
         "options": [
-            "A) b) ,ilr;nrhy; chpr;nrhy;",
-            "C) tpidr;nrhy;",
-            "D) ngah;r;nrhy;"
-        ]
+            "A) இடைச்சொல்",
+            "B) உரிச்சொல்",
+            "C) வினைச்சொல்",
+            "D) பெயர்ச்சொல்"
+        ],
+        "answer": "C) வினைச்சொல்"
     },
     {
         "question_number": 14,
-        "question": "tpidKw;W njupepiy tpidKw;W> Fwpg;G tpidKw;W vd------ tifg;gLk;.",
-        "answer": "",
+        "question": "வினைமுற்று தெரிநிலை வினைமுற்று, குறிப்பு வினைமுற்று என------ வகைப்படும்.",
         "options": [
-            "A) b) 1 3",
+            "A) 1",
+            "B) 3",
             "C) 2",
             "D) 4"
-        ]
+        ],
+        "answer": "A) 1"
     },
     {
         "question_number": 15,
-        "question": "nra;gtu;> fUtp> epyk;> nray;> fhyk;> nra;nghUs; vd MWk; ntspg;gLkhW miktJ--------------- vdg;gLk;.",
-        "answer": "C) njupepiy tpidKw;Wd) tpidr;nrhy;",
+        "question": "செய்பவர், கருவி, நிலம், செயல், காலம், செய்பொருள் என ஆறும் வெளிப்படுமாறு அமைவது--------------- எனப்படும்.",
         "options": [
-            "A) b) ,ilr;nrhy; ngah;r;nrhy;",
-            "C) njupepiy tpidKw;Wd) tpidr;nrhy;"
-        ]
+            "A) இடைச்சொல்",
+            "B) பெயர்ச்சொல்",
+            "C) தெரிநிலை வினைமுற்றுன) வினைச்சொல்"
+        ],
+        "answer": "C) தெரிநிலை வினைமுற்றுன) வினைச்சொல்"
     },
     {
         "question_number": 16,
-        "question": "nghUs;> ,lk;> fhyk;> jpid> Fzk;> njhopy; Mfpatw;Ws; xd;wid mbg;gilahff; nfhz;L fhyj;ij ntspg;gilahff; fhl;lhJ nra;gtiu kl;Lk; ntspg;gilahff; fhl;Lk; tpidKw;W------ vdg;gLk;.",
-        "answer": "D) Fwpg;G tpidKw;W",
+        "question": "பொருள், இடம், காலம், தினை, குணம், தொழில் ஆகியவற்றுள் ஒன்றனை அடிப்படையாகக் கொண்டு காலத்தை வெளிப்படையாகக் காட்டாது செய்பவரை மட்டும் வெளிப்படையாகக் காட்டும் வினைமுற்று------ எனப்படும்.",
         "options": [
-            "A) b) Fwpg;G njupepiy",
-            "C) ,ilr;nrhy;",
-            "D) Fwpg;G tpidKw;W"
-        ]
+            "A) குறிப்பு",
+            "B) தெரிநிலை",
+            "C) இடைச்சொல்",
+            "D) குறிப்பு வினைமுற்று"
+        ],
+        "answer": "D) குறிப்பு வினைமுற்று"
     },
     {
         "question_number": 17,
-        "question": "njupepiy> Fwpg;G tpidKw;Wfs; md;wp Vty; tpidKw;W> tpaq;Nfhs; tpidKw;W vdg; gpwtif tpidKw;WfSk; --------------- cz;L.",
-        "answer": "A) b) jkpopy; tpidr;nrhy;",
+        "question": "தெரிநிலை, குறிப்பு வினைமுற்றுகள் அன்றி ஏவல் வினைமுற்று, வியங்கோள் வினைமுற்று எனப் பிறவகை வினைமுற்றுகளும் --------------- உண்டு.",
         "options": [
-            "A) b) jkpopy; tpidr;nrhy;",
-            "C) chpr;nrhy;",
-            "D) nghUl;ngah;"
-        ]
+            "A) தமிழில்",
+            "B) வினைச்சொல்",
+            "C) உரிச்சொல்",
+            "D) பொருட்பெயர்"
+        ],
+        "answer": "A) தமிழில்"
     },
     {
         "question_number": 18,
-        "question": " jd;Kd; cs;s xUtiu xU nraiyr; nra;AkhW VTk; tpidKw;W----------------- vdg;gLk;.",
-        "answer": "C) Vty; tpidKw;W",
+        "question": " தன்முன் உள்ள ஒருவரை ஒரு செயலைச் செய்யுமாறு ஏவும் வினைமுற்று----------------- எனப்படும்.",
         "options": [
-            "A) njhopw;ngah;",
-            "B) ,lg;ngah;",
-            "C) Vty; tpidKw;W",
-            "D) rpidg;ngah;"
-        ]
+            "A) தொழிற்பெயர்",
+            "B) இடப்பெயர்",
+            "C) ஏவல் வினைமுற்று",
+            "D) சினைப்பெயர்"
+        ],
+        "answer": "C) ஏவல் வினைமுற்று"
     },
     {
         "question_number": 19,
-        "question": "tho;j;jy;> itjy;> tpjpj;jy;> Ntz;ly; Mfpa nghUs;fspy; tUk; tpidKw;W----------------- vdg;gLk;.",
-        "answer": "C) d) tpaq;Nfhs; tpidKw;W rpidg;ngah;",
+        "question": "வாழ்த்தல், வைதல், விதித்தல், வேண்டல் ஆகிய பொருள்களில் வரும் வினைமுற்று----------------- எனப்படும்.",
         "options": [
-            "A) b) njhopw;ngah; ,lg;ngah;",
-            "C) d) tpaq;Nfhs; tpidKw;W rpidg;ngah;"
-        ]
+            "A) தொழிற்பெயர்",
+            "B) இடப்பெயர்",
+            "C) வியங்கோள்",
+            "D) வினைமுற்று சினைப்பெயர்"
+        ],
+        "answer": "C) வியங்கோள்"
     },
     {
         "question_number": 20,
-        "question": "Vty; tpidKw;W xUik> gd;ik vd----------- tifg;gLk;.",
-        "answer": "",
+        "question": "ஏவல் வினைமுற்று ஒருமை, பன்மை என----------- வகைப்படும்.",
         "options": [
-            "A) b) 1 3",
+            "A) 1",
+            "B) 3",
             "C) 2",
             "D) 4"
-        ]
+        ],
+        "answer": "A) 1"
     },
     {
         "question_number": 21,
-        "question": "--------------- tpidKw;W ,U jpidfisAk;> Ie;J ghy;fisAk;> %d;W ,lq;fisAk; fhl;Lk;.",
-        "answer": "",
+        "question": "--------------- வினைமுற்று இரு தினைகளையும், ஐந்து பால்களையும், மூன்று இடங்களையும் காட்டும்.",
         "options": [
-            "A) b) Vty; rpidg;ngah;",
-            "C) tpaq;Nfhs;",
-            "D) ,lg;ngah;"
-        ]
+            "A) ஏவல்",
+            "B) சினைப்பெயர்",
+            "C) வியங்கோள்",
+            "D) இடப்பெயர்"
+        ],
+        "answer": "C) வியங்கோள்"
     }
 ]

@@ -1,300 +1,332 @@
 [
     {
         "question_number": 1,
-        "question": "xd;iwr; Rl;bf; fhl;l tUk; vOj;JfSf;F------------- vd;W ngah;?",
-        "answer": "A) Rl;L vOj;Jfs;",
+        "question": "ஒன்றைச் சுட்டிக் காட்ட வரும் எழுத்துகளுக்கு------------- என்று பெயர்?",
         "options": [
-            "A) Rl;L vOj;Jfs;",
-            "B) mfr;Rl;L",
-            "C) d) Gwr;Rl;L mz;ikr;Rl;L"
-        ]
+            "A) சுட்டு எழுத்துகள்",
+            "B) அகச்சுட்டு",
+            "C) புறச்சுட்டு",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "A) சுட்டு எழுத்துகள்"
     },
     {
         "question_number": 2,
-        "question": "m> ,> c Mfpa %d;W vOj;JfSk;----------------- MFk;?",
-        "answer": "A) Rl;L vOj;Jfs;",
+        "question": "அ, இ, உ ஆகிய மூன்று எழுத்துகளும்----------------- ஆகும்?",
         "options": [
-            "A) Rl;L vOj;Jfs;",
-            "C) mfr;Rl;L",
-            "D) d) Gwr;Rl;L mz;ikr;Rl;L"
-        ]
+            "A) சுட்டு எழுத்துகள்",
+            "B) அகச்சுட்டு",
+            "C) புறச்சுட்டு",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "A) சுட்டு எழுத்துகள்"
     },
     {
         "question_number": 3,
-        "question": "---------------- vd;Dk; vOj;ijr; Rl;lhfg; gad;gLj;JtJ ,y;iy.",
-        "answer": "C) c",
+        "question": "---------------- என்னும் எழுத்தைச் சுட்டாகப் பயன்படுத்துவது இல்லை.",
         "options": [
-            "A) v",
-            "B) d) x m",
-            "C) c"
-        ]
+            "A) எ",
+            "B) உ",
+            "C) ஒ",
+            "D) அ"
+        ],
+        "answer": "C) ஒ"
     },
     {
         "question_number": 4,
-        "question": "Rl;L vOj;Jfs; nrhy;ypd; cs;NsNa ,Ue;J Rl;Lg; nghUisj; jUtJ---------------- vdg;gLk;.",
-        "answer": "C) mfr;Rl;L",
+        "question": "சுட்டு எழுத்துகள் சொல்லின் உள்ளேயே இருந்து சுட்டுப் பொருளைத் தருவது---------------- எனப்படும்.",
         "options": [
-            "A) Rl;L vOj;Jfs;",
-            "B) d) Gwr;Rl;L mz;ikr;Rl;L",
-            "C) mfr;Rl;L"
-        ]
+            "A) சுட்டு எழுத்துகள்",
+            "B) அகச்சுட்டு",
+            "C) புறச்சுட்டு",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "B) அகச்சுட்டு"
     },
     {
         "question_number": 5,
-        "question": "Rl;L vOj;Jfs; nrhy;ypd; ntspNa ,Ue;J Rl;Lg; nghUisj; jUtJ---------------- vdg;gLk;.",
-        "answer": "C) mfr;Rl;L",
+        "question": "சுட்டு எழுத்துகள் சொல்லின் வெளியே இருந்து சுட்டுப் பொருளைத் தருவது---------------- எனப்படும்.",
         "options": [
-            "A) Rl;L vOj;Jfs;",
-            "B) d) Gwr;Rl;L mz;ikr;Rl;L",
-            "C) mfr;Rl;L"
-        ]
+            "A) சுட்டு எழுத்துகள்",
+            "B) அகச்சுட்டு",
+            "C) புறச்சுட்டு",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "C) புறச்சுட்டு"
     },
     {
         "question_number": 6,
-        "question": "ek; mUfpy; cs;stw;iwr; Rl;LtJ---------------- MFk;.",
-        "answer": "C) mfr;Rl;L",
+        "question": "நம் அருகில் உள்ளவற்றைச் சுட்டுவது---------------- ஆகும்.",
         "options": [
-            "A) Rl;L vOj;Jfs;",
-            "B) d) Gwr;Rl;L mz;ikr;Rl;L",
-            "C) mfr;Rl;L"
-        ]
+            "A) சுட்டு எழுத்துகள்",
+            "B) அகச்சுட்டு",
+            "C) புறச்சுட்டு",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "D) அண்மைச்சுட்டு"
     },
     {
         "question_number": 7,
-        "question": "njhiytpy; cs;stw;iwr; Rl;LtJ---------------- MFk;.",
-        "answer": "B) d) Nra;ikr;Rl;L mz;ikr;Rl;L",
+        "question": "தொலைவில் உள்ளவற்றைச் சுட்டுவது---------------- ஆகும்.",
         "options": [
-            "A) c) Rl;Lj;jphpG mfr;Rl;L",
-            "B) d) Nra;ikr;Rl;L mz;ikr;Rl;L"
-        ]
+            "A) சுட்டுத்திரிபு",
+            "B) அகச்சுட்டு",
+            "C) சேய்மைச்சுட்டு",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "C) சேய்மைச்சுட்டு"
     },
     {
         "question_number": 8,
-        "question": "M> , Mfpa Rl;L vOj;Jfs; me;j> ,e;j vdj; jphpe;J Rl;Lg; nghUisj; jUtJ------------ vdg;gLk;.",
-        "answer": "A) c) Rl;Lj;jphpG mfr;Rl;L",
+        "question": "ஆ, இ ஆகிய சுட்டு எழுத்துகள் அந்த, இந்த எனத் திரிந்து சுட்டுப் பொருளைத் தருவது------------ எனப்படும்.",
         "options": [
-            "A) c) Rl;Lj;jphpG mfr;Rl;L",
-            "B) Nra;ikr;Rl;L",
-            "D) mz;ikr;Rl;L"
-        ]
+            "A) சுட்டுத்திரிபு",
+            "B) அகச்சுட்டு",
+            "C) சேய்மைச்சுட்டு",
+            "D) அண்மைச்சுட்டு"
+        ],
+        "answer": "A) சுட்டுத்திரிபு"
     },
     {
         "question_number": 9,
-        "question": "--------------- mbg;gilapy; nrhw;fs; ngah;r;nrhy;> tpidr;nrhy;> ,ilr;nrhy;> chpr;nrhy; vd ehd;F tifg;gLk;.",
-        "answer": "D) ,yf;fzk;",
+        "question": "--------------- அடிப்படையில் சொற்கள் பெயர்ச்சொல், வினைச்சொல், இடைச்சொல், உரிச்சொல் என நான்கு வகைப்படும்.",
         "options": [
-            "A) c) nray; ngah;r;nrhy;",
-            "B) Rl;Lj;jphpG",
-            "D) ,yf;fzk;"
-        ]
+            "A) செயல்",
+            "B) பெயர்ச்சொல்",
+            "C) சுட்டுத்திரிபு",
+            "D) இலக்கணம்"
+        ],
+        "answer": "D) இலக்கணம்"
     },
     {
         "question_number": 10,
-        "question": "xd;wd; ngaiuf; Fwpf;Fk; nrhy;------------- vdg;gLk;.",
-        "answer": "C) ngah;r;nrhy;",
+        "question": "ஒன்றன் பெயரைக் குறிக்கும் சொல்------------- எனப்படும்.",
         "options": [
-            "A) ,ilr;nrhy;",
-            "B) d) chpr;nrhy; tpidr;nrhy;",
-            "C) ngah;r;nrhy;"
-        ]
+            "A) இடைச்சொல்",
+            "B) பெயர்ச்சொல்",
+            "C) உரிச்சொல்",
+            "D) வினைச்சொல்"
+        ],
+        "answer": "B) பெயர்ச்சொல்"
     },
     {
         "question_number": 11,
-        "question": "tpid vd;Wk; nrhy;Yf;F-------------- vd;gJ ngah;.",
-        "answer": "A) c) ,ilr;nrhy; nray;",
+        "question": "வினை என்றும் சொல்லுக்கு-------------- என்பது பெயர்.",
         "options": [
-            "A) c) ,ilr;nrhy; nray;",
-            "B) d) chpr;nrhy; ngah;r;nrhy;"
-        ]
+            "A) இடைச்சொல்",
+            "B) செயல்",
+            "C) உரிச்சொல்",
+            "D) பெயர்ச்சொல்"
+        ],
+        "answer": "B) செயல்"
     },
     {
         "question_number": 12,
-        "question": "nraiyf; Fwpf;Fk; nrhy;-------------- vdg;gLk;.",
-        "answer": "D) tpidr;nrhy;",
+        "question": "செயலைக் குறிக்கும் சொல்-------------- எனப்படும்.",
         "options": [
-            "A) b) ,ilr;nrhy; ngah;r;nrhy;",
-            "C) chpr;nrhy;",
-            "D) tpidr;nrhy;"
-        ]
+            "A) இடைச்சொல்",
+            "B) பெயர்ச்சொல்",
+            "C) உரிச்சொல்",
+            "D) வினைச்சொல்"
+        ],
+        "answer": "D) வினைச்சொல்"
     },
     {
         "question_number": 13,
-        "question": "ngah;r;nrhy;iyAk; tpidr;nrhy;iyAk; rhh;e;J tUk; nrhy;?",
-        "answer": "C) tpidr;nrhy;",
+        "question": "பெயர்ச்சொல்லையும் வினைச்சொல்லையும் சார்ந்து வரும் சொல்?",
         "options": [
-            "A) b) ,ilr;nrhy; chpr;nrhy;",
-            "C) tpidr;nrhy;",
-            "D) ngah;r;nrhy;"
-        ]
+            "A) இடைச்சொல்",
+            "B) உரிச்சொல்",
+            "C) வினைச்சொல்",
+            "D) பெயர்ச்சொல்"
+        ],
+        "answer": "A) இடைச்சொல்"
     },
     {
         "question_number": 14,
-        "question": "ngah;r;nrhy;> tpidr;nrhy; Mfpatw;wpd; jd;ikia kpFjpg;gLj;j tUtJ------------- MFk;.",
-        "answer": "D) tpidr;nrhy;",
+        "question": "பெயர்ச்சொல், வினைச்சொல் ஆகியவற்றின் தன்மையை மிகுதிப்படுத்த வருவது------------- ஆகும்.",
         "options": [
-            "A) b) chpr;nrhy; ngah;r;nrhy;",
-            "C) ,ilr;nrhy;",
-            "D) tpidr;nrhy;"
-        ]
+            "A) உரிச்சொல்",
+            "B) பெயர்ச்சொல்",
+            "C) இடைச்சொல்",
+            "D) வினைச்சொல்"
+        ],
+        "answer": "A) உரிச்சொல்"
     },
     {
         "question_number": 15,
-        "question": "xd;wd; ngaiuf; Fwpf;Fk; nrhy;--------------------- vdg;gLk;.",
-        "answer": "C) chpr;nrhy;",
+        "question": "ஒன்றன் பெயரைக் குறிக்கும் சொல்--------------------- எனப்படும்.",
         "options": [
-            "A) b) ,ilr;nrhy; ngah;r;nrhy;",
-            "C) chpr;nrhy;",
-            "D) tpidr;nrhy;"
-        ]
+            "A) இடைச்சொல்",
+            "B) பெயர்ச்சொல்",
+            "C) உரிச்சொல்",
+            "D) வினைச்சொல்"
+        ],
+        "answer": "B) பெயர்ச்சொல்"
     },
     {
         "question_number": 16,
-        "question": "ngah;r;nrhy;----------------- tifg;gLk;.",
-        "answer": "A) b) ,uz;L MW",
+        "question": "பெயர்ச்சொல்----------------- வகைப்படும்.",
         "options": [
-            "A) b) ,uz;L MW",
-            "C) %d;W",
-            "D) Ie;J"
-        ]
+            "A) இரண்டு",
+            "B) ஆறு",
+            "C) மூன்று",
+            "D) ஐந்து"
+        ],
+        "answer": "B) ஆறு"
     },
     {
         "question_number": 17,
-        "question": "nghUisf; Fwpf;Fk; ngah;--------------- vdg;gLk;.",
-        "answer": "D) nghUl;ngah;",
+        "question": "பொருளைக் குறிக்கும் பெயர்--------------- எனப்படும்.",
         "options": [
-            "A) b) ,ilr;nrhy; tpidr;nrhy;",
-            "C) chpr;nrhy;",
-            "D) nghUl;ngah;"
-        ]
+            "A) இடைச்சொல்",
+            "B) வினைச்சொல்",
+            "C) உரிச்சொல்",
+            "D) பொருட்பெயர்"
+        ],
+        "answer": "D) பொருட்பெயர்"
     },
     {
         "question_number": 18,
-        "question": "Xh; ,lj;jpd; ngaiuf; Fwpf;Fk; ngah;----------------- vdg;gLk;.",
-        "answer": "C) gz;Gg;ngah;",
+        "question": "ஓர் இடத்தின் பெயரைக் குறிக்கும் பெயர்----------------- எனப்படும்.",
         "options": [
-            "A) b) njhopw;ngah; ,lg;ngah;",
-            "C) gz;Gg;ngah;",
-            "D) rpidg;ngah;"
-        ]
+            "A) தொழிற்பெயர்",
+            "B) இடப்பெயர்",
+            "C) பண்புப்பெயர்",
+            "D) சினைப்பெயர்"
+        ],
+        "answer": "B) இடப்பெயர்"
     },
     {
         "question_number": 19,
-        "question": " fhyj;ij Fwpf;Fk; ngah;---------------- vdg;gLk;.",
-        "answer": "C) gz;Gg;ngah;",
+        "question": " காலத்தை குறிக்கும் பெயர்---------------- எனப்படும்.",
         "options": [
-            "A) b) njhopw;ngah; ,lg;ngah;",
-            "C) gz;Gg;ngah;",
-            "D) rpidg;ngah;"
-        ]
+            "A) தொழிற்பெயர்",
+            "B) இடப்பெயர்",
+            "C) பண்புப்பெயர்",
+            "D) சினைப்பெயர்"
+        ],
+        "answer": "B) இடப்பெயர்"
     },
     {
         "question_number": 20,
-        "question": " nghUspd; cWg;igf; Fwpf;Fk; ngah;------------ vdg;gLk;.",
-        "answer": "B) rpidg;ngah;",
+        "question": " பொருளின் உறுப்பைக் குறிக்கும் பெயர்------------ எனப்படும்.",
         "options": [
-            "A) njhopw;ngah;",
-            "B) rpidg;ngah;",
-            "C) gz;Gg;ngah;",
-            "D) ,lg;ngah;"
-        ]
+            "A) தொழிற்பெயர்",
+            "B) சினைப்பெயர்",
+            "C) பண்புப்பெயர்",
+            "D) இடப்பெயர்"
+        ],
+        "answer": "B) சினைப்பெயர்"
     },
     {
         "question_number": 21,
-        "question": "nghUspd; gz;igf; Fwpf;Fk; ngah;------------- vdg;gLk;.",
-        "answer": "A) gz;Gg;ngah;",
+        "question": "பொருளின் பண்பைக் குறிக்கும் பெயர்------------- எனப்படும்.",
         "options": [
-            "A) gz;Gg;ngah;",
-            "B) rpidg;ngah;",
-            "C) d) njhopw;ngah; ,lg;ngah;"
-        ]
+            "A) பண்புப்பெயர்",
+            "B) சினைப்பெயர்",
+            "C) தொழிற்பெயர்",
+            "D) இடப்பெயர்"
+        ],
+        "answer": "A) பண்புப்பெயர்"
     },
     {
         "question_number": 22,
-        "question": "njhopiyf; Fwpf;Fk; ngah;------------- vdg;gLk;.",
-        "answer": "C) d) njhopw;ngah; ,lg;ngah;",
+        "question": "தொழிலைக் குறிக்கும் பெயர்------------- எனப்படும்.",
         "options": [
-            "A) b) gz;Gg;ngah; rpidg;ngah;",
-            "C) d) njhopw;ngah; ,lg;ngah;"
-        ]
+            "A) பண்புப்பெயர்",
+            "B) சினைப்பெயர்",
+            "C) தொழிற்பெயர்",
+            "D) இடப்பெயர்"
+        ],
+        "answer": "C) தொழிற்பெயர்"
     },
     {
         "question_number": 23,
-        "question": "ek; Kd;Ndhh; ngah;r; nrhw;fis mit toq;Fk; mbg;gilapy; ,LFwpg;ngah;> fhuzg;ngah; vd --------------vdg;gLk;.",
-        "answer": "C) ,uz;L",
+        "question": "நம் முன்னோர் பெயர்ச் சொற்களை அவை வழங்கும் அடிப்படையில் இடுகுறிப்பெயர், காரணப்பெயர் என --------------எனப்படும்.",
         "options": [
-            "A) b) Ie;J xd;W",
-            "C) ,uz;L",
-            "D) ehd;F"
-        ]
+            "A) ஐந்து",
+            "B) ஒன்று",
+            "C) இரண்டு",
+            "D) நான்கு"
+        ],
+        "answer": "C) இரண்டு"
     },
     {
         "question_number": 24,
-        "question": "ek; Kd;Ndhh; rpy nghUs;fSf;Ff; fhuzk; fUjhky; ngaupl;L toq;fpdh; mt;thW ,l;L toq;fpa ngah;fs;------------- MFk;.",
-        "answer": "C) rpidg;ngah;",
+        "question": "நம் முன்னோர் சில பொருள்களுக்குக் காரணம் கருதாமல் பெயரிட்டு வழங்கினர் அவ்வாறு இட்டு வழங்கிய பெயர்கள்------------- ஆகும்.",
         "options": [
-            "A) b) ,LFwpg;ngah;fs; gz;Gg;ngah;",
-            "C) rpidg;ngah;",
-            "D) njhopw;ngah;"
-        ]
+            "A) இடுகுறிப்பெயர்கள்",
+            "B) பண்புப்பெயர்",
+            "C) சினைப்பெயர்",
+            "D) தொழிற்பெயர்"
+        ],
+        "answer": "A) இடுகுறிப்பெயர்கள்"
     },
     {
         "question_number": 25,
-        "question": ",LFwpg;ngah; -------------------- tifg;gLk;.",
-        "answer": "A) 4",
+        "question": "இடுகுறிப்பெயர் -------------------- வகைப்படும்.",
         "options": [
             "A) 4",
             "B) 3",
             "C) 1",
             "D) 2"
-        ]
+        ],
+        "answer": "A) 4"
     },
     {
         "question_number": 26,
-        "question": "Xu; ,LFwpg;ngah; mj;jd;ik cila vy;yhg; nghUs;fisAk; nghJthff; Fwpg;gJ--------------------vdg;gLk;.",
-        "answer": "D) ,LFwpg;nghJg; ngah;",
+        "question": "ஓர் இடுகுறிப்பெயர் அத்தன்மை உடைய எல்லாப் பொருள்களையும் பொதுவாகக் குறிப்பது--------------------எனப்படும்.",
         "options": [
-            "A) b) gz;Gg;ngah; njhopw;ngah;",
-            "C) rpidg;ngah;",
-            "D) ,LFwpg;nghJg; ngah;"
-        ]
+            "A) பண்புப்பெயர்",
+            "B) தொழிற்பெயர்",
+            "C) சினைப்பெயர்",
+            "D) இடுகுறிப்பொதுப் பெயர்"
+        ],
+        "answer": "D) இடுகுறிப்பொதுப் பெயர்"
     },
     {
         "question_number": 27,
-        "question": "Xh; ,LFwpg;ngah; Fwpg;ghf xU nghUis kl;Ll; Fwpg;gJ-------- vdg;gLk;.",
-        "answer": "A) b) gz;Gg;ngah; ,LFwpr; rpwg;G ngah;",
+        "question": "ஓர் இடுகுறிப்பெயர் குறிப்பாக ஒரு பொருளை மட்டுட் குறிப்பது-------- எனப்படும்.",
         "options": [
-            "A) b) gz;Gg;ngah; ,LFwpr; rpwg;G ngah;",
-            "C) rpidg;ngah;",
-            "D) chpr;nrhy;"
-        ]
+            "A) பண்புப்பெயர்",
+            "B) இடுகுறிச் சிறப்பு பெயர்",
+            "C) சினைப்பெயர்",
+            "D) உரிச்சொல்"
+        ],
+        "answer": "B) இடுகுறிச் சிறப்பு பெயர்"
     },
     {
         "question_number": 28,
-        "question": "fhuzj;NjhL xU nghUSf;F toq;Fk; ngah;--------------- vdg;gLk;.",
-        "answer": "A) b) fhuzg;ngah; gz;Gg;ngah;",
+        "question": "காரணத்தோடு ஒரு பொருளுக்கு வழங்கும் பெயர்--------------- எனப்படும்.",
         "options": [
-            "A) b) fhuzg;ngah; gz;Gg;ngah;",
-            "C) njhopw;ngah;",
-            "D) rpidg;ngah;"
-        ]
+            "A) காரணப்பெயர்",
+            "B) பண்புப்பெயர்",
+            "C) தொழிற்பெயர்",
+            "D) சினைப்பெயர்"
+        ],
+        "answer": "A) காரணப்பெயர்"
     },
     {
         "question_number": 29,
-        "question": " fhuzg;ngah; Fwpg;gpl;l fhuzKila vy;yhg; nghUs;fisAk; nghJthff; Fwpj;jy; mJ-------------- vdg;gLk;.",
-        "answer": "A) b) fhuzg;nghJg; ngah; gz;Gg;ngah;",
+        "question": " காரணப்பெயர் குறிப்பிட்ட காரணமுடைய எல்லாப் பொருள்களையும் பொதுவாகக் குறித்தல் அது-------------- எனப்படும்.",
         "options": [
-            "A) b) fhuzg;nghJg; ngah; gz;Gg;ngah;",
-            "C) njhopw;ngah;",
-            "D) rpidg;ngah;"
-        ]
+            "A) காரணப்பொதுப்",
+            "B) பெயர் பண்புப்பெயர்",
+            "C) தொழிற்பெயர்",
+            "D) சினைப்பெயர்"
+        ],
+        "answer": "A) காரணப்பொதுப்"
     },
     {
         "question_number": 30,
-        "question": "Fwpg;gpl;l fhuzKila vy;yhg; nghUs;fSs; xd;iw kl;Lk; rpwg;ghff; Fwpg;gJ--------------- MFk;.",
-        "answer": "",
+        "question": "குறிப்பிட்ட காரணமுடைய எல்லாப் பொருள்களுள் ஒன்றை மட்டும் சிறப்பாகக் குறிப்பது--------------- ஆகும்.",
         "options": [
-            "A) b) fhuzr; rpwg;Gg; ngah; gz;Gg;ngah;",
-            "C) d) njhopw;ngah; ,LFwpg;ngah;"
-        ]
+            "A) காரணச்",
+            "B) சிறப்புப் பெயர் பண்புப்பெயர்",
+            "C) தொழிற்பெயர்",
+            "D) இடுகுறிப்பெயர்"
+        ],
+        "answer": "B) சிறப்புப் பெயர் பண்புப்பெயர்"
     }
 ]
