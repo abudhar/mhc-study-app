@@ -2200,17 +2200,6 @@
         "answer": "B. Extended Service Set"
     },
     {
-        "question_number": 1,
-        "question": "What does Wi-Fi stand for? ",
-        "options": [
-            "A) Wireless Fidelity",
-            "B) It does not officially stand for anything",
-            "C) Wireless Interface",
-            "D) Wireless Frequency"
-        ],
-        "answer": "B. It does not officially stand for anything"
-    },
-    {
         "question_number": 2,
         "question": "Which organization is responsible for certifying Wi-Fi devices? ",
         "options": [
@@ -2253,17 +2242,6 @@
             "D) Assigning IP addresses"
         ],
         "answer": "B. Providing wireless connectivity"
-    },
-    {
-        "question_number": 6,
-        "question": "What is the maximum theoretical speed of Wi-Fi 6 (802.11ax)? ",
-        "options": [
-            "A) 4.8 Gbps",
-            "B) 9.6 Gbps",
-            "C) 1 Gbps",
-            "D) 6 Gbps"
-        ],
-        "answer": "B. 9.6 Gbps"
     },
     {
         "question_number": 7,
@@ -2563,17 +2541,6 @@
         "answer": "A. Request to Send / Clear to Send"
     },
     {
-        "question_number": 34,
-        "question": "What is a rogue access point? ",
-        "options": [
-            "A) A backup access point",
-            "B) A secure Wi-Fi router",
-            "C) An unauthorized access point",
-            "D) A device used for mesh networks"
-        ],
-        "answer": "C. An unauthorized access point"
-    },
-    {
         "question_number": 35,
         "question": "What is the purpose of QoS in Wi-Fi networks? ",
         "options": [
@@ -2695,17 +2662,6 @@
         "answer": "C. Ensuring device interoperability"
     },
     {
-        "question_number": 46,
-        "question": "What is a wireless SSID broadcast? ",
-        "options": [
-            "A) A security protocol",
-            "B) The transmission of the network name",
-            "C) A method for encrypting traffic",
-            "D) A feature for mesh networking"
-        ],
-        "answer": "B. The transmission of the network name"
-    },
-    {
         "question_number": 47,
         "question": "Which Wi-Fi protocol is best for IoT devices? ",
         "options": [
@@ -2748,17 +2704,6 @@
             "D) 1 km"
         ],
         "answer": "B. 100-200 meters"
-    },
-    {
-        "question_number": 1,
-        "question": "What does LAN stand for?",
-        "options": [
-            "A) Local Area Network",
-            "B) Large Area Network",
-            "C) Local Access Network",
-            "D) Long Area Network"
-        ],
-        "answer": "A) Local Area Network"
     },
     {
         "question_number": 2,

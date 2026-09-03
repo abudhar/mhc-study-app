@@ -616,17 +616,6 @@
         "answer": "B) Scalability and flexibility in resource usage"
     },
     {
-        "question_number": 57,
-        "question": "Which of the following is NOT a characteristic of cloud computing?",
-        "options": [
-            "A) On-demand access to resources",
-            "B) Fixed and unchanging infrastructure",
-            "C) Shared resources",
-            "D) Remote access to data and services"
-        ],
-        "answer": "B) Fixed and unchanging infrastructure"
-    },
-    {
         "question_number": 58,
         "question": "What is a key feature of the cloud's delivery model?",
         "options": [
@@ -2211,17 +2200,6 @@
         "answer": "A) On-demand self-service"
     },
     {
-        "question_number": 202,
-        "question": "Which of the following is NOT a characteristic of cloud computing?",
-        "options": [
-            "A) Resource pooling",
-            "B) Broad network access",
-            "C) Single-user access",
-            "D) Rapid elasticity"
-        ],
-        "answer": "C) Single-user access"
-    },
-    {
         "question_number": 203,
         "question": "What does \"multi-tenancy\" in cloud computing refer to?",
         "options": [
@@ -2574,17 +2552,6 @@
         "answer": "B) Billing based on usage"
     },
     {
-        "question_number": 235,
-        "question": "Which of the following is NOT a characteristic of cloud computing?",
-        "options": [
-            "A) Broad network access",
-            "B) On-demand self-service",
-            "C) Dedicated servers",
-            "D) Resource pooling"
-        ],
-        "answer": "C) Dedicated servers"
-    },
-    {
         "question_number": 236,
         "question": "What does the \"elasticity\" characteristic of cloud computing allow for?",
         "options": [
@@ -2814,17 +2781,6 @@
             "D) By preventing over-provisioning of resources"
         ],
         "answer": "C) By automatically scaling resources up or down based on demand"
-    },
-    {
-        "question_number": 257,
-        "question": "Which of the following is an example of cloud elasticity?",
-        "options": [
-            "A) Setting a fixed amount of memory for a server",
-            "B) Allocating more resources during high traffic periods and reducing them afterward",
-            "C) Paying a fixed monthly cost for unlimited resources",
-            "D) Manually upgrading servers to increase capacity"
-        ],
-        "answer": "B) Allocating more resources during high traffic periods and reducing them"
     },
     {
         "question_number": 258,
@@ -3617,17 +3573,6 @@
             "D) Community Cloud"
         ],
         "answer": "C) Public Cloud"
-    },
-    {
-        "question_number": 330,
-        "question": "Which of the following is NOT a benefit of on-demand provisioning?",
-        "options": [
-            "A) Reduces the need for upfront investment in hardware",
-            "B) Enables real-time resource allocation",
-            "C) Requires fixed capacity allocation for users",
-            "D) Offers flexible resource scaling"
-        ],
-        "answer": "C) Requires fixed capacity allocation for users"
     },
     {
         "question_number": 331,
@@ -4772,17 +4717,6 @@
             "D) XML-RPC"
         ],
         "answer": "B) SMTP"
-    },
-    {
-        "question_number": 435,
-        "question": "Which of the following is true about RESTful Web Services?",
-        "options": [
-            "A) They rely on complex XML-based messaging formats",
-            "B) They are built around the concepts of CRUD operations (Create, Read, Update, Delete)",
-            "C) They typically use HTTP methods like GET, POST, PUT, and DELETE",
-            "D) They require a specific programming language for implementation"
-        ],
-        "answer": "C) They typically use HTTP methods like GET, POST, PUT, and DELETE"
     },
     {
         "question_number": 436,
@@ -6622,17 +6556,6 @@
         "answer": "C) Intel VT-x or AMD-V"
     },
     {
-        "question_number": 603,
-        "question": "Which of the following is an example of application virtualization?",
-        "options": [
-            "A) VMware ESXi",
-            "B) Microsoft App-V",
-            "C) Oracle VM VirtualBox",
-            "D) Hyper-V"
-        ],
-        "answer": "B) Microsoft App-V"
-    },
-    {
         "question_number": 604,
         "question": "Which of the following is NOT a feature of Type 2 hypervisors?",
         "options": [
@@ -6818,17 +6741,6 @@
             "D) Container-based Virtualization"
         ],
         "answer": "C) Hypervisor Virtualization"
-    },
-    {
-        "question_number": 621,
-        "question": "Which of the following is an example of a Type 2 hypervisor?",
-        "options": [
-            "A) VMware ESXi",
-            "B) VirtualBox",
-            "C) XenServer",
-            "D) KVM"
-        ],
-        "answer": "B) VirtualBox"
     },
     {
         "question_number": 622,
@@ -8162,17 +8074,6 @@
         "answer": "A) Type 1 hypervisor"
     },
     {
-        "question_number": 743,
-        "question": "Which of the following is an example of a Type 1 hypervisor?",
-        "options": [
-            "A) VMware Workstation",
-            "B) VirtualBox",
-            "C) VMware ESXi",
-            "D) Oracle VM VirtualBox"
-        ],
-        "answer": "C) VMware ESXi"
-    },
-    {
         "question_number": 744,
         "question": "Which of the following is a main benefit of CPU virtualization?",
         "options": [
@@ -8215,17 +8116,6 @@
             "D) The guest operating system"
         ],
         "answer": "B) The physical machine's operating system"
-    },
-    {
-        "question_number": 748,
-        "question": "Which of the following is an example of a Type 2 hypervisor?",
-        "options": [
-            "A) VMware ESXi",
-            "B) Oracle VM VirtualBox",
-            "C) Xen",
-            "D) Hyper-V"
-        ],
-        "answer": "B) Oracle VM VirtualBox"
     },
     {
         "question_number": 749,

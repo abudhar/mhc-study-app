@@ -108,30 +108,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 10,
-        "question": "கீழ்க்கண்டவற்றுள்ெமய்ெயழுத்துஎது?",
-        "options": [
-            "A) ய்",
-            "B) ெழ",
-            "C) ைப",
-            "D) ைக"
-        ],
-        "answer": "A) ய்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 11,
-        "question": "கீழ்க்கண்டவற்றுள்ஆய்தஎழுத்துஎது?",
-        "options": [
-            "A) ஃ",
-            "B) இ",
-            "C) ழ்",
-            "D) த்"
-        ],
-        "answer": "A) ஃ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 12,
         "question": "கீழ்க்கண்டவற்றுள்உயிர்ெமய்எழுத்துஎது?",
         "options": [
@@ -141,30 +117,6 @@
             "D) க்"
         ],
         "answer": "C) ைற",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 13,
-        "question": "கீழ்க்கண்டவற்றுள்உயிர்ெமய்எழுத்துஎது?",
-        "options": [
-            "A) ஞ்",
-            "B) ஏ",
-            "C) ஞா",
-            "D) ள்"
-        ],
-        "answer": "C) ஞா",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 14,
-        "question": "கீழ்க்கண்டவற்றுள்உயிர்ெமய்எழுத்துஎது?",
-        "options": [
-            "A) ஏ",
-            "B) றூ",
-            "C) ஔ",
-            "D) ங்"
-        ],
-        "answer": "B) றூ",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -180,102 +132,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 16,
-        "question": "கீழ்க்கண்டவற்றுள்ஆய்தஎழுத்துஎது?",
-        "options": [
-            "A) ண்",
-            "B) ம்",
-            "C) ஃ",
-            "D) வ்"
-        ],
-        "answer": "C) ஃ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 17,
-        "question": "கீழ்க்கண்டவற்றுள்ஆய்தஎழுத்துஎது?",
-        "options": [
-            "A) ஆ",
-            "B) இ",
-            "C) ஊ",
-            "D) ஃ"
-        ],
-        "answer": "D) ஃ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 18,
-        "question": "கீழ்க்கண்டவற்றுள்உயிெரழுத்துஎது?",
-        "options": [
-            "A) நி",
-            "B) ஊ",
-            "C) ேஙா",
-            "D) கா"
-        ],
-        "answer": "B) ஊ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 19,
-        "question": "கீழ்க்கண்டவற்றுள்உயிெரழுத்துஎது?",
-        "options": [
-            "A) மீ",
-            "B) ஏ",
-            "C) ேம",
-            "D) கு"
-        ],
-        "answer": "B) ஏ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 20,
-        "question": "கீழ்க்கண்டவற்றுள்உயிெரழுத்துஎது?",
-        "options": [
-            "A) ஈ",
-            "B) ரா",
-            "C) ைய",
-            "D) ெஙா"
-        ],
-        "answer": "A) ஈ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 21,
-        "question": "கீழ்க்கண்டவற்றுள்ெமய்ெயழுத்துஎது?",
-        "options": [
-            "A) டி",
-            "B) ர்",
-            "C) னா",
-            "D) ரு"
-        ],
-        "answer": "B) ர்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 22,
-        "question": "கீழ்க்கண்டவற்றுள்ெமய்ெயழுத்துஎது?",
-        "options": [
-            "A) ற்",
-            "B) நீ",
-            "C) ஏ",
-            "D) ெளௗ"
-        ],
-        "answer": "A) ற்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 23,
-        "question": "கீழ்க்கண்டவற்றுள்உயிர்ெமய்எழுத்துஎது?",
-        "options": [
-            "A) ேஙா",
-            "B) ஈ",
-            "C) ஞ்",
-            "D) ஏ"
-        ],
-        "answer": "A) ேஙா",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 24,
         "question": "கீழ்க்கண்டவற்றுள்உயிெரழுத்துஎது? velaivalikatti.com | Page 3 velaivalikatti",
         "options": [
@@ -285,438 +141,6 @@
             "D) நூ"
         ],
         "answer": "C) ஓ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 25,
-        "question": "கீழ்க்கண்டவற்றுள்ஆய்தஎழுத்துஎது?",
-        "options": [
-            "A) ர்",
-            "B) ஃ",
-            "C) க்",
-            "D) வ்"
-        ],
-        "answer": "B) ஃ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 26,
-        "question": "கீழ்க்கண்டவற்றுள்ஆய்தஎழுத்துஎது?",
-        "options": [
-            "A) ள்",
-            "B) ஃ",
-            "C) ழ்",
-            "D) ம்"
-        ],
-        "answer": "B) ஃ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 27,
-        "question": "கீழ்க்கண்டவற்றுள்ெமய்ெயழுத்துஎது?",
-        "options": [
-            "A) ெட",
-            "B) ⷽண",
-            "C) க்",
-            "D) ைற"
-        ],
-        "answer": "C) க்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 28,
-        "question": "கீழ்க்கண்டவற்றுள்உயிர்ெமய்எழுத்துஎது?",
-        "options": [
-            "A) ங்",
-            "B) ள்",
-            "C) த்",
-            "D) ைய"
-        ],
-        "answer": "D) ைய",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 29,
-        "question": "கீழ்க்கண்டவற்றுள்உயிெரழுத்துஎது?",
-        "options": [
-            "A) ளீ",
-            "B) சூ",
-            "C) இ",
-            "D) மூ"
-        ],
-        "answer": "C) இ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 30,
-        "question": "கீழ்க்கண்டவற்றுள்ெமய்ெயழுத்துஎது?",
-        "options": [
-            "A) ணு",
-            "B) த்",
-            "C) ைய",
-            "D) மூ"
-        ],
-        "answer": "B) த்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 31,
-        "question": "கீழ்க்கண்டவற்றுள்உயிர்ெமய்எழுத்துஎது?",
-        "options": [
-            "A) ன்",
-            "B) ெய",
-            "C) வ்",
-            "D) ஏ"
-        ],
-        "answer": "B) ெய",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 32,
-        "question": "கீழ்க்கண்டவற்றுள்ஆய்தஎழுத்துஎது?",
-        "options": [
-            "A) ஃ",
-            "B) ஈ",
-            "C) ஓ",
-            "D) க்"
-        ],
-        "answer": "A) ஃ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 33,
-        "question": "கீழ்க்கண்டவற்றுள்உயிெரழுத்துஎது?",
-        "options": [
-            "A) டீ",
-            "B) ேதா",
-            "C) வு",
-            "D) இ"
-        ],
-        "answer": "D) இ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 34,
-        "question": "கீழ்க்கண்டவற்றுள்ெமய்ெயழுத்துஎது?",
-        "options": [
-            "A) ெபௗ",
-            "B) ேயா",
-            "C) ந்",
-            "D) ளு"
-        ],
-        "answer": "C) ந்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 35,
-        "question": "கீழ்க்கண்டவற்றுள்உயிெரழுத்துஎது?",
-        "options": [
-            "A) ேப",
-            "B) ட்",
-            "C) நு",
-            "D) ஊ"
-        ],
-        "answer": "D) ஊ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 36,
-        "question": "கீழ்க்கண்டவற்றுள்உயிெரழுத்துஎது?",
-        "options": [
-            "A) ெற",
-            "B) ைட",
-            "C) ஆ",
-            "D) ய்"
-        ],
-        "answer": "C) ஆ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 37,
-        "question": "கீழ்க்கண்டவற்றுள்உயிர்ெமய்எழுத்துஎது?",
-        "options": [
-            "A) வ்",
-            "B) ங்",
-            "C) ஐ",
-            "D) சா"
-        ],
-        "answer": "D) சா",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 38,
-        "question": "கீழ்க்கண்டவற்றுள்ெமய்ெயழுத்துஎது?",
-        "options": [
-            "A) இ",
-            "B) ெஙா",
-            "C) ெம",
-            "D) ச்"
-        ],
-        "answer": "D) ச்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 39,
-        "question": "கீழ்க்கண்டவற்றுள்உயிெரழுத்துஎது?",
-        "options": [
-            "A) ல்",
-            "B) இ",
-            "C) ேச",
-            "D) ேண"
-        ],
-        "answer": "B) இ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 40,
-        "question": "கீழ்க்கண்டவற்றுள்உயிர்ெமய்எழுத்துஎது?",
-        "options": [
-            "A) ற்",
-            "B) ன்",
-            "C) பா",
-            "D) அ"
-        ],
-        "answer": "C) பா",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 41,
-        "question": "கீழ்க்கண்டவற்றுள்உயிெரழுத்துஎது?",
-        "options": [
-            "A) ேமா",
-            "B) பூ",
-            "C) ஓ",
-            "D) ைவ"
-        ],
-        "answer": "C) ஓ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 42,
-        "question": "கீழ்க்கண்டவற்றுள்ெமய்ெயழுத்துஎது?",
-        "options": [
-            "A) ெஙௗ",
-            "B) கி",
-            "C) ட்",
-            "D) ேக"
-        ],
-        "answer": "C) ட்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 43,
-        "question": "கீழ்க்கண்டவற்றுள்ஆய்தஎழுத்துஎது?",
-        "options": [
-            "A) ஏ",
-            "B) ம்",
-            "C) ஃ",
-            "D) ள்"
-        ],
-        "answer": "C) ஃ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 44,
-        "question": "கீழ்க்கண்டவற்றுள்உயிர்ெமய்எழுத்துஎது?",
-        "options": [
-            "A) அ",
-            "B) யூ",
-            "C) ஔ",
-            "D) ஐ"
-        ],
-        "answer": "B) யூ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 45,
-        "question": "கீழ்க்கண்டவற்றுள்உயிெரழுத்துஎது?",
-        "options": [
-            "A) ேவ",
-            "B) நீ",
-            "C) கு",
-            "D) ஊ"
-        ],
-        "answer": "D) ஊ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 46,
-        "question": "கீழ்க்கண்டவற்றுள்ெமய்ெயழுத்துஎது?",
-        "options": [
-            "A) ல்",
-            "B) ேல",
-            "C) ஓ",
-            "D) ெணௗ"
-        ],
-        "answer": "A) ல்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 47,
-        "question": "கீழ்க்கண்டவற்றுள்உயிர்ெமய்எழுத்துஎது?",
-        "options": [
-            "A) ர்",
-            "B) ெறா",
-            "C) ஞ்",
-            "D) உ"
-        ],
-        "answer": "B) ெறா",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 48,
-        "question": "கீழ்க்கண்டவற்றுள்ெமய்ெயழுத்துஎது?",
-        "options": [
-            "A) ெவா",
-            "B) ஏ",
-            "C) ஙு",
-            "D) ச்"
-        ],
-        "answer": "D) ச்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 49,
-        "question": "கீழ்க்கண்டவற்றுள்ஆய்தஎழுத்துஎது?",
-        "options": [
-            "A) ஐ",
-            "B) இ",
-            "C) ர்",
-            "D) ஃ"
-        ],
-        "answer": "D) ஃ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 50,
-        "question": "கீழ்க்கண்டவற்றுள்உயிர்ெமய்எழுத்துஎது?",
-        "options": [
-            "A) ர்",
-            "B) ஐ",
-            "C) ெஙா",
-            "D) ல்"
-        ],
-        "answer": "C) ெஙா",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 51,
-        "question": "கீழ்க்கண்டவற்றுள்உயிர்ெமய்எழுத்துஎது?",
-        "options": [
-            "A) ேனா",
-            "B) எ",
-            "C) ப்",
-            "D) ந்"
-        ],
-        "answer": "A) ேனா",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 52,
-        "question": "கீழ்க்கண்டவற்றுள்ெமய்ெயழுத்துஎது?",
-        "options": [
-            "A) க்",
-            "B) ங⫗",
-            "C) ணி",
-            "D) கு"
-        ],
-        "answer": "A) க்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 53,
-        "question": "கீழ்க்கண்டவற்றுள்ஆய்தஎழுத்துஎது?",
-        "options": [
-            "A) ஈ",
-            "B) ச்",
-            "C) ல்",
-            "D) ஃ"
-        ],
-        "answer": "D) ஃ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 54,
-        "question": "கீழ்க்கண்டவற்றுள்உயிெரழுத்துஎது?",
-        "options": [
-            "A) நூ",
-            "B) ேபா",
-            "C) ஐ",
-            "D) ேட"
-        ],
-        "answer": "C) ஐ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 55,
-        "question": "கீழ்க்கண்டவற்றுள்உயிெரழுத்துஎது?",
-        "options": [
-            "A) ஔ",
-            "B) ேதா",
-            "C) ெஞா",
-            "D) ைம"
-        ],
-        "answer": "A) ஔ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 56,
-        "question": "கீழ்க்கண்டவற்றுள்ெமய்ெயழுத்துஎது?",
-        "options": [
-            "A) தீ",
-            "B) அ",
-            "C) ைங",
-            "D) வ்"
-        ],
-        "answer": "D) வ்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 57,
-        "question": "கீழ்க்கண்டவற்றுள்உயிர்ெமய்எழுத்துஎது?",
-        "options": [
-            "A) ள்",
-            "B) ற்",
-            "C) க்",
-            "D) ேணா"
-        ],
-        "answer": "D) ேணா",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 58,
-        "question": "கீழ்க்கண்டவற்றுள்உயிெரழுத்துஎது?",
-        "options": [
-            "A) வி",
-            "B) ஓ",
-            "C) ேட",
-            "D) ேஙா"
-        ],
-        "answer": "B) ஓ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 59,
-        "question": "கீழ்க்கண்டவற்றுள்ஆய்தஎழுத்துஎது?",
-        "options": [
-            "A) ன்",
-            "B) ஃ",
-            "C) ர்",
-            "D) ள்"
-        ],
-        "answer": "B) ஃ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 60,
-        "question": "கீழ்க்கண்டவற்றுள்உயிர்ெமய்எழுத்துஎது?",
-        "options": [
-            "A) ரு",
-            "B) உ",
-            "C) ஞ்",
-            "D) ங்"
-        ],
-        "answer": "A) ரு",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -768,54 +192,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 65,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ற்",
-            "B) ர்",
-            "C) ழ்",
-            "D) ய்"
-        ],
-        "answer": "A) ற்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 66,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ழ்",
-            "B) ற்",
-            "C) ஞ்",
-            "D) ம்"
-        ],
-        "answer": "B) ற்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 67,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ழ்",
-            "B) ங்",
-            "C) க்",
-            "D) ல்"
-        ],
-        "answer": "C) க்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 68,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ல்",
-            "B) ச்",
-            "C) ம்",
-            "D) ண்"
-        ],
-        "answer": "B) ச்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 69,
         "question": "கீழ்க்கண்டவற்றுள்இைடயினஎழுத்துஎது?",
         "options": [
@@ -840,162 +216,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 71,
-        "question": "கீழ்க்கண்டவற்றுள்இைடயினஎழுத்துஎது?",
-        "options": [
-            "A) க்",
-            "B) ன்",
-            "C) ர்",
-            "D) ச்"
-        ],
-        "answer": "C) ர்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 72,
-        "question": "கீழ்க்கண்டவற்றுள்ெமல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ய்",
-            "B) ஞ்",
-            "C) ர்",
-            "D) க்"
-        ],
-        "answer": "B) ஞ்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 73,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ள்",
-            "B) த்",
-            "C) ஞ்",
-            "D) ந்"
-        ],
-        "answer": "B) த்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 74,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ழ்",
-            "B) ய்",
-            "C) த்",
-            "D) வ்"
-        ],
-        "answer": "C) த்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 75,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) வ்",
-            "B) ள்",
-            "C) ன்",
-            "D) த்"
-        ],
-        "answer": "D) த்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 76,
-        "question": "கீழ்க்கண்டவற்றுள்ெமல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ர்",
-            "B) க்",
-            "C) ச்",
-            "D) ண்"
-        ],
-        "answer": "D) ண்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 77,
-        "question": "கீழ்க்கண்டவற்றுள்ெமல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ண்",
-            "B) ர்",
-            "C) க்",
-            "D) ச்"
-        ],
-        "answer": "A) ண்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 78,
-        "question": "கீழ்க்கண்டவற்றுள்இைடயினஎழுத்துஎது?",
-        "options": [
-            "A) க்",
-            "B) த்",
-            "C) ன்",
-            "D) வ்"
-        ],
-        "answer": "D) வ்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 79,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ற்",
-            "B) ன்",
-            "C) ம்",
-            "D) ஞ்"
-        ],
-        "answer": "A) ற்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 80,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ற்",
-            "B) ந்",
-            "C) ங்",
-            "D) ல்"
-        ],
-        "answer": "A) ற்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 81,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ம்",
-            "B) ல்",
-            "C) ள்",
-            "D) த்"
-        ],
-        "answer": "D) த்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 82,
-        "question": "கீழ்க்கண்டவற்றுள்ெமல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ர்",
-            "B) ச்",
-            "C) ஞ்",
-            "D) ய்"
-        ],
-        "answer": "C) ஞ்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 83,
-        "question": "கீழ்க்கண்டவற்றுள்ெமல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ம்",
-            "B) த்",
-            "C) ர்",
-            "D) ய்"
-        ],
-        "answer": "A) ம்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 84,
         "question": "கீழ்க்கண்டவற்றுள்இைடயினஎழுத்துஎது? velaivalikatti.com | Page 11 velaivalikatti",
         "options": [
@@ -1005,342 +225,6 @@
             "D) ச்"
         ],
         "answer": "A) ள்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 85,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ள்",
-            "B) ண்",
-            "C) ழ்",
-            "D) த்"
-        ],
-        "answer": "D) த்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 86,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ர்",
-            "B) ப்",
-            "C) ல்",
-            "D) ந்"
-        ],
-        "answer": "B) ப்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 87,
-        "question": "கீழ்க்கண்டவற்றுள்ெமல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ள்",
-            "B) ஞ்",
-            "C) வ்",
-            "D) க்"
-        ],
-        "answer": "B) ஞ்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 88,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ள்",
-            "B) ற்",
-            "C) வ்",
-            "D) ன்"
-        ],
-        "answer": "B) ற்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 89,
-        "question": "கீழ்க்கண்டவற்றுள்இைடயினஎழுத்துஎது?",
-        "options": [
-            "A) க்",
-            "B) த்",
-            "C) ண்",
-            "D) ள்"
-        ],
-        "answer": "D) ள்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 90,
-        "question": "கீழ்க்கண்டவற்றுள்ெமல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ம்",
-            "B) ச்",
-            "C) ர்",
-            "D) வ்"
-        ],
-        "answer": "A) ம்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 91,
-        "question": "கீழ்க்கண்டவற்றுள்ெமல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ய்",
-            "B) ள்",
-            "C) ண்",
-            "D) க்"
-        ],
-        "answer": "C) ண்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 92,
-        "question": "கீழ்க்கண்டவற்றுள்இைடயினஎழுத்துஎது?",
-        "options": [
-            "A) ர்",
-            "B) க்",
-            "C) ங்",
-            "D) ம்"
-        ],
-        "answer": "A) ர்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 93,
-        "question": "கீழ்க்கண்டவற்றுள்ெமல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ட்",
-            "B) ழ்",
-            "C) ஞ்",
-            "D) ல்"
-        ],
-        "answer": "C) ஞ்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 94,
-        "question": "கீழ்க்கண்டவற்றுள்ெமல்லினஎழுத்துஎது?",
-        "options": [
-            "A) த்",
-            "B) ச்",
-            "C) ட்",
-            "D) ஞ்"
-        ],
-        "answer": "D) ஞ்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 95,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ண்",
-            "B) ந்",
-            "C) ப்",
-            "D) ய்"
-        ],
-        "answer": "C) ப்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 96,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ல்",
-            "B) ண்",
-            "C) ர்",
-            "D) த்"
-        ],
-        "answer": "D) த்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 97,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) த்",
-            "B) ய்",
-            "C) ர்",
-            "D) ம்"
-        ],
-        "answer": "A) த்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 98,
-        "question": "கீழ்க்கண்டவற்றுள்ெமல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ம்",
-            "B) வ்",
-            "C) ள்",
-            "D) ட்"
-        ],
-        "answer": "A) ம்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 99,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ழ்",
-            "B) ண்",
-            "C) ஞ்",
-            "D) க்"
-        ],
-        "answer": "D) க்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 100,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ல்",
-            "B) ன்",
-            "C) ய்",
-            "D) ற்"
-        ],
-        "answer": "D) ற்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 101,
-        "question": "கீழ்க்கண்டவற்றுள்ெமல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ப்",
-            "B) ண்",
-            "C) த்",
-            "D) ழ்"
-        ],
-        "answer": "B) ண்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 102,
-        "question": "கீழ்க்கண்டவற்றுள்ெமல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ர்",
-            "B) ம்",
-            "C) த்",
-            "D) வ்"
-        ],
-        "answer": "B) ம்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 103,
-        "question": "கீழ்க்கண்டவற்றுள்இைடயினஎழுத்துஎது?",
-        "options": [
-            "A) ப்",
-            "B) ல்",
-            "C) ம்",
-            "D) ங்"
-        ],
-        "answer": "B) ல்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 104,
-        "question": "கீழ்க்கண்டவற்றுள்ெமல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ற்",
-            "B) ள்",
-            "C) ம்",
-            "D) ய்"
-        ],
-        "answer": "C) ம்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 105,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ண்",
-            "B) ம்",
-            "C) ள்",
-            "D) ச்"
-        ],
-        "answer": "D) ச்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 106,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) வ்",
-            "B) ழ்",
-            "C) ங்",
-            "D) ச்"
-        ],
-        "answer": "D) ச்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 107,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ல்",
-            "B) ஞ்",
-            "C) ப்",
-            "D) ம்"
-        ],
-        "answer": "C) ப்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 108,
-        "question": "கீழ்க்கண்டவற்றுள்இைடயினஎழுத்துஎது?",
-        "options": [
-            "A) வ்",
-            "B) ன்",
-            "C) ட்",
-            "D) ண்"
-        ],
-        "answer": "A) வ்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 109,
-        "question": "கீழ்க்கண்டவற்றுள்வல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ல்",
-            "B) ள்",
-            "C) ழ்",
-            "D) க்"
-        ],
-        "answer": "D) க்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 110,
-        "question": "கீழ்க்கண்டவற்றுள்ெமல்லினஎழுத்துஎது?",
-        "options": [
-            "A) ட்",
-            "B) வ்",
-            "C) ஞ்",
-            "D) ப்"
-        ],
-        "answer": "C) ஞ்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 111,
-        "question": "குறில்எழுத்துக்களின்எண்ணிக்ைகஎன்ன?",
-        "options": [
-            "A) 4",
-            "B) 6",
-            "C) 7",
-            "D) 5"
-        ],
-        "answer": "D) 5",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 112,
-        "question": "ெநடில்எழுத்துக்களின்எண்ணிக்ைகஎன்ன?",
-        "options": [
-            "A) 7",
-            "B) 6",
-            "C) 8",
-            "D) 5"
-        ],
-        "answer": "A) 7",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -1368,234 +252,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 115,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ள்",
-            "B) ஓ",
-            "C) ச்",
-            "D) ன்"
-        ],
-        "answer": "B) ஓ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 116,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ந்",
-            "B) வ்",
-            "C) உ",
-            "D) ஏ"
-        ],
-        "answer": "D) ஏ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 117,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) ட்",
-            "B) ஐ",
-            "C) ழ்",
-            "D) இ"
-        ],
-        "answer": "D) இ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 118,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) ஊ",
-            "B) க்",
-            "C) ழ்",
-            "D) ஒ"
-        ],
-        "answer": "D) ஒ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 119,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ஓ",
-            "B) ய்",
-            "C) ழ்",
-            "D) ட்"
-        ],
-        "answer": "A) ஓ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 120,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) ட்",
-            "B) ஈ",
-            "C) ஞ்",
-            "D) உ"
-        ],
-        "answer": "D) உ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 121,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) ட்",
-            "B) அ",
-            "C) ள்",
-            "D) ப்"
-        ],
-        "answer": "B) அ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 122,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ஊ",
-            "B) ழ்",
-            "C) ய்",
-            "D) அ"
-        ],
-        "answer": "A) ஊ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 123,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ய்",
-            "B) எ",
-            "C) ட்",
-            "D) ஈ"
-        ],
-        "answer": "D) ஈ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 124,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) ஆ",
-            "B) எ",
-            "C) ஊ",
-            "D) ற்"
-        ],
-        "answer": "B) எ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 125,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) இ",
-            "B) ழ்",
-            "C) ஈ",
-            "D) ய்"
-        ],
-        "answer": "A) இ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 126,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) ஐ",
-            "B) எ",
-            "C) க்",
-            "D) ங்"
-        ],
-        "answer": "B) எ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 127,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ர்",
-            "B) ழ்",
-            "C) ச்",
-            "D) ஈ"
-        ],
-        "answer": "D) ஈ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 128,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) இ",
-            "B) ஔ",
-            "C) ற்",
-            "D) ஐ"
-        ],
-        "answer": "A) இ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 129,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) எ",
-            "B) ம்",
-            "C) ள்",
-            "D) த்"
-        ],
-        "answer": "A) எ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 130,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) ன்",
-            "B) இ",
-            "C) வ்",
-            "D) ள்"
-        ],
-        "answer": "B) இ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 131,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) உ",
-            "B) வ்",
-            "C) ஏ",
-            "D) ள்"
-        ],
-        "answer": "A) உ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 132,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) ஓ",
-            "B) ம்",
-            "C) வ்",
-            "D) எ"
-        ],
-        "answer": "D) எ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 133,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) த்",
-            "B) எ",
-            "C) ங்",
-            "D) ஈ"
-        ],
-        "answer": "D) ஈ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 134,
         "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது? velaivalikatti.com | Page 18 velaivalikatti",
         "options": [
@@ -1605,318 +261,6 @@
             "D) ஏ"
         ],
         "answer": "D) ஏ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 135,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) அ",
-            "B) த்",
-            "C) ஆ",
-            "D) வ்"
-        ],
-        "answer": "A) அ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 136,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ந்",
-            "B) ங்",
-            "C) ஐ",
-            "D) ச்"
-        ],
-        "answer": "C) ஐ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 137,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ஔ",
-            "B) ட்",
-            "C) ம்",
-            "D) ய்"
-        ],
-        "answer": "A) ஔ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 138,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ஓ",
-            "B) அ",
-            "C) ச்",
-            "D) த்"
-        ],
-        "answer": "A) ஓ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 139,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ஆ",
-            "B) ஒ",
-            "C) ந்",
-            "D) ற்"
-        ],
-        "answer": "A) ஆ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 140,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ற்",
-            "B) அ",
-            "C) ஆ",
-            "D) ட்"
-        ],
-        "answer": "C) ஆ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 141,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) ல்",
-            "B) இ",
-            "C) ய்",
-            "D) ஔ"
-        ],
-        "answer": "B) இ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 142,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ற்",
-            "B) ஓ",
-            "C) ல்",
-            "D) ள்"
-        ],
-        "answer": "B) ஓ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 143,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) இ",
-            "B) ப்",
-            "C) ஓ",
-            "D) ள்"
-        ],
-        "answer": "A) இ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 144,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) க்",
-            "B) ம்",
-            "C) ப்",
-            "D) ஔ"
-        ],
-        "answer": "D) ஔ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 145,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) இ",
-            "B) ர்",
-            "C) ஊ",
-            "D) ள்"
-        ],
-        "answer": "C) ஊ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 146,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) ஒ",
-            "B) ய்",
-            "C) ச்",
-            "D) ஞ்"
-        ],
-        "answer": "A) ஒ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 147,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ண்",
-            "B) ங்",
-            "C) ஏ",
-            "D) ற்"
-        ],
-        "answer": "C) ஏ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 148,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ந்",
-            "B) ஈ",
-            "C) இ",
-            "D) வ்"
-        ],
-        "answer": "B) ஈ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 149,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) ம்",
-            "B) ஈ",
-            "C) ல்",
-            "D) இ"
-        ],
-        "answer": "D) இ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 150,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ஏ",
-            "B) ப்",
-            "C) எ",
-            "D) ள்"
-        ],
-        "answer": "A) ஏ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 151,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ப்",
-            "B) ன்",
-            "C) அ",
-            "D) ஈ"
-        ],
-        "answer": "D) ஈ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 152,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) ழ்",
-            "B) ர்",
-            "C) ஐ",
-            "D) அ"
-        ],
-        "answer": "D) அ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 153,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) ஆ",
-            "B) இ",
-            "C) ஏ",
-            "D) வ்"
-        ],
-        "answer": "B) இ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 154,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) ஒ",
-            "B) க்",
-            "C) ஐ",
-            "D) ஓ"
-        ],
-        "answer": "A) ஒ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 155,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) அ",
-            "B) ஆ",
-            "C) ள்",
-            "D) ற்"
-        ],
-        "answer": "B) ஆ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 156,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) ஒ",
-            "B) ப்",
-            "C) ற்",
-            "D) ந்"
-        ],
-        "answer": "A) ஒ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 157,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) இ",
-            "B) ன்",
-            "C) ண்",
-            "D) ஏ"
-        ],
-        "answer": "D) ஏ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 158,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ஈ",
-            "B) ம்",
-            "C) ற்",
-            "D) ந்"
-        ],
-        "answer": "A) ஈ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 159,
-        "question": "கீழ்க்கண்டவற்றுள்குறில்எழுத்துஎது?",
-        "options": [
-            "A) ர்",
-            "B) ய்",
-            "C) ற்",
-            "D) அ"
-        ],
-        "answer": "D) அ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 160,
-        "question": "கீழ்க்கண்டவற்றுள்ெநடில்எழுத்துஎது?",
-        "options": [
-            "A) ழ்",
-            "B) ட்",
-            "C) ம்",
-            "D) ஈ"
-        ],
-        "answer": "D) ஈ",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -2016,30 +360,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 169,
-        "question": "உைடைமேவற்றுைமஎன்பதுஎத்தⷽனயாம்ேவற்றுைம?",
-        "options": [
-            "A) நான்காம்ேவற்றுைம",
-            "B) முதல்ேவற்றுைம",
-            "C) ஆறாம்ேவற்றுைம",
-            "D) ஐந்தாம்ேவற்றுைம"
-        ],
-        "answer": "C) ஆறாம்ேவற்றுைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 170,
-        "question": "ஐந்தாம்ேவற்றுைமயின்ெபயர்என்ன?",
-        "options": [
-            "A) ெசயப்படுெபாருள்ேவற்றுைம",
-            "B) உைடைமேவற்றுைம",
-            "C) நீங்கல்ேவற்றுைம",
-            "D) எழுவாய்ேவற்றுைம"
-        ],
-        "answer": "C) நீங்கல்ேவற்றுைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 171,
         "question": "மூன்றாம்ேவற்றுைமயின்ெபயர்என்ன?",
         "options": [
@@ -2061,42 +381,6 @@
             "D) எழுவாய்ேவற்றுைம"
         ],
         "answer": "A) உைடைமேவற்றுைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 173,
-        "question": "எழுவாய்ேவற்றுைமஎன்பதுஎத்தⷽனயாம்ேவற்றுைம?",
-        "options": [
-            "A) முதல்ேவற்றுைம",
-            "B) இரண்டாம்ேவற்றுைம",
-            "C) நான்காம்ேவற்றுைம",
-            "D) மூன்றாம்ேவற்றுைம"
-        ],
-        "answer": "A) முதல்ேவற்றுைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 174,
-        "question": "'ஏ' என்பதுஎந்தேவற்றுைமஉருபு?",
-        "options": [
-            "A) உைடைமேவற்றுைம",
-            "B) விளிேவற்றுைம",
-            "C) ெகாைடேவற்றுைம",
-            "D) கருவிேவற்றுைம"
-        ],
-        "answer": "B) விளிேவற்றுைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 175,
-        "question": "உைடைமேவற்றுைமஎன்பதுஎத்தⷽனயாம்ேவற்றுைம?",
-        "options": [
-            "A) எட்டாம்ேவற்றுைம",
-            "B) இரண்டாம்ேவற்றுைம",
-            "C) ஆறாம்ேவற்றுைம",
-            "D) நான்காம்ேவற்றுைம"
-        ],
-        "answer": "C) ஆறாம்ேவற்றுைம",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -2124,18 +408,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 178,
-        "question": "உைடைமேவற்றுைமயின்உருபுஎது?",
-        "options": [
-            "A) உருபுஇல்ⷽல",
-            "B) அது",
-            "C) ஆல்",
-            "D) கு"
-        ],
-        "answer": "B) அது",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 179,
         "question": "எழுவாய்ேவற்றுைமயின்உருபுஎது?",
         "options": [
@@ -2157,30 +429,6 @@
             "D) ஐந்தாம்ேவற்றுைம"
         ],
         "answer": "D) ஐந்தாம்ேவற்றுைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 181,
-        "question": "உைடைமேவற்றுைமயின்உருபுஎது?",
-        "options": [
-            "A) அது",
-            "B) உருபுஇல்ⷽல",
-            "C) ஆல்",
-            "D) கு"
-        ],
-        "answer": "A) அது",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 182,
-        "question": "ெசயப்படுெபாருள்ேவற்றுைமயின்உருபுஎது?",
-        "options": [
-            "A) உருபுஇல்ⷽல",
-            "B) ஐ",
-            "C) அது",
-            "D) ஆல்"
-        ],
-        "answer": "B) ஐ",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -2220,18 +468,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 186,
-        "question": "மூன்றாம்ேவற்றுைமயின்ெபயர்என்ன?",
-        "options": [
-            "A) எழுவாய்ேவற்றுைம",
-            "B) கருவிேவற்றுைம",
-            "C) விளிேவற்றுைம",
-            "D) நீங்கல்ேவற்றுைம"
-        ],
-        "answer": "B) கருவிேவற்றுைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 187,
         "question": "கருவிேவற்றுைமயின்உருபுஎது?",
         "options": [
@@ -2256,18 +492,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 189,
-        "question": "நீங்கல்ேவற்றுைமயின்உருபுஎது?",
-        "options": [
-            "A) உருபுஇல்ⷽல",
-            "B) இன்று",
-            "C) ஏ",
-            "D) அது"
-        ],
-        "answer": "B) இன்று",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 190,
         "question": "ஆறாம்ேவற்றுைமயின்ெபயர்என்ன?",
         "options": [
@@ -2277,30 +501,6 @@
             "D) உைடைமேவற்றுைம"
         ],
         "answer": "D) உைடைமேவற்றுைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 191,
-        "question": "விளிேவற்றுைமயின்உருபுஎது?",
-        "options": [
-            "A) அது",
-            "B) ஆல்",
-            "C) ஏ",
-            "D) கண்"
-        ],
-        "answer": "C) ஏ",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 192,
-        "question": "எழுவாய்ேவற்றுைமயின்உருபுஎது?",
-        "options": [
-            "A) அது",
-            "B) கு",
-            "C) கண்",
-            "D) உருபுஇல்ⷽல"
-        ],
-        "answer": "D) உருபுஇல்ⷽல",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -2340,18 +540,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 196,
-        "question": "ஐந்தாம்ேவற்றுைமயின்ெபயர்என்ன?",
-        "options": [
-            "A) உைடைமேவற்றுைம",
-            "B) இடேவற்றுைம",
-            "C) எழுவாய்ேவற்றுைம",
-            "D) நீங்கல்ேவற்றுைம"
-        ],
-        "answer": "D) நீங்கல்ேவற்றுைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 197,
         "question": "'இன்று' என்பதுஎந்தேவற்றுைமஉருபு?",
         "options": [
@@ -2364,18 +552,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 198,
-        "question": "'ஏ' என்பதுஎந்தேவற்றுைமஉருபு?",
-        "options": [
-            "A) எழுவாய்ேவற்றுைம",
-            "B) ெசயப்படுெபாருள்ேவற்றுைம",
-            "C) கருவிேவற்றுைம",
-            "D) விளிேவற்றுைம"
-        ],
-        "answer": "D) விளிேவற்றுைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 199,
         "question": "விளிேவற்றுைமஎன்பதுஎத்தⷽனயாம்ேவற்றுைம?",
         "options": [
@@ -2385,30 +561,6 @@
             "D) எட்டாம்ேவற்றுைம"
         ],
         "answer": "D) எட்டாம்ேவற்றுைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 200,
-        "question": "இடேவற்றுைமயின்உருபுஎது?",
-        "options": [
-            "A) ஏ",
-            "B) ஐ",
-            "C) கண்",
-            "D) இன்று"
-        ],
-        "answer": "C) கண்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 201,
-        "question": "இடேவற்றுைமயின்உருபுஎது?",
-        "options": [
-            "A) ஏ",
-            "B) கண்",
-            "C) உருபுஇல்ⷽல",
-            "D) கு"
-        ],
-        "answer": "B) கண்",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -2436,30 +588,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 204,
-        "question": "உைடைமேவற்றுைமயின்உருபுஎது?",
-        "options": [
-            "A) ஏ",
-            "B) உருபுஇல்ⷽல",
-            "C) அது",
-            "D) கு"
-        ],
-        "answer": "C) அது",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 205,
-        "question": "இரண்டாம்ேவற்றுைமயின்ெபயர்என்ன?",
-        "options": [
-            "A) நீங்கல்ேவற்றுைம",
-            "B) கருவிேவற்றுைம",
-            "C) உைடைமேவற்றுைம",
-            "D) ெசயப்படுெபாருள்ேவற்றுைம"
-        ],
-        "answer": "D) ெசயப்படுெபாருள்ேவற்றுைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 206,
         "question": "இடேவற்றுைமஎன்பதுஎத்தⷽனயாம்ேவற்றுைம?",
         "options": [
@@ -2469,54 +597,6 @@
             "D) ஏழாம்ேவற்றுைம"
         ],
         "answer": "D) ஏழாம்ேவற்றுைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 207,
-        "question": "'இன்று' என்பதுஎந்தேவற்றுைமஉருபு?",
-        "options": [
-            "A) உைடைமேவற்றுைம",
-            "B) கருவிேவற்றுைம",
-            "C) எழுவாய்ேவற்றுைம",
-            "D) நீங்கல்ேவற்றுைம"
-        ],
-        "answer": "D) நீங்கல்ேவற்றுைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 208,
-        "question": "இடேவற்றுைமயின்உருபுஎது?",
-        "options": [
-            "A) ஏ",
-            "B) கண்",
-            "C) உருபுஇல்ⷽல",
-            "D) ஆல்"
-        ],
-        "answer": "B) கண்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 209,
-        "question": "'ஐ' என்பதுஎந்தேவற்றுைமஉருபு?",
-        "options": [
-            "A) விளிேவற்றுைம",
-            "B) ெகாைடேவற்றுைம",
-            "C) உைடைமேவற்றுைம",
-            "D) ெசயப்படுெபாருள்ேவற்றுைம"
-        ],
-        "answer": "D) ெசயப்படுெபாருள்ேவற்றுைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 210,
-        "question": "'ஏ' என்பதுஎந்தேவற்றுைமஉருபு?",
-        "options": [
-            "A) விளிேவற்றுைம",
-            "B) நீங்கல்ேவற்றுைம",
-            "C) ெசயப்படுெபாருள்ேவற்றுைம",
-            "D) கருவிேவற்றுைம"
-        ],
-        "answer": "A) விளிேவற்றுைம",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -2553,18 +633,6 @@
             "D) ெபயர்ச்ெசால்"
         ],
         "answer": "C) விⷽனச்ெசால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 214,
-        "question": "'மற்றும்' என்பதுஎந்தவைகச்ெசால்?",
-        "options": [
-            "A) இைடச்ெசால்",
-            "B) விⷽனச்ெசால்",
-            "C) உரிச்ெசால்",
-            "D) ெபயர்ச்ெசால்"
-        ],
-        "answer": "A) இைடச்ெசால்",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -2652,18 +720,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 222,
-        "question": "'ேபாேவன்' என்பதுஎந்தவைகச்ெசால்?",
-        "options": [
-            "A) விⷽனச்ெசால்",
-            "B) இைடச்ெசால்",
-            "C) உரிச்ெசால்",
-            "D) ெபயர்ச்ெசால்"
-        ],
-        "answer": "A) விⷽனச்ெசால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 223,
         "question": "'எழுதுகிறாள்' என்பதுஎந்தவைகச்ெசால்?",
         "options": [
@@ -2736,18 +792,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 229,
-        "question": "'வாசிக்கிேறன்' என்பதுஎந்தவைகச்ெசால்?",
-        "options": [
-            "A) விⷽனச்ெசால்",
-            "B) இைடச்ெசால்",
-            "C) ெபயர்ச்ெசால்",
-            "D) உரிச்ெசால்"
-        ],
-        "answer": "A) விⷽனச்ெசால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 230,
         "question": "'வந்ேதன்' என்பதுஎந்தவைகச்ெசால்?",
         "options": [
@@ -2757,30 +801,6 @@
             "D) ெபயர்ச்ெசால்"
         ],
         "answer": "A) விⷽனச்ெசால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 231,
-        "question": "'மற்றும்' என்பதுஎந்தவைகச்ெசால்?",
-        "options": [
-            "A) விⷽனச்ெசால்",
-            "B) இைடச்ெசால்",
-            "C) ெபயர்ச்ெசால்",
-            "D) உரிச்ெசால்"
-        ],
-        "answer": "B) இைடச்ெசால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 232,
-        "question": "'எழுதுகிறாள்' என்பதுஎந்தவைகச்ெசால்?",
-        "options": [
-            "A) இைடச்ெசால்",
-            "B) ெபயர்ச்ெசால்",
-            "C) உரிச்ெசால்",
-            "D) விⷽனச்ெசால்"
-        ],
-        "answer": "D) விⷽனச்ெசால்",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -2803,18 +823,6 @@
             "B) இைடச்ெசால்",
             "C) விⷽனச்ெசால்",
             "D) உரிச்ெசால்"
-        ],
-        "answer": "B) இைடச்ெசால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 235,
-        "question": "'ஓ' என்பதுஎந்தவைகச்ெசால்?",
-        "options": [
-            "A) உரிச்ெசால்",
-            "B) இைடச்ெசால்",
-            "C) ெபயர்ச்ெசால்",
-            "D) விⷽனச்ெசால்"
         ],
         "answer": "B) இைடச்ெசால்",
         "unit": "Tamil Eligibility Test"
@@ -2856,18 +864,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 239,
-        "question": "'மற்றும்' என்பதுஎந்தவைகச்ெசால்?",
-        "options": [
-            "A) ெபயர்ச்ெசால்",
-            "B) இைடச்ெசால்",
-            "C) உரிச்ெசால்",
-            "D) விⷽனச்ெசால்"
-        ],
-        "answer": "B) இைடச்ெசால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 240,
         "question": "'ஓடுகிறாள்' என்பதுஎந்தவைகச்ெசால்?",
         "options": [
@@ -2889,30 +885,6 @@
             "D) உரிச்ெசால்"
         ],
         "answer": "A) இைடச்ெசால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 242,
-        "question": "'ஆ' என்பதுஎந்தவைகச்ெசால்?",
-        "options": [
-            "A) விⷽனச்ெசால்",
-            "B) இைடச்ெசால்",
-            "C) ெபயர்ச்ெசால்",
-            "D) உரிச்ெசால்"
-        ],
-        "answer": "B) இைடச்ெசால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 243,
-        "question": "'நடந்தான்' என்பதுஎந்தவைகச்ெசால்?",
-        "options": [
-            "A) ெபயர்ச்ெசால்",
-            "B) உரிச்ெசால்",
-            "C) விⷽனச்ெசால்",
-            "D) இைடச்ெசால்"
-        ],
-        "answer": "C) விⷽனச்ெசால்",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -2940,30 +912,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 246,
-        "question": "'மாணவன்' என்பதுஎந்தவைகச்ெசால்?",
-        "options": [
-            "A) ெபயர்ச்ெசால்",
-            "B) விⷽனச்ெசால்",
-            "C) உரிச்ெசால்",
-            "D) இைடச்ெசால்"
-        ],
-        "answer": "A) ெபயர்ச்ெசால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 247,
-        "question": "'விⷽளயாடுகிறார்கள்' என்பதுஎந்தவைகச்ெசால்?",
-        "options": [
-            "A) ெபயர்ச்ெசால்",
-            "B) உரிச்ெசால்",
-            "C) இைடச்ெசால்",
-            "D) விⷽனச்ெசால்"
-        ],
-        "answer": "D) விⷽனச்ெசால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 248,
         "question": "'ேபனா' என்பதுஎந்தவைகச்ெசால்?",
         "options": [
@@ -2973,18 +921,6 @@
             "D) உரிச்ெசால்"
         ],
         "answer": "B) ெபயர்ச்ெசால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 249,
-        "question": "'மற்றும்' என்பதுஎந்தவைகச்ெசால்?",
-        "options": [
-            "A) உரிச்ெசால்",
-            "B) இைடச்ெசால்",
-            "C) விⷽனச்ெசால்",
-            "D) ெபயர்ச்ெசால்"
-        ],
-        "answer": "B) இைடச்ெசால்",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -4452,270 +2388,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 372,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) ெகாக்கு",
-            "B) கத்தரிக்காய்",
-            "C) காகம்",
-            "D) மயில்"
-        ],
-        "answer": "B) கத்தரிக்காய்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 373,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) புதன்",
-            "B) தாமைர",
-            "C) வியாழன்",
-            "D) ெசவ்வாய்"
-        ],
-        "answer": "B) தாமைர",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 374,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) மயில்",
-            "B) ஆனி",
-            "C) சித்திைர",
-            "D) ஆவணி"
-        ],
-        "answer": "A) மயில்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 375,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) சிங்கம்",
-            "B) புலி",
-            "C) அலமாரி",
-            "D) கரடி"
-        ],
-        "answer": "C) அலமாரி",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 376,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) மூக்கு",
-            "B) ஆவணி",
-            "C) ஆனி",
-            "D) ைவகாசி"
-        ],
-        "answer": "A) மூக்கு",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 377,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) பச்ைச",
-            "B) ஆவணி",
-            "C) ஆனி",
-            "D) ஆடி"
-        ],
-        "answer": "A) பச்ைச",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 378,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) பலாப்பழம்",
-            "B) சிங்கம்",
-            "C) குரங்கு",
-            "D) கரடி"
-        ],
-        "answer": "A) பலாப்பழம்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 379,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) யாⷽன",
-            "B) புலி",
-            "C) சிங்கம்",
-            "D) மயில்"
-        ],
-        "answer": "D) மயில்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 380,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) முள்ளங்கி",
-            "B) சேகாதரன்",
-            "C) தந்ைத",
-            "D) மாமா"
-        ],
-        "answer": "A) முள்ளங்கி",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 381,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) ெவண்ைடக்காய்",
-            "B) விமானம்",
-            "C) கத்தரிக்காய்",
-            "D) முள்ளங்கி"
-        ],
-        "answer": "B) விமானம்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 382,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) நீலம்",
-            "B) தக்காளி",
-            "C) பச்ைச",
-            "D) ெவள்ⷽள"
-        ],
-        "answer": "B) தக்காளி",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 383,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) சித்திைர",
-            "B) மாம்பழம்",
-            "C) திராட்ைச",
-            "D) பலாப்பழம்"
-        ],
-        "answer": "A) சித்திைர",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 384,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) ெகாக்கு",
-            "B) கிளி",
-            "C) ைவகாசி",
-            "D) காகம்"
-        ],
-        "answer": "C) ைவகாசி",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 385,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) திராட்ைச",
-            "B) ஆப்பிள்",
-            "C) ைக",
-            "D) மாம்பழம்"
-        ],
-        "answer": "C) ைக",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 386,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) சித்திைர",
-            "B) ஆனி",
-            "C) ஆடி",
-            "D) ெசவ்வாய்"
-        ],
-        "answer": "D) ெசவ்வாய்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 387,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) புறா",
-            "B) ெகாக்கு",
-            "C) சேகாதரி",
-            "D) காகம்"
-        ],
-        "answer": "C) சேகாதரி",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 388,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) ெசம்பருத்தி",
-            "B) ேபருந்து",
-            "C) தாமைர",
-            "D) ேராஜா"
-        ],
-        "answer": "B) ேபருந்து",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 389,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) ேகரட்",
-            "B) பச்ைச",
-            "C) கருப்பு",
-            "D) மஞ்சள்"
-        ],
-        "answer": "A) ேகரட்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 390,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) தாமைர",
-            "B) ேமைச",
-            "C) ெசம்பருத்தி",
-            "D) மல்லிைக"
-        ],
-        "answer": "B) ேமைச",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 391,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) மல்லிைக",
-            "B) ெசம்பருத்தி",
-            "C) ேராஜா",
-            "D) தக்காளி"
-        ],
-        "answer": "D) தக்காளி",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 392,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) யாⷽன",
-            "B) குரங்கு",
-            "C) கண்",
-            "D) கரடி"
-        ],
-        "answer": "C) கண்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 393,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) ஆனி",
-            "B) கரடி",
-            "C) குரங்கு",
-            "D) சிங்கம்"
-        ],
-        "answer": "A) ஆனி",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 394,
         "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது? velaivalikatti.com | Page 54 velaivalikatti",
         "options": [
@@ -4725,198 +2397,6 @@
             "D) மயில்"
         ],
         "answer": "B) கால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 395,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) புதன்",
-            "B) வியாழன்",
-            "C) தாய்",
-            "D) ெசவ்வாய்"
-        ],
-        "answer": "C) தாய்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 396,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) தாய்",
-            "B) தந்ைத",
-            "C) கண்",
-            "D) சேகாதரன்"
-        ],
-        "answer": "C) கண்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 397,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) நரி",
-            "B) குரங்கு",
-            "C) ெவள்ⷽள",
-            "D) யாⷽன"
-        ],
-        "answer": "C) ெவள்ⷽள",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 398,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) அலமாரி",
-            "B) கார்",
-            "C) விமானம்",
-            "D) மிதிவண்டி"
-        ],
-        "answer": "A) அலமாரி",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 399,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) சேகாதரி",
-            "B) மூக்கு",
-            "C) கால்",
-            "D) தⷽல"
-        ],
-        "answer": "A) சேகாதரி",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 400,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) ைக",
-            "B) தⷽல",
-            "C) மூக்கு",
-            "D) சித்திைர"
-        ],
-        "answer": "D) சித்திைர",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 401,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) மிதிவண்டி",
-            "B) ேபருந்து",
-            "C) விமானம்",
-            "D) புறா"
-        ],
-        "answer": "D) புறா",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 402,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) தந்ைத",
-            "B) தாய்",
-            "C) கிளி",
-            "D) மாமா"
-        ],
-        "answer": "C) கிளி",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 403,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) மிதிவண்டி",
-            "B) சேகாதரி",
-            "C) சேகாதரன்",
-            "D) தந்ைத"
-        ],
-        "answer": "A) மிதிவண்டி",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 404,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) ைக",
-            "B) மூக்கு",
-            "C) தⷽல",
-            "D) ஆவணி"
-        ],
-        "answer": "D) ஆவணி",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 405,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) ெகாக்கு",
-            "B) நீலம்",
-            "C) மயில்",
-            "D) காகம்"
-        ],
-        "answer": "B) நீலம்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 406,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) ஆப்பிள்",
-            "B) ெவண்ைடக்காய்",
-            "C) திராட்ைச",
-            "D) பலாப்பழம்"
-        ],
-        "answer": "B) ெவண்ைடக்காய்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 407,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) நீலம்",
-            "B) கத்தரிக்காய்",
-            "C) மஞ்சள்",
-            "D) கருப்பு"
-        ],
-        "answer": "B) கத்தரிக்காய்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 408,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) ஆடி",
-            "B) ஆனி",
-            "C) சித்திைர",
-            "D) ெசவ்வாய்"
-        ],
-        "answer": "D) ெசவ்வாய்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 409,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) தாமைர",
-            "B) ேராஜா",
-            "C) ெசம்பருத்தி",
-            "D) புறா"
-        ],
-        "answer": "D) புறா",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 410,
-        "question": "கீழ்க்கண்டவற்றுள்ெபாருந்தாதெசால்எது?",
-        "options": [
-            "A) யாⷽன",
-            "B) குரங்கு",
-            "C) மாமா",
-            "D) கரடி"
-        ],
-        "answer": "C) மாமா",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -4992,18 +2472,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 417,
-        "question": "'ஆேராக்கியேமமகாெசல்வம்' எனும்பழெமாழியின்ெபாருள்என்ன?",
-        "options": [
-            "A) அறிவுதான்மிகப்ெபரியசக்தி",
-            "B) அன்புதான்இைறவனுக்குநிகரானது",
-            "C) உடல்நலேமமிகப்ெபரியெசல்வம்",
-            "D) ெபற்றஉதவிையஎன்றும்மறக்கக்கூடாது"
-        ],
-        "answer": "C) உடல்நலேமமிகப்ெபரியெசல்வம்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 418,
         "question": "'கல்விகண்திறக்கும்' எனும்பழெமாழியின்ெபாருள்என்ன?",
         "options": [
@@ -5025,18 +2493,6 @@
             "D) அறிேவஆற்றல்"
         ],
         "answer": "D) அறிேவஆற்றல்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 420,
-        "question": "'கல்விகண்திறக்கும்' எனும்பழெமாழியின்ெபாருள்என்ன?",
-        "options": [
-            "A) ெபற்றஉதவிையஎன்றும்மறக்கக்கூடாது",
-            "B) கல்விஅறியாைமையநீக்கிஅறிைவத்தரும்",
-            "C) இறுதியில்ெபாய்ையவிடஉண்ைமெவற்றிெபறும்",
-            "D) அன்புதான்இைறவனுக்குநிகரானது"
-        ],
-        "answer": "B) கல்விஅறியாைமையநீக்கிஅறிைவத்தரும்",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -5064,42 +2520,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 423,
-        "question": "'கல்விஅறியாைமையநீக்கிஅறிைவத்தரும்' எனும்கருத்ைதத்தரும்பழெமாழிஎது?",
-        "options": [
-            "A) காலம்ெபான்ஆகும்",
-            "B) கல்விகண்திறக்கும்",
-            "C) அன்ேபசிவம்",
-            "D) அறிேவஆற்றல்"
-        ],
-        "answer": "B) கல்விகண்திறக்கும்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 424,
-        "question": "'கல்விகண்திறக்கும்' எனும்பழெமாழியின்ெபாருள்என்ன?",
-        "options": [
-            "A) உடல்நலேமமிகப்ெபரியெசல்வம்",
-            "B) கல்விஅறியாைமையநீக்கிஅறிைவத்தரும்",
-            "C) ெபற்றஉதவிையஎன்றும்மறக்கக்கூடாது",
-            "D) கடினஉைழப்புெவற்றிையத்தரும்"
-        ],
-        "answer": "B) கல்விஅறியாைமையநீக்கிஅறிைவத்தரும்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 425,
-        "question": "'ஆேராக்கியேமமகாெசல்வம்' எனும்பழெமாழியின்ெபாருள்என்ன?",
-        "options": [
-            "A) ஒற்றுைமயால்ெபரும்பலம்கிைடக்கும்",
-            "B) ெபற்றஉதவிையஎன்றும்மறக்கக்கூடாது",
-            "C) உடல்நலேமமிகப்ெபரியெசல்வம்",
-            "D) அன்புதான்இைறவனுக்குநிகரானது"
-        ],
-        "answer": "C) உடல்நலேமமிகப்ெபரியெசல்வம்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 426,
         "question": "'ெபாறுைமேயெவற்றியின்திறவுேகால்' எனும்பழெமாழியின்ெபாருள்என்ன?",
         "options": [
@@ -5121,18 +2541,6 @@
             "D) ஒற்றுைமயால்ெபரும்பலம்கிைடக்கும்"
         ],
         "answer": "A) படிக்காதவன்ெபரும்பதவியில்இருந்தாலும்தாழ்ந்தவேன",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 428,
-        "question": "'கல்விஅறியாைமையநீக்கிஅறிைவத்தரும்' எனும்கருத்ைதத்தரும்பழெமாழிஎது?",
-        "options": [
-            "A) கல்விகண்திறக்கும்",
-            "B) ெபாறுைமேயெவற்றியின்திறவுேகால்",
-            "C) காலம்ெபான்ஆகும்",
-            "D) உண்ைமேயெவல்லும்"
-        ],
-        "answer": "A) கல்விகண்திறக்கும்",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -5172,30 +2580,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 432,
-        "question": "'ேநரம்மிகவும்மதிப்புமிக்கது, வ⫗ணாக்கக்கூடாது' எனும்கருத்ைதத்தரும்பழெமாழிஎது?",
-        "options": [
-            "A) காலம்ெபான்ஆகும்",
-            "B) அறிேவஆற்றல்",
-            "C) அன்ேபசிவம்",
-            "D) கல்விகண்திறக்கும்"
-        ],
-        "answer": "A) காலம்ெபான்ஆகும்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 433,
-        "question": "'கல்விஅறியாைமையநீக்கிஅறிைவத்தரும்' எனும்கருத்ைதத்தரும்பழெமாழிஎது?",
-        "options": [
-            "A) ெபாறுைமேயெவற்றியின்திறவுேகால்",
-            "B) கல்விகண்திறக்கும்",
-            "C) ஒற்றுைமேயபலம்",
-            "D) காலம்ெபான்ஆகும்"
-        ],
-        "answer": "B) கல்விகண்திறக்கும்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 434,
         "question": "'கல்விஅறியாைமையநீக்கிஅறிைவத்தரும்' எனும்கருத்ைதத்தரும்பழெமாழிஎது? velaivalikatti.com | Page 60 velaivalikatti",
         "options": [
@@ -5205,78 +2589,6 @@
             "D) கல்விகண்திறக்கும்"
         ],
         "answer": "D) கல்விகண்திறக்கும்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 435,
-        "question": "'அன்புதான்இைறவனுக்குநிகரானது' எனும்கருத்ைதத்தரும்பழெமாழிஎது?",
-        "options": [
-            "A) காலம்ெபான்ஆகும்",
-            "B) ஒற்றுைமேயபலம்",
-            "C) கல்லாதவன்அரசனாயினும்இழிந்தவேன",
-            "D) அன்ேபசிவம்"
-        ],
-        "answer": "D) அன்ேபசிவம்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 436,
-        "question": "'உண்ைமேயெவல்லும்' எனும்பழெமாழியின்ெபாருள்என்ன?",
-        "options": [
-            "A) ஒற்றுைமயால்ெபரும்பலம்கிைடக்கும்",
-            "B) ஒற்றுைமயாகவாழ்வதால்பலநன்ைமகள்கிைடக்கும்",
-            "C) ேநரம்மிகவும்மதிப்புமிக்கது, வ⫗ணாக்கக்கூடாது",
-            "D) இறுதியில்ெபாய்ையவிடஉண்ைமெவற்றிெபறும்"
-        ],
-        "answer": "D) இறுதியில்ெபாய்ையவிடஉண்ைமெவற்றிெபறும்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 437,
-        "question": "'ஒற்றுைமேயபலம்' எனும்பழெமாழியின்ெபாருள்என்ன?",
-        "options": [
-            "A) படிக்காதவன்ெபரும்பதவியில்இருந்தாலும்தாழ்ந்தவேன",
-            "B) கடினஉைழப்புெவற்றிையத்தரும்",
-            "C) ேநரம்மிகவும்மதிப்புமிக்கது, வ⫗ணாக்கக்கூடாது",
-            "D) ஒற்றுைமயால்ெபரும்பலம்கிைடக்கும்"
-        ],
-        "answer": "D) ஒற்றுைமயால்ெபரும்பலம்கிைடக்கும்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 438,
-        "question": "'ஒற்றுைமேயபலம்' எனும்பழெமாழியின்ெபாருள்என்ன?",
-        "options": [
-            "A) ஒற்றுைமயால்ெபரும்பலம்கிைடக்கும்",
-            "B) ஒற்றுைமயாகவாழ்வதால்பலநன்ைமகள்கிைடக்கும்",
-            "C) கடினஉைழப்புெவற்றிையத்தரும்",
-            "D) கல்விஅறியாைமையநீக்கிஅறிைவத்தரும்"
-        ],
-        "answer": "A) ஒற்றுைமயால்ெபரும்பலம்கிைடக்கும்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 439,
-        "question": "'அன்ேபசிவம்' எனும்பழெமாழியின்ெபாருள்என்ன?",
-        "options": [
-            "A) கடினஉைழப்புெவற்றிையத்தரும்",
-            "B) ேநரம்மிகவும்மதிப்புமிக்கது, வ⫗ணாக்கக்கூடாது",
-            "C) ஒற்றுைமயால்ெபரும்பலம்கிைடக்கும்",
-            "D) அன்புதான்இைறவனுக்குநிகரானது"
-        ],
-        "answer": "D) அன்புதான்இைறவனுக்குநிகரானது",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 440,
-        "question": "'அன்ேபசிவம்' எனும்பழெமாழியின்ெபாருள்என்ன?",
-        "options": [
-            "A) படிக்காதவன்ெபரும்பதவியில்இருந்தாலும்தாழ்ந்தவேன",
-            "B) கல்விஅறியாைமையநீக்கிஅறிைவத்தரும்",
-            "C) ஒற்றுைமயாகவாழ்வதால்பலநன்ைமகள்கிைடக்கும்",
-            "D) அன்புதான்இைறவனுக்குநிகரானது"
-        ],
-        "answer": "D) அன்புதான்இைறவனுக்குநிகரானது",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -5712,18 +3024,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 477,
-        "question": "'அது' என்னும்ெசால்எந்தபால்குறிக்கிறது?",
-        "options": [
-            "A) ஒன்றன்பால்",
-            "B) பலர்பால்",
-            "C) பலவின்பால்",
-            "D) ஆண்பால்"
-        ],
-        "answer": "A) ஒன்றன்பால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 478,
         "question": "'அவன்' என்னும்ெசால்எந்தபால்குறிக்கிறது?",
         "options": [
@@ -5748,18 +3048,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 480,
-        "question": "'பறைவகள்' என்னும்ெசால்எந்தஎண்குறிக்கிறது?",
-        "options": [
-            "A) தன்ைமபன்ைம",
-            "B) பன்ைம",
-            "C) ஒருைம",
-            "D) பலர்பால்"
-        ],
-        "answer": "B) பன்ைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 481,
         "question": "'அைவ' என்னும்ெசால்எந்தபால்குறிக்கிறது?",
         "options": [
@@ -5769,54 +3057,6 @@
             "D) ஆண்பால்"
         ],
         "answer": "C) பலவின்பால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 482,
-        "question": "'அது' என்னும்ெசால்எந்தஇடம்குறிக்கிறது?",
-        "options": [
-            "A) தன்ைமபன்ைம",
-            "B) படர்க்ைகஒருைம",
-            "C) முன்னிⷽலபன்ைம",
-            "D) படர்க்ைகபன்ைம"
-        ],
-        "answer": "B) படர்க்ைகஒருைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 483,
-        "question": "'அது' என்னும்ெசால்எந்தபால்குறிக்கிறது?",
-        "options": [
-            "A) பலவின்பால்",
-            "B) பலர்பால்",
-            "C) ஆண்பால்",
-            "D) ஒன்றன்பால்"
-        ],
-        "answer": "D) ஒன்றன்பால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 484,
-        "question": "'அது' என்னும்ெசால்எந்தபால்குறிக்கிறது?",
-        "options": [
-            "A) பலர்பால்",
-            "B) ெபண்பால்",
-            "C) ஒன்றன்பால்",
-            "D) பலவின்பால்"
-        ],
-        "answer": "C) ஒன்றன்பால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 485,
-        "question": "'அது' என்னும்ெசால்எந்தபால்குறிக்கிறது?",
-        "options": [
-            "A) பலர்பால்",
-            "B) ெபண்பால்",
-            "C) பலவின்பால்",
-            "D) ஒன்றன்பால்"
-        ],
-        "answer": "D) ஒன்றன்பால்",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -5844,18 +3084,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 488,
-        "question": "'அைவ' என்னும்ெசால்எந்தபால்குறிக்கிறது?",
-        "options": [
-            "A) ெபண்பால்",
-            "B) பலர்பால்",
-            "C) ஒன்றன்பால்",
-            "D) பலவின்பால்"
-        ],
-        "answer": "D) பலவின்பால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 489,
         "question": "'நாம்' என்னும்ெசால்எந்தஇடம்குறிக்கிறது?",
         "options": [
@@ -5865,18 +3093,6 @@
             "D) படர்க்ைகஒருைம"
         ],
         "answer": "B) தன்ைமபன்ைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 490,
-        "question": "'அவர்கள்' என்னும்ெசால்எந்தபால்குறிக்கிறது?",
-        "options": [
-            "A) பலவின்பால்",
-            "B) ஆண்பால்",
-            "C) பலர்பால்",
-            "D) ஒன்றன்பால்"
-        ],
-        "answer": "C) பலர்பால்",
         "unit": "Tamil Eligibility Test"
     },
     {
@@ -5928,18 +3144,6 @@
         "unit": "Tamil Eligibility Test"
     },
     {
-        "question_number": 495,
-        "question": "'அவர்கள்' என்னும்ெசால்எந்தபால்குறிக்கிறது?",
-        "options": [
-            "A) ஆண்பால்",
-            "B) பலர்பால்",
-            "C) ஒன்றன்பால்",
-            "D) ெபண்பால்"
-        ],
-        "answer": "B) பலர்பால்",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
         "question_number": 496,
         "question": "'அவன்' என்னும்ெசால்எந்தஇடம்குறிக்கிறது?",
         "options": [
@@ -5949,30 +3153,6 @@
             "D) தன்ைமபன்ைம"
         ],
         "answer": "A) படர்க்ைகஒருைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 497,
-        "question": "'நாம்' என்னும்ெசால்எந்தஇடம்குறிக்கிறது?",
-        "options": [
-            "A) தன்ைமபன்ைம",
-            "B) படர்க்ைகஒருைம",
-            "C) முன்னிⷽலஒருைம",
-            "D) முன்னிⷽலபன்ைம"
-        ],
-        "answer": "A) தன்ைமபன்ைம",
-        "unit": "Tamil Eligibility Test"
-    },
-    {
-        "question_number": 498,
-        "question": "'நாம்' என்னும்ெசால்எந்தஇடம்குறிக்கிறது?",
-        "options": [
-            "A) முன்னிⷽலஒருைம",
-            "B) படர்க்ைகபன்ைம",
-            "C) படர்க்ைகஒருைம",
-            "D) தன்ைமபன்ைம"
-        ],
-        "answer": "D) தன்ைமபன்ைம",
         "unit": "Tamil Eligibility Test"
     },
     {

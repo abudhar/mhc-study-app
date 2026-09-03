@@ -2189,17 +2189,6 @@
         "answer": "b) Use try...catch to handle exceptions"
     },
     {
-        "question_number": 50,
-        "question": "What does JSON stand for? ",
-        "options": [
-            "A) JavaScript Object Notation",
-            "B) JavaScript Open Notation",
-            "C) JavaScript Oriented Network",
-            "D) JavaScript Object Navigator"
-        ],
-        "answer": "a) JavaScript Object Notation"
-    },
-    {
         "question_number": 1,
         "question": "What does AJAX stand for? ",
         "options": [
@@ -2968,17 +2957,6 @@
             "D) It has valid data types and values"
         ],
         "answer": "a) It contains no syntax errors and follows XML rules"
-    },
-    {
-        "question_number": 21,
-        "question": "What does XML stand for? ",
-        "options": [
-            "A) Extensible Markup Language",
-            "B) Extended Markup Language",
-            "C) External Markup Language",
-            "D) Extra Markup Language"
-        ],
-        "answer": "a) Extensible Markup Language"
     },
     {
         "question_number": 22,
@@ -5377,17 +5355,6 @@
             "D) string_length()"
         ],
         "answer": "b) len()"
-    },
-    {
-        "question_number": 40,
-        "question": "How do you handle exceptions in Python? ",
-        "options": [
-            "A) try...except",
-            "B) try...except",
-            "C) try...catch",
-            "D) catch...finally"
-        ],
-        "answer": "b) try...except"
     },
     {
         "question_number": 41,

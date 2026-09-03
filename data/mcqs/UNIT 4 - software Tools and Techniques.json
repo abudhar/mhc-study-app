@@ -3332,17 +3332,6 @@
         "answer": "A) CREATE DATABASE"
     },
     {
-        "question_number": 4,
-        "question": "Which of the following is a feature of PostgreSQL? ",
-        "options": [
-            "A) ACID compliance (Atomicity, Consistency, Isolation, Durability)",
-            "B) No support for transactions",
-            "C) Limited indexing options",
-            "D) Only supports relational data models"
-        ],
-        "answer": "A) ACID compliance (Atomicity, Consistency, Isolation, Durability)"
-    },
-    {
         "question_number": 5,
         "question": "What type of DBMS is PostgreSQL classified as? ",
         "options": [
