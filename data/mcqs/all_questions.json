@@ -36199,7 +36199,7 @@
             "C) 7",
             "D) 10"
         ],
-        "answer": "A) 8",
+        "answer": "D) 10",
         "unit": "7th std tamil grammer 1term",
         "global_id": 3085
     },
@@ -36225,7 +36225,7 @@
             "C) அரை மாத்திரை",
             "D) மாத்திரை"
         ],
-        "answer": "A) 2 மாத்திரை",
+        "answer": "B) 1 மாத்திரை",
         "unit": "7th std tamil grammer 1term",
         "global_id": 3087
     },
@@ -36251,7 +36251,7 @@
             "C) 5",
             "D) 7"
         ],
-        "answer": "A) 4",
+        "answer": "B) 6",
         "unit": "7th std tamil grammer 1term",
         "global_id": 3089
     },
@@ -36285,12 +36285,12 @@
         "question_number": 10,
         "question": "ஆய்த எழுத்தைத் தொடர்ந்து வரும் குற்றியலுகரம்--------- எனப்படும்.",
         "options": [
-            "A) ஆய்தத் தொடர்க்",
+            "A) ஆய்தத் தொடர்க் குற்றியலுகரம்",
             "B) நெடில் தொடர்க் குற்றியலுகரம்",
             "C) குற்றியலுகரம்",
             "D) முற்றியலுகரம்"
         ],
-        "answer": "B) நெடில் தொடர்க் குற்றியலுகரம்",
+        "answer": "A) ஆய்தத் தொடர்க் குற்றியலுகரம்",
         "unit": "7th std tamil grammer 1term",
         "global_id": 3092
     },
@@ -36326,10 +36326,10 @@
         "options": [
             "A) வன்தொடர்க் குற்றியலுகரம்",
             "B) ஆய்தத் தொடர்க் குற்றியலுகரம்",
-            "C) மென் தொடர்க்",
+            "C) மென் தொடர்க் குற்றியலுகரம்",
             "D) நெடில் தொடர்க் குற்றியலுகரம்"
         ],
-        "answer": "A) வன்தொடர்க் குற்றியலுகரம்",
+        "answer": "C) மென் தொடர்க் குற்றியலுகரம்",
         "unit": "7th std tamil grammer 1term",
         "global_id": 3095
     },
@@ -36340,9 +36340,9 @@
             "A) வன்தொடர்க்",
             "B) ஆய்தத் தொடர்க் குற்றியலுகரம்",
             "C) மென் தொடர்க் குற்றியலுகரம்",
-            "D) இடைத் தொடர்க்"
+            "D) இடைத் தொடர்க் குற்றியலுகரம்"
         ],
-        "answer": "B) ஆய்தத் தொடர்க் குற்றியலுகரம்",
+        "answer": "D) இடைத் தொடர்க் குற்றியலுகரம்",
         "unit": "7th std tamil grammer 1term",
         "global_id": 3096
     },
@@ -36433,7 +36433,7 @@
             "C) 1 மாத்திரை",
             "D) ஒன்றரை மாத்திரை"
         ],
-        "answer": "A) மாத்திரை",
+        "answer": "C) 1 மாத்திரை",
         "unit": "7th std tamil grammer 1term",
         "global_id": 3103
     },
@@ -36446,7 +36446,7 @@
             "C) 1 மாத்திரை",
             "D) ஒன்றரை மாத்திரை"
         ],
-        "answer": "A) மாத்திரை",
+        "answer": "B) 2 மாத்திரை",
         "unit": "7th std tamil grammer 1term",
         "global_id": 3104
     },
@@ -36532,12 +36532,12 @@
         "question_number": 29,
         "question": "ஓர் எழுத்தே பொருள் தரும் சொல்லாக அமைவதை------------- என்பர்.",
         "options": [
-            "A) ஓரெழுத்து ஒரு",
+            "A) ஓரெழுத்து ஒரு மொழி",
             "B) மொழி குறுக்கங்கள்",
             "C) ஒளகாரக்குறுக்கம்",
             "D) ஐகாரக்குறுக்கம்"
         ],
-        "answer": "A) ஓரெழுத்து ஒரு",
+        "answer": "A) ஓரெழுத்து ஒரு மொழி",
         "unit": "7th std tamil grammer 1term",
         "global_id": 3111
     },
@@ -36575,7 +36575,7 @@
             "C) 5",
             "D) 6"
         ],
-        "answer": "A) 3",
+        "answer": "D) 6",
         "unit": "7th std tamil grammer 1term",
         "global_id": 3114
     },
@@ -36583,10 +36583,10 @@
         "question_number": 33,
         "question": "பகுபதமாக அமையும் வினைச்செயல்--------------- ஆகும்.",
         "options": [
-            "A) பகுபதங்கள்",
+            "A) வினைப்பகுபதம்",
             "C) பகுபத உறுப்புகள்"
         ],
-        "answer": "A) பகுபதங்கள்",
+        "answer": "A) வினைப்பகுபதம்",
         "unit": "7th std tamil grammer 1term",
         "global_id": 3115
     },
@@ -36599,7 +36599,7 @@
             "C) 5",
             "D) 6"
         ],
-        "answer": "A) 3",
+        "answer": "D) 6",
         "unit": "7th std tamil grammer 1term",
         "global_id": 3116
     },
@@ -36677,7 +36677,7 @@
             "C) விகாரம்",
             "D) பகாப்பதம்"
         ],
-        "answer": "A) பகுதி",
+        "answer": "C) விகாரம்",
         "unit": "7th std tamil grammer 1term",
         "global_id": 3122
     },
@@ -36690,7 +36690,7 @@
             "C) விகாரம்",
             "D) பகாப்பதம்"
         ],
-        "answer": "A) பகுதி",
+        "answer": "D) பகாப்பதம்",
         "unit": "7th std tamil grammer 1term",
         "global_id": 3123
     },
@@ -36729,7 +36729,7 @@
             "C) 4",
             "D) 10"
         ],
-        "answer": "A) 8",
+        "answer": "C) 4",
         "unit": "7th std tamil grammer 2nd term",
         "global_id": 3126
     },
@@ -36742,7 +36742,7 @@
             "C) 3",
             "D) 4"
         ],
-        "answer": "A) 2",
+        "answer": "D) 4",
         "unit": "7th std tamil grammer 2nd term",
         "global_id": 3127
     },
@@ -36768,7 +36768,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1",
+        "answer": "D) 4",
         "unit": "7th std tamil grammer 2nd term",
         "global_id": 3129
     },
@@ -36937,7 +36937,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1",
+        "answer": "C) 2",
         "unit": "7th std tamil grammer 2nd term",
         "global_id": 3142
     },
@@ -37000,9 +37000,9 @@
             "A) முதல் நிலை",
             "B) படர்க்கை",
             "C) திசைச்சொற்கள்",
-            "D) முதல் நிலைத்"
+            "D) முதல் நிலைத் தொழிற்பெயர்"
         ],
-        "answer": "D) முதல் நிலைத்",
+        "answer": "D) முதல் நிலைத் தொழிற்பெயர்",
         "unit": "7th std tamil grammer 2nd term",
         "global_id": 3147
     },
@@ -37010,12 +37010,12 @@
         "question_number": 25,
         "question": "பகுதியாகிய முதல்நிலை திரிவதால் உருவாகும் தொழிற்பெயர்------- தொழிற்பெயர் எனப்படும்.",
         "options": [
-            "A) முதல் நிலை",
+            "A) முதல் நிலை திரிந்த தொழிற்பெயர்",
             "B) படர்க்கை",
             "C) முதல் நிலை",
             "D) திரிசொற்கள்"
         ],
-        "answer": "A) முதல் நிலை",
+        "answer": "A) முதல் நிலை திரிந்த தொழிற்பெயர்",
         "unit": "7th std tamil grammer 2nd term",
         "global_id": 3148
     },
@@ -37041,7 +37041,7 @@
             "C) 4",
             "D) 3"
         ],
-        "answer": "A) 5",
+        "answer": "B) 2",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3150
     },
@@ -37067,7 +37067,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1",
+        "answer": "B) 3",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3152
     },
@@ -37102,11 +37102,11 @@
         "question": "இலக்கணப்போலியாகிய------------- என்பது பெரும்பாலும் சொற்களின் முன்பின் பகுதிகள் இடம்மாறி வருவதையே குறிக்கும்.",
         "options": [
             "A) இயல்பு வழக்கு",
-            "B) சொற்போலி",
+            "B) முன்பின்னாகத் தொக்க போலி",
             "C) இலக்கணம்",
             "D) வழக்கு"
         ],
-        "answer": "B) சொற்போலி",
+        "answer": "B) முன்பின்னாகத் தொக்க போலி",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3155
     },
@@ -37145,7 +37145,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1",
+        "answer": "B) 3",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3158
     },
@@ -37179,12 +37179,12 @@
         "question_number": 13,
         "question": "சொல்லின் இடையில் வரும் ஐகார எழுத்திற்குப் பதிலாக --------- போலியாக வரும்.",
         "options": [
-            "A) அகரம்",
+            "A) அய்",
             "B) இடைப்போலி",
             "C) சொல்",
             "D) எழுத்து"
         ],
-        "answer": "A) அகரம்",
+        "answer": "A) அய்",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3161
     },
@@ -37275,7 +37275,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1",
+        "answer": "B) 3",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3168
     },
@@ -37295,12 +37295,12 @@
         "question_number": 22,
         "question": "மங்கலமில்லாத சொற்களை வேறு சொற்களால் குறிப்பதை----------- என்பர்.",
         "options": [
-            "A) முங்கலம்",
+            "A) மங்கலம்",
             "B) சொல்",
             "C) போலி",
             "D) அகரம்"
         ],
-        "answer": "A) முங்கலம்",
+        "answer": "A) மங்கலம்",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3170
     },
@@ -37365,7 +37365,7 @@
             "C) 5",
             "D) 7"
         ],
-        "answer": "A) 4",
+        "answer": "C) 5",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3175
     },
@@ -37443,7 +37443,7 @@
             "C) 3",
             "D) 4"
         ],
-        "answer": "A) 1",
+        "answer": "B) 2",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3181
     },
@@ -37482,7 +37482,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1",
+        "answer": "B) 3",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3184
     },
@@ -37508,7 +37508,7 @@
             "C) 1",
             "D) 3"
         ],
-        "answer": "A) 4",
+        "answer": "B) 2",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3186
     },
@@ -37534,7 +37534,7 @@
             "C) 3",
             "D) 4"
         ],
-        "answer": "A) 1",
+        "answer": "B) 2",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3188
     },
@@ -37560,7 +37560,7 @@
             "C) மூன்று",
             "D) ஐந்து"
         ],
-        "answer": "A) இரண்டு",
+        "answer": "C) 3",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3190
     },
@@ -37573,7 +37573,7 @@
             "C) உரிச்சொல்",
             "D) இறந்த காலம்"
         ],
-        "answer": "A) எதிர் காலம்",
+        "answer": "D) இறந்த காலம்",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3191
     },
@@ -37586,7 +37586,7 @@
             "C) பண்புப்பெயர்",
             "D) இறந்த காலம்"
         ],
-        "answer": "A) தொழிற்பெயர்",
+        "answer": "B) நிகழ் காலம்",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3192
     },
@@ -37599,7 +37599,7 @@
             "C) பண்புப்பெயர்",
             "D) எதிர் காலம்"
         ],
-        "answer": "A) தொழிற்பெயர்",
+        "answer": "D) எதிர் காலம்",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3193
     },
@@ -37651,7 +37651,7 @@
             "C) இரண்டு",
             "D) அடுக்குத்தொடர்"
         ],
-        "answer": "A) ஐந்து",
+        "answer": "D) அடுக்குத்தொடர்",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3197
     },
@@ -37742,7 +37742,7 @@
             "C) 8",
             "D) 7"
         ],
-        "answer": "A) 5",
+        "answer": "B) 6",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3204
     },
@@ -37833,7 +37833,7 @@
             "C) 4",
             "D) 8"
         ],
-        "answer": "A) 2",
+        "answer": "D) 8",
         "unit": "7th std tamil grammer 3rd term",
         "global_id": 3211
     },
@@ -37950,7 +37950,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1",
+        "answer": "C) 2",
         "unit": "8th std grammer",
         "global_id": 3220
     },
@@ -38119,7 +38119,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1",
+        "answer": "C) 2",
         "unit": "8th std grammer",
         "global_id": 3233
     },
@@ -38196,7 +38196,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1",
+        "answer": "C) 2",
         "unit": "8th std grammer",
         "global_id": 3239
     },
@@ -38235,7 +38235,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1",
+        "answer": "B) 3",
         "unit": "9th std tamil grammer part II",
         "global_id": 3242
     },
@@ -38352,7 +38352,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1",
+        "answer": "C) 2",
         "unit": "9th std tamil grammer part II",
         "global_id": 3251
     },
@@ -38404,7 +38404,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1",
+        "answer": "B) 3",
         "unit": "9th std tamil grammer part II",
         "global_id": 3255
     },
@@ -38417,7 +38417,7 @@
             "C) 30",
             "D) 50"
         ],
-        "answer": "A) 20",
+        "answer": "B) 40",
         "unit": "9th std tamil grammer part II",
         "global_id": 3256
     },
@@ -38482,7 +38482,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1",
+        "answer": "B) 3",
         "unit": "9th std tamil grammer part II",
         "global_id": 3261
     },
@@ -38521,7 +38521,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1",
+        "answer": "C) 2",
         "unit": "9th std tamil grammer part II",
         "global_id": 3264
     },
@@ -38546,7 +38546,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "B) 3",
+        "answer": "D) 4",
         "unit": "9th std tamil grammer part II",
         "global_id": 3266
     },
@@ -38597,7 +38597,7 @@
             "C) 5",
             "D) 4;"
         ],
-        "answer": "A) 2",
+        "answer": "C) 5",
         "unit": "9th std tamil grammer part II",
         "global_id": 3270
     },
@@ -38630,10 +38630,10 @@
     {
         "question_number": 1,
         "question": "ஒரு மொழியில் உணர்த்தப்பட்டதத வேமொரு மொழியில் மேளியிடுேது மொழிமபயர்ப்பு என்று கூறியேர் யொர்?",
-        "answer": "B) ணதே முஸ்தபொ",
+        "answer": "B) மணவை முஸ்தபா",
         "options": [
             "A) மு.கு. ஜகந்நொதர்",
-            "B) ணதே முஸ்தபொ",
+            "B) மணவை முஸ்தபா",
             "C) மாணிக்கவாசகர்",
             "D) நக்கீரர்"
         ],

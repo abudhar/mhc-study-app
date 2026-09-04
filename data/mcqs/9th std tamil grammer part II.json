@@ -19,7 +19,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1"
+        "answer": "B) 3"
     },
     {
         "question_number": 3,
@@ -118,7 +118,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1"
+        "answer": "C) 2"
     },
     {
         "question_number": 12,
@@ -162,7 +162,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1"
+        "answer": "B) 3"
     },
     {
         "question_number": 16,
@@ -173,7 +173,7 @@
             "C) 30",
             "D) 50"
         ],
-        "answer": "A) 20"
+        "answer": "B) 40"
     },
     {
         "question_number": 17,
@@ -228,7 +228,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1"
+        "answer": "B) 3"
     },
     {
         "question_number": 22,
@@ -261,7 +261,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "A) 1"
+        "answer": "C) 2"
     },
     {
         "question_number": 25,
@@ -282,7 +282,7 @@
             "C) 2",
             "D) 4"
         ],
-        "answer": "B) 3"
+        "answer": "D) 4"
     },
     {
         "question_number": 27,
@@ -325,7 +325,7 @@
             "C) 5",
             "D) 4;"
         ],
-        "answer": "A) 2"
+        "answer": "C) 5"
     },
     {
         "question_number": 31,
