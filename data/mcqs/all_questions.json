@@ -27299,19 +27299,6 @@
         "global_id": 2160
     },
     {
-        "question_number": 161,
-        "question": "In parallel computing, which type of system uses multiple processors executing different instructions on different data?",
-        "options": [
-            "A) SIMD (Single Instruction, Multiple Data)",
-            "B) MIMD (Multiple Instruction, Multiple Data)",
-            "C) SMP (Symmetric Multi-Processing)",
-            "D) Vector processing"
-        ],
-        "answer": "B) MIMD (Multiple Instruction, Multiple Data)",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 2161
-    },
-    {
         "question_number": 162,
         "question": "What is a primary consideration when designing a distributed system?",
         "options": [
@@ -27988,19 +27975,6 @@
         "global_id": 2214
     },
     {
-        "question_number": 215,
-        "question": "In cloud computing, what is meant by \"elasticity\"?",
-        "options": [
-            "A) The ability to access data at any time",
-            "B) The ability to process data faster",
-            "C) The ability to scale resources up and down as required by demand",
-            "D) The ability to maintain multiple copies of data"
-        ],
-        "answer": "C) The ability to scale resources up and down as required by demand",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 2215
-    },
-    {
         "question_number": 216,
         "question": "What is the key benefit of cloud computing’s \"on-demand self-service\" characteristic?",
         "options": [
@@ -28129,19 +28103,6 @@
         "answer": "B) Paying for cloud services based on actual consumption",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 2225
-    },
-    {
-        "question_number": 226,
-        "question": "Which of the following cloud service models allows users to run applications without managing the underlying infrastructure?",
-        "options": [
-            "A) IaaS",
-            "B) PaaS",
-            "C) SaaS",
-            "D) DaaS"
-        ],
-        "answer": "B) PaaS",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 2226
     },
     {
         "question_number": 227,
@@ -28545,19 +28506,6 @@
         "answer": "A) Over-provisioning resources that are not needed",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 2259
-    },
-    {
-        "question_number": 260,
-        "question": "What is meant by \"elastic scalability\" in the context of cloud computing?",
-        "options": [
-            "A) The ability to add or remove computing resources based on demand",
-            "B) The ability to keep computing resources constant",
-            "C) The ability to scale resources manually",
-            "D) The ability to manage storage resources only"
-        ],
-        "answer": "A) The ability to add or remove computing resources based on demand",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 2260
     },
     {
         "question_number": 261,
@@ -30612,19 +30560,6 @@
         "answer": "B) Create a new resource on the server",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 2419
-    },
-    {
-        "question_number": 420,
-        "question": "In a RESTful service, what does the PUT method do?",
-        "options": [
-            "A) Retrieve an existing resource",
-            "B) Delete an existing resource",
-            "C) Update an existing resource or create a new resource",
-            "D) Fetch a resource without modifying it"
-        ],
-        "answer": "C) Update an existing resource or create a new resource",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 2420
     },
     {
         "question_number": 421,
@@ -45661,19 +45596,6 @@
         "global_id": 3813
     },
     {
-        "question_number": 569,
-        "question": "Which of the following is NOT a type of virtualization?",
-        "options": [
-            "A) Full virtualization",
-            "B) Application virtualization",
-            "C) File virtualization",
-            "D) Network virtualization"
-        ],
-        "answer": "C) File virtualization",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 3814
-    },
-    {
         "question_number": 570,
         "question": "Server virtualization allows for:",
         "options": [
@@ -45986,19 +45908,6 @@
         "global_id": 3838
     },
     {
-        "question_number": 594,
-        "question": "Which virtualization model requires a host operating system to run the hypervisor?",
-        "options": [
-            "A) Type 1 Hypervisor",
-            "B) Type 2 Hypervisor",
-            "C) OS-level Virtualization",
-            "D) Application Virtualization"
-        ],
-        "answer": "B) Type 2 Hypervisor",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 3839
-    },
-    {
         "question_number": 595,
         "question": "Which of the following is a characteristic of OS-level virtualization?",
         "options": [
@@ -46036,19 +45945,6 @@
         "answer": "C) To manage virtual machines by allocating resources",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 3842
-    },
-    {
-        "question_number": 598,
-        "question": "Which of the following is a popular Type 1 Hypervisor?",
-        "options": [
-            "A) VMware Workstation",
-            "B) Microsoft Hyper-V",
-            "C) VMware ESXi",
-            "D) VirtualBox"
-        ],
-        "answer": "C) VMware ESXi",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 3843
     },
     {
         "question_number": 599,
@@ -46129,19 +46025,6 @@
         "global_id": 3850
     },
     {
-        "question_number": 606,
-        "question": "Which type of virtualization allows running multiple instances of operating systems on a single physical machine?",
-        "options": [
-            "A) Application Virtualization",
-            "B) OS-level Virtualization",
-            "C) Hardware Virtualization",
-            "D) Network Virtualization"
-        ],
-        "answer": "C) Hardware Virtualization",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 3851
-    },
-    {
         "question_number": 607,
         "question": "Which virtualization approach is commonly used in cloud environments to maximize resource usage and isolation?",
         "options": [
@@ -46179,19 +46062,6 @@
         "answer": "C) Greater resource isolation and utilization",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 3854
-    },
-    {
-        "question_number": 610,
-        "question": "Which of the following is an example of OS-level virtualization?",
-        "options": [
-            "A) Docker",
-            "B) VMware Workstation",
-            "C) Microsoft Hyper-V",
-            "D) XenServer"
-        ],
-        "answer": "A) Docker",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 3855
     },
     {
         "question_number": 611,
@@ -46506,19 +46376,6 @@
         "global_id": 3880
     },
     {
-        "question_number": 636,
-        "question": "Which of the following allows you to run multiple virtual machines with different operating systems on the same hardware?",
-        "options": [
-            "A) Hypervisor Virtualization",
-            "B) OS-level Virtualization",
-            "C) Application Virtualization",
-            "D) Storage Virtualization"
-        ],
-        "answer": "A) Hypervisor Virtualization",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 3881
-    },
-    {
         "question_number": 637,
         "question": "What is the primary function of the Virtual Machine Monitor (VMM) in a hypervisor?",
         "options": [
@@ -46582,19 +46439,6 @@
         "answer": "C) To manage and allocate resources between virtual machines",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 3886
-    },
-    {
-        "question_number": 642,
-        "question": "What type of hypervisor runs directly on physical hardware without needing an underlying operating system?",
-        "options": [
-            "A) Type 1 Hypervisor",
-            "B) Type 2 Hypervisor",
-            "C) Cloud Hypervisor",
-            "D) Virtual Machine Monitor"
-        ],
-        "answer": "A) Type 1 Hypervisor",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 3887
     },
     {
         "question_number": 643,
@@ -46675,19 +46519,6 @@
         "global_id": 3893
     },
     {
-        "question_number": 649,
-        "question": "Which virtualization type involves the use of containers for creating isolated application environments?",
-        "options": [
-            "A) Operating system-level virtualization",
-            "B) Hardware virtualization",
-            "C) Network virtualization",
-            "D) Full virtualization"
-        ],
-        "answer": "A) Operating system-level virtualization",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 3894
-    },
-    {
         "question_number": 650,
         "question": "Server virtualization can help achieve which of the following?",
         "options": [
@@ -46751,19 +46582,6 @@
         "answer": "B) It allows applications to run in isolated environments without requiring a",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 3899
-    },
-    {
-        "question_number": 655,
-        "question": "Which type of hypervisor would most likely be used for enterprise-scale virtualization?",
-        "options": [
-            "A) Type 2 hypervisor",
-            "B) Virtual Machine Monitor",
-            "C) Type 1 hypervisor",
-            "D) Cloud hypervisor"
-        ],
-        "answer": "C) Type 1 hypervisor",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 3900
     },
     {
         "question_number": 656,
@@ -47154,19 +46972,6 @@
         "answer": "B) It combines multiple physical servers into a single virtualized infrastructure",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 3930
-    },
-    {
-        "question_number": 686,
-        "question": "Hyper-V is associated with which virtualization technology?",
-        "options": [
-            "A) Cloud storage virtualization",
-            "B) Server virtualization",
-            "C) Application virtualization",
-            "D) Network virtualization"
-        ],
-        "answer": "B) Server virtualization",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 3931
     },
     {
         "question_number": 687,
@@ -47884,19 +47689,6 @@
         "global_id": 3986
     },
     {
-        "question_number": 742,
-        "question": "Which hypervisor type runs directly on the hardware to manage virtual machines?",
-        "options": [
-            "A) Type 1 hypervisor",
-            "B) Type 2 hypervisor",
-            "C) Software emulator",
-            "D) Virtual machine monitor"
-        ],
-        "answer": "A) Type 1 hypervisor",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 3987
-    },
-    {
         "question_number": 744,
         "question": "Which of the following is a main benefit of CPU virtualization?",
         "options": [
@@ -47934,19 +47726,6 @@
         "answer": "A) Intel VT-x",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 3991
-    },
-    {
-        "question_number": 747,
-        "question": "What does the term 'host OS' refer to in CPU virtualization?",
-        "options": [
-            "A) The virtual machine operating system",
-            "B) The physical machine's operating system",
-            "C) The virtual machine monitor",
-            "D) The guest operating system"
-        ],
-        "answer": "B) The physical machine's operating system",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 3992
     },
     {
         "question_number": 749,
@@ -48391,19 +48170,6 @@
         "global_id": 4027
     },
     {
-        "question_number": 783,
-        "question": "What is the main advantage of using a type 1 hypervisor over a type 2 hypervisor for CPU virtualization?",
-        "options": [
-            "A) Type 1 hypervisors require less hardware",
-            "B) Type 1 hypervisors are more efficient because they run directly on the hardware",
-            "C) Type 1 hypervisors are easier to configure",
-            "D) Type 1 hypervisors are more suitable for personal use"
-        ],
-        "answer": "B) Type 1 hypervisors are more efficient because they run directly on the",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4028
-    },
-    {
         "question_number": 784,
         "question": "Which of the following is a challenge when virtualizing CPUs?",
         "options": [
@@ -48742,19 +48508,6 @@
         "global_id": 4054
     },
     {
-        "question_number": 810,
-        "question": "Which technique is used to ensure memory isolation between virtual machines?",
-        "options": [
-            "A) Virtual memory mapping",
-            "B) Memory segmentation",
-            "C) Memory paging",
-            "D) Memory overcommitment"
-        ],
-        "answer": "B) Memory segmentation",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4055
-    },
-    {
         "question_number": 811,
         "question": "In I/O virtualization, what is \"device pass-through\"?",
         "options": [
@@ -48896,19 +48649,6 @@
         "answer": "B) Memory that is abstracted and mapped to physical memory",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 4066
-    },
-    {
-        "question_number": 822,
-        "question": "Which technique helps improve memory efficiency in virtualized environments by dynamically adjusting the amount of memory allocated to each VM?",
-        "options": [
-            "A) Memory swapping",
-            "B) Dynamic memory allocation",
-            "C) Memory paging",
-            "D) Overcommitting memory"
-        ],
-        "answer": "B) Dynamic memory allocation",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4067
     },
     {
         "question_number": 823,
@@ -49156,19 +48896,6 @@
         "answer": "C) Enables quick restoration of virtual machines in case of failure",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 4086
-    },
-    {
-        "question_number": 842,
-        "question": "Which type of virtualization is most commonly used for disaster recovery?",
-        "options": [
-            "A) Network virtualization",
-            "B) Server virtualization",
-            "C) Storage virtualization",
-            "D) Desktop virtualization"
-        ],
-        "answer": "B) Server virtualization",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4087
     },
     {
         "question_number": 843,
@@ -49821,32 +49548,6 @@
         "global_id": 4137
     },
     {
-        "question_number": 893,
-        "question": "What is the topmost layer in the cloud architecture design?",
-        "options": [
-            "A) Infrastructure layer",
-            "B) Application layer",
-            "C) Middleware layer",
-            "D) Data layer"
-        ],
-        "answer": "B) Application layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4138
-    },
-    {
-        "question_number": 894,
-        "question": "Which layer in the cloud architecture is responsible for providing APIs and tools for developers?",
-        "options": [
-            "A) Infrastructure layer",
-            "B) Platform layer",
-            "C) Management layer",
-            "D) Hardware layer"
-        ],
-        "answer": "B) Platform layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4139
-    },
-    {
         "question_number": 895,
         "question": "What role does the management layer play in cloud architecture?",
         "options": [
@@ -49860,19 +49561,6 @@
         "global_id": 4140
     },
     {
-        "question_number": 896,
-        "question": "Which component of cloud architecture manages data redundancy and storage efficiency?",
-        "options": [
-            "A) Middleware layer",
-            "B) Application layer",
-            "C) Data management layer",
-            "D) Virtualization layer"
-        ],
-        "answer": "C) Data management layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4141
-    },
-    {
         "question_number": 897,
         "question": "What is the function of the service layer in a cloud architecture?",
         "options": [
@@ -49884,32 +49572,6 @@
         "answer": "C) Offers cloud services like SaaS, PaaS, and IaaS",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 4142
-    },
-    {
-        "question_number": 898,
-        "question": "Which layer is responsible for virtualization in cloud computing?",
-        "options": [
-            "A) Application layer",
-            "B) Platform layer",
-            "C) Infrastructure layer",
-            "D) Network layer"
-        ],
-        "answer": "C) Infrastructure layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4143
-    },
-    {
-        "question_number": 899,
-        "question": "Which layer of cloud architecture directly interacts with end-users?",
-        "options": [
-            "A) Management layer",
-            "B) Service layer",
-            "C) Application layer",
-            "D) Data layer"
-        ],
-        "answer": "C) Application layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4144
     },
     {
         "question_number": 900,
@@ -49951,19 +49613,6 @@
         "global_id": 4147
     },
     {
-        "question_number": 903,
-        "question": "Which cloud architecture layer is closely associated with service orchestration?",
-        "options": [
-            "A) Data layer",
-            "B) Application layer",
-            "C) Management layer",
-            "D) Virtualization layer"
-        ],
-        "answer": "C) Management layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4148
-    },
-    {
         "question_number": 904,
         "question": "Which technology enables resource pooling in the infrastructure layer?",
         "options": [
@@ -49975,32 +49624,6 @@
         "answer": "B) Virtualization",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 4149
-    },
-    {
-        "question_number": 905,
-        "question": "Which of the following is NOT a component of cloud architecture?",
-        "options": [
-            "A) Application layer",
-            "B) Data layer",
-            "C) Firmware layer",
-            "D) Platform layer"
-        ],
-        "answer": "C) Firmware layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4150
-    },
-    {
-        "question_number": 906,
-        "question": "Which layer ensures scalability in cloud architecture?",
-        "options": [
-            "A) Data layer",
-            "B) Infrastructure layer",
-            "C) Middleware layer",
-            "D) Management layer"
-        ],
-        "answer": "B) Infrastructure layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4151
     },
     {
         "question_number": 907,
@@ -50016,19 +49639,6 @@
         "global_id": 4152
     },
     {
-        "question_number": 908,
-        "question": "Which cloud service model is most associated with the application layer?",
-        "options": [
-            "A) IaaS",
-            "B) PaaS",
-            "C) SaaS",
-            "D) DaaS"
-        ],
-        "answer": "C) SaaS",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4153
-    },
-    {
         "question_number": 909,
         "question": "What feature does the management layer provide to cloud administrators?",
         "options": [
@@ -50042,19 +49652,6 @@
         "global_id": 4154
     },
     {
-        "question_number": 910,
-        "question": "Which layer provides the framework for executing cloud applications?",
-        "options": [
-            "A) Infrastructure layer",
-            "B) Management layer",
-            "C) Platform layer",
-            "D) Application layer"
-        ],
-        "answer": "C) Platform layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4155
-    },
-    {
         "question_number": 911,
         "question": "What does \"elasticity\" primarily refer to in cloud architecture?",
         "options": [
@@ -50066,32 +49663,6 @@
         "answer": "C) On-demand resource scaling",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 4156
-    },
-    {
-        "question_number": 912,
-        "question": "In which layer is elasticity mainly implemented?",
-        "options": [
-            "A) Data layer",
-            "B) Application layer",
-            "C) Infrastructure layer",
-            "D) Middleware layer"
-        ],
-        "answer": "C) Infrastructure layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4157
-    },
-    {
-        "question_number": 913,
-        "question": "Which cloud architecture layer focuses on end-user access and interfaces?",
-        "options": [
-            "A) Infrastructure layer",
-            "B) Application layer",
-            "C) Platform layer",
-            "D) Management layer"
-        ],
-        "answer": "B) Application layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4158
     },
     {
         "question_number": 914,
@@ -50133,19 +49704,6 @@
         "global_id": 4161
     },
     {
-        "question_number": 917,
-        "question": "Which layer is most responsible for enabling multitenancy?",
-        "options": [
-            "A) Application layer",
-            "B) Management layer",
-            "C) Infrastructure layer",
-            "D) Middleware layer"
-        ],
-        "answer": "C) Infrastructure layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4162
-    },
-    {
         "question_number": 918,
         "question": "What feature is enabled by the middleware layer?",
         "options": [
@@ -50159,19 +49717,6 @@
         "global_id": 4163
     },
     {
-        "question_number": 919,
-        "question": "Which layer handles cloud data synchronization across regions?",
-        "options": [
-            "A) Application layer",
-            "B) Platform layer",
-            "C) Management layer",
-            "D) Middleware layer"
-        ],
-        "answer": "C) Management layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4164
-    },
-    {
         "question_number": 920,
         "question": "Which cloud architecture design principle ensures no single point of failure?",
         "options": [
@@ -50183,32 +49728,6 @@
         "answer": "B) Redundancy",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 4165
-    },
-    {
-        "question_number": 921,
-        "question": "Which layer of cloud architecture includes load balancing mechanisms?",
-        "options": [
-            "A) Data layer",
-            "B) Application layer",
-            "C) Infrastructure layer",
-            "D) Platform layer"
-        ],
-        "answer": "C) Infrastructure layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4166
-    },
-    {
-        "question_number": 922,
-        "question": "Which cloud architecture layer provides the tools and environments for developing applications?",
-        "options": [
-            "A) Management layer",
-            "B) Platform layer",
-            "C) Middleware layer",
-            "D) Network layer"
-        ],
-        "answer": "B) Platform layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4167
     },
     {
         "question_number": 923,
@@ -50250,19 +49769,6 @@
         "global_id": 4170
     },
     {
-        "question_number": 926,
-        "question": "Which layer includes tools for managing user authentication and security?",
-        "options": [
-            "A) Application layer",
-            "B) Management layer",
-            "C) Data layer",
-            "D) Middleware layer"
-        ],
-        "answer": "B) Management layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4171
-    },
-    {
         "question_number": 927,
         "question": "What is the primary focus of the network layer in cloud architecture?",
         "options": [
@@ -50274,19 +49780,6 @@
         "answer": "C) Ensuring connectivity and communication",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 4172
-    },
-    {
-        "question_number": 928,
-        "question": "Which layer is most associated with managing Service Level Agreements (SLAs)?",
-        "options": [
-            "A) Platform layer",
-            "B) Management layer",
-            "C) Infrastructure layer",
-            "D) Data layer"
-        ],
-        "answer": "B) Management layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4173
     },
     {
         "question_number": 929,
@@ -50302,19 +49795,6 @@
         "global_id": 4174
     },
     {
-        "question_number": 930,
-        "question": "Which layer in cloud architecture ensures automated provisioning of resources?",
-        "options": [
-            "A) Middleware layer",
-            "B) Application layer",
-            "C) Management layer",
-            "D) Data layer"
-        ],
-        "answer": "C) Management layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4175
-    },
-    {
         "question_number": 931,
         "question": "What is the benefit of abstraction in the infrastructure layer?",
         "options": [
@@ -50326,19 +49806,6 @@
         "answer": "C) Hides hardware complexity from higher layers",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 4176
-    },
-    {
-        "question_number": 932,
-        "question": "Which layer provides interfaces for integrating third-party services?",
-        "options": [
-            "A) Infrastructure layer",
-            "B) Data layer",
-            "C) Platform layer",
-            "D) Application layer"
-        ],
-        "answer": "C) Platform layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4177
     },
     {
         "question_number": 933,
@@ -50354,19 +49821,6 @@
         "global_id": 4178
     },
     {
-        "question_number": 934,
-        "question": "Which layer is primarily responsible for data encryption and security measures?",
-        "options": [
-            "A) Middleware layer",
-            "B) Management layer",
-            "C) Application layer",
-            "D) Infrastructure layer"
-        ],
-        "answer": "B) Management layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4179
-    },
-    {
         "question_number": 935,
         "question": "Which cloud computing characteristic is most associated with the infrastructure layer?",
         "options": [
@@ -50380,19 +49834,6 @@
         "global_id": 4180
     },
     {
-        "question_number": 936,
-        "question": "Which layer ensures fault tolerance in cloud services?",
-        "options": [
-            "A) Application layer",
-            "B) Middleware layer",
-            "C) Infrastructure layer",
-            "D) Data layer"
-        ],
-        "answer": "C) Infrastructure layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4181
-    },
-    {
         "question_number": 937,
         "question": "What is the main function of the middleware layer in cloud architecture?",
         "options": [
@@ -50404,32 +49845,6 @@
         "answer": "C) Enable communication and data translation between services",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 4182
-    },
-    {
-        "question_number": 938,
-        "question": "Which layer manages the virtual machine lifecycle in a cloud environment?",
-        "options": [
-            "A) Middleware layer",
-            "B) Application layer",
-            "C) Management layer",
-            "D) Data layer"
-        ],
-        "answer": "C) Management layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4183
-    },
-    {
-        "question_number": 939,
-        "question": "Which layer ensures data consistency and synchronization across regions?",
-        "options": [
-            "A) Application layer",
-            "B) Platform layer",
-            "C) Management layer",
-            "D) Infrastructure layer"
-        ],
-        "answer": "C) Management layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4184
     },
     {
         "question_number": 940,
@@ -50601,19 +50016,6 @@
         "global_id": 4197
     },
     {
-        "question_number": 953,
-        "question": "Which type of cloud is managed exclusively for a single organization?",
-        "options": [
-            "A) Public cloud",
-            "B) Private cloud",
-            "C) Community cloud",
-            "D) Hybrid cloud"
-        ],
-        "answer": "B) Private cloud",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4198
-    },
-    {
         "question_number": 954,
         "question": "What does \"PaaS\" stand for in cloud service models?",
         "options": [
@@ -50638,19 +50040,6 @@
         "answer": "A) Compute, storage, and network resources",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 4200
-    },
-    {
-        "question_number": 956,
-        "question": "Which deployment model allows data to be shared across multiple organizations with a common interest?",
-        "options": [
-            "A) Public cloud",
-            "B) Private cloud",
-            "C) Community cloud",
-            "D) Hybrid cloud"
-        ],
-        "answer": "C) Community cloud",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4201
     },
     {
         "question_number": 957,
@@ -51080,19 +50469,6 @@
         "answer": "C) Standardization of roles and interfaces",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 4234
-    },
-    {
-        "question_number": 990,
-        "question": "Which layer in NIST's cloud model is essential for ensuring interoperability?",
-        "options": [
-            "A) Application layer",
-            "B) Middleware layer",
-            "C) Infrastructure layer",
-            "D) Hardware layer"
-        ],
-        "answer": "B) Middleware layer",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4235
     },
     {
         "question_number": 991,
@@ -52382,19 +51758,6 @@
         "global_id": 4334
     },
     {
-        "question_number": 1090,
-        "question": "What is the key difference between IaaS and PaaS?",
-        "options": [
-            "A) IaaS provides a platform for developing applications, while PaaS provides infrastructure",
-            "B) IaaS provides infrastructure resources, while PaaS provides development tools and platforms",
-            "C) IaaS offers pre-built applications, while PaaS offers networking services",
-            "D) There is no significant difference between IaaS and PaaS"
-        ],
-        "answer": "B) IaaS provides infrastructure resources, while PaaS provides development",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4335
-    },
-    {
         "question_number": 1091,
         "question": "What is the primary challenge in designing cloud architecture?",
         "options": [
@@ -53056,19 +52419,6 @@
         "answer": "C) On-demand access to data from anywhere",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 4386
-    },
-    {
-        "question_number": 1142,
-        "question": "Which of the following is an example of a cloud storage service?",
-        "options": [
-            "A) Dropbox",
-            "B) Google Drive",
-            "C) USB drive",
-            "D) CD-ROM"
-        ],
-        "answer": "B) Google Drive",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4387
     },
     {
         "question_number": 1143,
@@ -55502,19 +54852,6 @@
         "global_id": 4574
     },
     {
-        "question_number": 1330,
-        "question": "Which Amazon S3 feature is specifically designed to minimize the cost of infrequently accessed data?",
-        "options": [
-            "A) S3 Standard",
-            "B) S3 One Zone-IA",
-            "C) S3 Glacier",
-            "D) S3 Intelligent-Tiering"
-        ],
-        "answer": "B) S3 One Zone-IA",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4575
-    },
-    {
         "question_number": 1331,
         "question": "Which of the following is necessary for secure data access management in S3?",
         "options": [
@@ -55892,19 +55229,6 @@
         "global_id": 4604
     },
     {
-        "question_number": 1360,
-        "question": "Which provisioning method involves provisioning resources based on anticipated future demand?",
-        "options": [
-            "A) Predictive provisioning",
-            "B) Real-time provisioning",
-            "C) Static provisioning",
-            "D) Dynamic provisioning"
-        ],
-        "answer": "A) Predictive provisioning",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4605
-    },
-    {
         "question_number": 1361,
         "question": "What is the key advantage of cloud-based resource provisioning over traditional on-premises provisioning?",
         "options": [
@@ -56048,32 +55372,6 @@
         "global_id": 4616
     },
     {
-        "question_number": 1372,
-        "question": "Which provisioning method is suitable for scaling based on fluctuating or unpredictable demand?",
-        "options": [
-            "A) Elastic provisioning",
-            "B) Static provisioning",
-            "C) Reserved provisioning",
-            "D) Fixed provisioning"
-        ],
-        "answer": "A) Elastic provisioning",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4617
-    },
-    {
-        "question_number": 1373,
-        "question": "Which provisioning approach would you use if you want to minimize the risk of over-provisioning resources?",
-        "options": [
-            "A) On-demand provisioning",
-            "B) Static provisioning",
-            "C) Reserved provisioning",
-            "D) Fixed provisioning"
-        ],
-        "answer": "A) On-demand provisioning",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4618
-    },
-    {
         "question_number": 1374,
         "question": "Which of the following is a key feature of resource provisioning in cloud computing?",
         "options": [
@@ -56152,19 +55450,6 @@
         "global_id": 4624
     },
     {
-        "question_number": 1380,
-        "question": "Which resource provisioning method allows for predictable costs?",
-        "options": [
-            "A) Reserved provisioning",
-            "B) Elastic provisioning",
-            "C) Dynamic provisioning",
-            "D) On-demand provisioning"
-        ],
-        "answer": "A) Reserved provisioning",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4625
-    },
-    {
         "question_number": 1381,
         "question": "What is the typical use case for cloud bursting in resource provisioning?",
         "options": [
@@ -56202,19 +55487,6 @@
         "answer": "B) Resources are provisioned across multiple cloud platforms",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 4628
-    },
-    {
-        "question_number": 1384,
-        "question": "Which of the following provisioning methods would you use for workloads with predictable long-term demand?",
-        "options": [
-            "A) Reserved provisioning",
-            "B) Elastic provisioning",
-            "C) Static provisioning",
-            "D) On-demand provisioning"
-        ],
-        "answer": "A) Reserved provisioning",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4629
     },
     {
         "question_number": 1385,
@@ -56854,19 +56126,6 @@
         "global_id": 4678
     },
     {
-        "question_number": 1434,
-        "question": "Which cloud architecture is most suitable for organizations seeking to leverage global cloud resources?",
-        "options": [
-            "A) Multi-cloud architecture",
-            "B) On-premise server architecture",
-            "C) Single cloud provider architecture",
-            "D) Data center virtualization architecture"
-        ],
-        "answer": "A) Multi-cloud architecture",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4679
-    },
-    {
         "question_number": 1435,
         "question": "What does 'cloud federation' enable in the context of global resource exchange?",
         "options": [
@@ -57127,19 +56386,6 @@
         "global_id": 4699
     },
     {
-        "question_number": 1455,
-        "question": "Which of the following cloud deployment models offers the highest level of control over security?",
-        "options": [
-            "A) Public cloud",
-            "B) Hybrid cloud",
-            "C) Private cloud",
-            "D) Community cloud"
-        ],
-        "answer": "C) Private cloud",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4700
-    },
-    {
         "question_number": 1456,
         "question": "What is the role of a Virtual Private Network (VPN) in cloud security?",
         "options": [
@@ -57333,19 +56579,6 @@
         "answer": "B) Ensuring proper access control and authentication",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 4715
-    },
-    {
-        "question_number": 1471,
-        "question": "Which cloud service model provides the highest level of control over security for the customer?",
-        "options": [
-            "A) SaaS (Software as a Service)",
-            "B) IaaS (Infrastructure as a Service)",
-            "C) PaaS (Platform as a Service)",
-            "D) Cloud storage"
-        ],
-        "answer": "B) IaaS (Infrastructure as a Service)",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4716
     },
     {
         "question_number": 1472,
@@ -60935,19 +60168,6 @@
         "global_id": 4992
     },
     {
-        "question_number": 1748,
-        "question": "Which of the following levels of federation is focused on the integration of security policies across different cloud providers?",
-        "options": [
-            "A) Identity level",
-            "B) Resource level",
-            "C) Security level",
-            "D) Application level"
-        ],
-        "answer": "C) Security level",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4993
-    },
-    {
         "question_number": 1749,
         "question": "Which of the following is NOT a level of cloud federation?",
         "options": [
@@ -60974,19 +60194,6 @@
         "global_id": 4995
     },
     {
-        "question_number": 1751,
-        "question": "Which level of cloud federation deals with connecting different computing resources from multiple cloud providers?",
-        "options": [
-            "A) Application level",
-            "B) Identity level",
-            "C) Resource level",
-            "D) Security level"
-        ],
-        "answer": "C) Resource level",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4996
-    },
-    {
         "question_number": 1752,
         "question": "Which of the following is an example of \"Security Federation\" in the cloud?",
         "options": [
@@ -60998,19 +60205,6 @@
         "answer": "B) Applying consistent security policies across multiple cloud environments",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 4997
-    },
-    {
-        "question_number": 1753,
-        "question": "Which federation level ensures the same security policies are applied to multiple cloud environments?",
-        "options": [
-            "A) Identity Federation",
-            "B) Application Federation",
-            "C) Security Federation",
-            "D) Resource Federation"
-        ],
-        "answer": "C) Security Federation",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 4998
     },
     {
         "question_number": 1754,
@@ -61037,19 +60231,6 @@
         "answer": "B) Enabling flexibility and scalability by integrating multiple cloud services",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 5000
-    },
-    {
-        "question_number": 1756,
-        "question": "Which federation level focuses on managing users' access across multiple cloud systems?",
-        "options": [
-            "A) Application Federation",
-            "B) Identity Federation",
-            "C) Resource Federation",
-            "D) Security Federation"
-        ],
-        "answer": "B) Identity Federation",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 5001
     },
     {
         "question_number": 1757,
@@ -61182,19 +60363,6 @@
         "global_id": 5011
     },
     {
-        "question_number": 1767,
-        "question": "Which type of federation allows multiple cloud environments to share computing power?",
-        "options": [
-            "A) Security Federation",
-            "B) Identity Federation",
-            "C) Resource Federation",
-            "D) Application Federation"
-        ],
-        "answer": "C) Resource Federation",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 5012
-    },
-    {
         "question_number": 1768,
         "question": "What is the main focus of \"Application Federation\" in the cloud?",
         "options": [
@@ -61258,19 +60426,6 @@
         "answer": "B) Integrating cloud-based applications across different cloud providers",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 5017
-    },
-    {
-        "question_number": 1773,
-        "question": "Which level of federation involves users logging in once to access all services across multiple clouds?",
-        "options": [
-            "A) Resource Federation",
-            "B) Application Federation",
-            "C) Identity Federation",
-            "D) Security Federation"
-        ],
-        "answer": "C) Identity Federation",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 5018
     },
     {
         "question_number": 1774,
@@ -61403,19 +60558,6 @@
         "global_id": 5028
     },
     {
-        "question_number": 1784,
-        "question": "Which level of federation is related to integrating virtualized resources?",
-        "options": [
-            "A) Identity Federation",
-            "B) Resource Federation",
-            "C) Application Federation",
-            "D) Security Federation"
-        ],
-        "answer": "B) Resource Federation",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 5029
-    },
-    {
         "question_number": 1785,
         "question": "What is the key advantage of \"Identity Federation\" in a federated cloud system?",
         "options": [
@@ -61453,19 +60595,6 @@
         "answer": "A) Consistent security policies across cloud environments",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 5032
-    },
-    {
-        "question_number": 1788,
-        "question": "Which level of federation allows for sharing resources between different cloud services?",
-        "options": [
-            "A) Identity Federation",
-            "B) Resource Federation",
-            "C) Security Federation",
-            "D) Application Federation"
-        ],
-        "answer": "B) Resource Federation",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 5033
     },
     {
         "question_number": 1789,
@@ -61921,19 +61050,6 @@
         "answer": "B) Seamless integration of services and applications across cloud providers",
         "unit": "UNIT 5 - cloud computing(v)",
         "global_id": 5068
-    },
-    {
-        "question_number": 1824,
-        "question": "What role do APIs play in the future of federated services?",
-        "options": [
-            "A) APIs enable communication and integration between different cloud services",
-            "B) APIs restrict resource sharing",
-            "C) APIs limit the number of virtual machines",
-            "D) APIs focus on user authentication only"
-        ],
-        "answer": "A) APIs enable communication and integration between different cloud",
-        "unit": "UNIT 5 - cloud computing(v)",
-        "global_id": 5069
     },
     {
         "question_number": 1825,
