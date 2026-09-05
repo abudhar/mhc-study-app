@@ -1,0 +1,5502 @@
+[
+    {
+        "question": "Who is known as the father of the computer?",
+        "options": [
+            "A) Alan Turing",
+            "B) Charles Babbage",
+            "C) John von Neumann",
+            "D) Blaise Pascal"
+        ],
+        "answer": "B) Charles Babbage",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The first generation of computers used which component?",
+        "options": [
+            "A) Transistors",
+            "B) Vacuum tubes",
+            "C) Integrated circuits",
+            "D) Microprocessors"
+        ],
+        "answer": "B) Vacuum tubes",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Second generation computers used which component?",
+        "options": [
+            "A) Vacuum tubes",
+            "B) Transistors",
+            "C) Microprocessors",
+            "D) VLSI chips"
+        ],
+        "answer": "B) Transistors",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Third generation computers were based on which technology?",
+        "options": [
+            "A) Transistors",
+            "B) Vacuum tubes",
+            "C) Integrated circuits",
+            "D) Artificial Intelligence"
+        ],
+        "answer": "C) Integrated circuits",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Fourth generation computers are based on which technology?",
+        "options": [
+            "A) Vacuum tubes",
+            "B) Transistors",
+            "C) Integrated circuits",
+            "D) Microprocessors"
+        ],
+        "answer": "D) Microprocessors",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Fifth generation computers are associated with which technology?",
+        "options": [
+            "A) Transistors",
+            "B) Artificial Intelligence",
+            "C) Vacuum tubes",
+            "D) Punch cards"
+        ],
+        "answer": "B) Artificial Intelligence",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Who developed the first mechanical calculator called the Pascaline?",
+        "options": [
+            "A) Charles Babbage",
+            "B) Blaise Pascal",
+            "C) Ada Lovelace",
+            "D) Alan Turing"
+        ],
+        "answer": "B) Blaise Pascal",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The Analytical Engine was designed by?",
+        "options": [
+            "A) Charles Babbage",
+            "B) Alan Turing",
+            "C) Herman Hollerith",
+            "D) John Napier"
+        ],
+        "answer": "A) Charles Babbage",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Who is considered the world's first computer programmer?",
+        "options": [
+            "A) Grace Hopper",
+            "B) Ada Lovelace",
+            "C) Marie Curie",
+            "D) Katherine Johnson"
+        ],
+        "answer": "B) Ada Lovelace",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "ENIAC, one of the earliest electronic computers, stands for?",
+        "options": [
+            "A) Electronic Numerical Integrator and Computer",
+            "B) Electronic Network Integrated Analog Computer",
+            "C) Electric Numerical Instruction and Calculation",
+            "D) Electronic National Integrated Automatic Calculator"
+        ],
+        "answer": "A) Electronic Numerical Integrator and Computer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which type of computer is used for large-scale scientific research requiring huge",
+        "options": [
+            "A) Microcomputer",
+            "B) Minicomputer",
+            "C) Supercomputer",
+            "D) Mainframe"
+        ],
+        "answer": "C) Supercomputer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A laptop is an example of which type of computer?",
+        "options": [
+            "A) Mainframe",
+            "B) Microcomputer",
+            "C) Supercomputer",
+            "D) Minicomputer"
+        ],
+        "answer": "B) Microcomputer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which computer is best suited for handling large volumes of data for banks and insurance",
+        "options": [
+            "A) Microcomputer",
+            "B) Mainframe computer",
+            "C) Supercomputer",
+            "D) Embedded computer"
+        ],
+        "answer": "B) Mainframe computer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "PARAM is an example of an Indian?",
+        "options": [
+            "A) Microcomputer",
+            "B) Supercomputer",
+            "C) Minicomputer",
+            "D) Laptop"
+        ],
+        "answer": "B) Supercomputer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A computer designed for a single dedicated function within a device is called?",
+        "options": [
+            "A) Mainframe computer",
+            "B) Embedded computer",
+            "C) Supercomputer",
+            "D) Server"
+        ],
+        "answer": "B) Embedded computer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which is the smallest type of computer?",
+        "options": [
+            "A) Mainframe",
+            "B) Minicomputer",
+            "C) Microcomputer",
+            "D) Supercomputer"
+        ],
+        "answer": "C) Microcomputer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A computer that provides services to other computers on a network is called a?",
+        "options": [
+            "A) Client",
+            "B) Server",
+            "C) Node",
+            "D) Terminal"
+        ],
+        "answer": "B) Server",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Analog computers process which type of data?",
+        "options": [
+            "A) Digital data",
+            "B) Continuous data",
+            "C) Binary data",
+            "D) Textual data"
+        ],
+        "answer": "B) Continuous data",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A computer combining features of analog and digital computers is called?",
+        "options": [
+            "A) Hybrid computer",
+            "B) Mini computer",
+            "C) Super computer",
+            "D) Embedded computer"
+        ],
+        "answer": "A) Hybrid computer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which company developed the first supercomputer, the CDC 6600?",
+        "options": [
+            "A) IBM",
+            "B) Control Data Corporation",
+            "C) Intel",
+            "D) Microsoft"
+        ],
+        "answer": "B) Control Data Corporation",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The basic input-process-output cycle of a computer begins with?",
+        "options": [
+            "A) Output",
+            "B) Storage",
+            "C) Input",
+            "D) Processing"
+        ],
+        "answer": "C) Input",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which unit of the computer performs arithmetic and logical operations?",
+        "options": [
+            "A) Control Unit",
+            "B) ALU",
+            "C) Memory Unit",
+            "D) Input Unit"
+        ],
+        "answer": "B) ALU",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which unit directs and coordinates the operations of the computer?",
+        "options": [
+            "A) ALU",
+            "B) Control Unit",
+            "C) Register",
+            "D) Cache"
+        ],
+        "answer": "B) Control Unit",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "CPU stands for?",
+        "options": [
+            "A) Central Processing Unit",
+            "B) Central Program Unit",
+            "C) Computer Processing Unit",
+            "D) Control Processing Unit"
+        ],
+        "answer": "A) Central Processing Unit",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The set of instructions that tells a computer what to do is called?",
+        "options": [
+            "A) Hardware",
+            "B) Software",
+            "C) Firmware",
+            "D) Data"
+        ],
+        "answer": "B) Software",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Physical components of a computer are collectively called?",
+        "options": [
+            "A) Software",
+            "B) Hardware",
+            "C) Data",
+            "D) Program"
+        ],
+        "answer": "B) Hardware",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A byte consists of how many bits?",
+        "options": [
+            "A) 4",
+            "B) 8",
+            "C) 16",
+            "D) 32"
+        ],
+        "answer": "B) 8",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which of the following is not a basic function of a computer?",
+        "options": [
+            "A) Input",
+            "B) Processing",
+            "C) Output",
+            "D) Thinking"
+        ],
+        "answer": "D) Thinking",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The 'brain' of the computer is the?",
+        "options": [
+            "A) RAM",
+            "B) CPU",
+            "C) Hard disk",
+            "D) Monitor"
+        ],
+        "answer": "B) CPU",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "BIOS stands for?",
+        "options": [
+            "A) Basic Input Output System",
+            "B) Binary Input Output System",
+            "C) Basic Internal Operating System",
+            "D) Basic Integrated Output System"
+        ],
+        "answer": "A) Basic Input Output System",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Computers internally represent data using which number system?",
+        "options": [
+            "A) Decimal",
+            "B) Binary",
+            "C) Octal",
+            "D) Hexadecimal"
+        ],
+        "answer": "B) Binary",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The binary number system uses which digits?",
+        "options": [
+            "A) 0 and 1",
+            "B) 0 to 7",
+            "C) 0 to 9",
+            "D) 0 to F"
+        ],
+        "answer": "A) 0 and 1",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The decimal equivalent of binary 1010 is?",
+        "options": [
+            "A) 8",
+            "B) 10",
+            "C) 12",
+            "D) 9"
+        ],
+        "answer": "B) 10",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The hexadecimal number system uses base?",
+        "options": [
+            "A) 2",
+            "B) 8",
+            "C) 10",
+            "D) 16"
+        ],
+        "answer": "D) 16",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The octal number system uses base?",
+        "options": [
+            "A) 2",
+            "B) 8",
+            "C) 10",
+            "D) 16"
+        ],
+        "answer": "B) 8",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "ASCII stands for?",
+        "options": [
+            "A) American Standard Code for Information Interchange",
+            "B) American Standard Code for International Interchange",
+            "C) American Symbolic Code for Information Interchange",
+            "D) Advanced Standard Code for Information Interchange"
+        ],
+        "answer": "A) American Standard Code for Information Interchange",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "How many bits are used in standard ASCII encoding?",
+        "options": [
+            "A) 7",
+            "B) 8",
+            "C) 16",
+            "D) 32"
+        ],
+        "answer": "A) 7",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Unicode is used to support?",
+        "options": [
+            "A) Only English characters",
+            "B) Only numbers",
+            "C) Multiple languages and scripts",
+            "D) Only binary data"
+        ],
+        "answer": "C) Multiple languages and scripts",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The smallest unit of data in a computer is called?",
+        "options": [
+            "A) Byte",
+            "B) Bit",
+            "C) Nibble",
+            "D) Word"
+        ],
+        "answer": "B) Bit",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A nibble consists of how many bits?",
+        "options": [
+            "A) 2",
+            "B) 4",
+            "C) 8",
+            "D) 16"
+        ],
+        "answer": "B) 4",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which of the following is an input device?",
+        "options": [
+            "A) Monitor",
+            "B) Printer",
+            "C) Keyboard",
+            "D) Speaker"
+        ],
+        "answer": "C) Keyboard",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A device used to point and click on a screen is called?",
+        "options": [
+            "A) Scanner",
+            "B) Mouse",
+            "C) Printer",
+            "D) Monitor"
+        ],
+        "answer": "B) Mouse",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which device converts a physical document into a digital image?",
+        "options": [
+            "A) Scanner",
+            "B) Printer",
+            "C) Plotter",
+            "D) Monitor"
+        ],
+        "answer": "A) Scanner",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A light-sensitive input device used in bar code readers is called a?",
+        "options": [
+            "A) Joystick",
+            "B) Optical scanner",
+            "C) Trackball",
+            "D) Light pen"
+        ],
+        "answer": "B) Optical scanner",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which input device is commonly used in gaming?",
+        "options": [
+            "A) Joystick",
+            "B) Plotter",
+            "C) Printer",
+            "D) Speaker"
+        ],
+        "answer": "A) Joystick",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "OMR stands for?",
+        "options": [
+            "A) Optical Mark Reader",
+            "B) Optical Memory Reader",
+            "C) Online Mark Reader",
+            "D) Optimal Mark Reader"
+        ],
+        "answer": "A) Optical Mark Reader",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "MICR technology is mainly used in?",
+        "options": [
+            "A) Banks",
+            "B) Hospitals",
+            "C) Schools",
+            "D) Airports"
+        ],
+        "answer": "A) Banks",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which device is used to input handwritten signatures or drawings directly?",
+        "options": [
+            "A) Digitizer",
+            "B) Scanner",
+            "C) Keyboard",
+            "D) Mouse"
+        ],
+        "answer": "A) Digitizer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A webcam is primarily used as a?",
+        "options": [
+            "A) Output device",
+            "B) Storage device",
+            "C) Input device",
+            "D) Processing device"
+        ],
+        "answer": "C) Input device",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which device converts sound into digital signals for input?",
+        "options": [
+            "A) Microphone",
+            "B) Speaker",
+            "C) Monitor",
+            "D) Printer"
+        ],
+        "answer": "A) Microphone",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which of the following is an output device?",
+        "options": [
+            "A) Keyboard",
+            "B) Mouse",
+            "C) Monitor",
+            "D) Scanner"
+        ],
+        "answer": "C) Monitor",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A device that produces a hard copy of documents is called?",
+        "options": [
+            "A) Scanner",
+            "B) Printer",
+            "C) Keyboard",
+            "D) Mouse"
+        ],
+        "answer": "B) Printer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which printer uses a laser beam to produce high-quality prints?",
+        "options": [
+            "A) Dot matrix printer",
+            "B) Inkjet printer",
+            "C) Laser printer",
+            "D) Line printer"
+        ],
+        "answer": "C) Laser printer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A device used to draw graphs and technical drawings is called a?",
+        "options": [
+            "A) Plotter",
+            "B) Scanner",
+            "C) Digitizer",
+            "D) Mouse"
+        ],
+        "answer": "A) Plotter",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "LCD stands for?",
+        "options": [
+            "A) Liquid Crystal Display",
+            "B) Light Crystal Display",
+            "C) Liquid Color Display",
+            "D) Light Color Display"
+        ],
+        "answer": "A) Liquid Crystal Display",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which type of printer forms characters using pins striking a ribbon?",
+        "options": [
+            "A) Laser printer",
+            "B) Dot matrix printer",
+            "C) Inkjet printer",
+            "D) 3D printer"
+        ],
+        "answer": "B) Dot matrix printer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which output device is used to hear audio output?",
+        "options": [
+            "A) Monitor",
+            "B) Speaker",
+            "C) Printer",
+            "D) Projector"
+        ],
+        "answer": "B) Speaker",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A device that projects computer output onto a large screen is called a?",
+        "options": [
+            "A) Projector",
+            "B) Plotter",
+            "C) Scanner",
+            "D) Digitizer"
+        ],
+        "answer": "A) Projector",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "DPI, used to measure printer quality, stands for?",
+        "options": [
+            "A) Dots Per Inch",
+            "B) Data Per Inch",
+            "C) Dots Per Interval",
+            "D) Display Pixel Index"
+        ],
+        "answer": "A) Dots Per Inch",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which of these is a soft copy output?",
+        "options": [
+            "A) Printed document",
+            "B) Display on monitor",
+            "C) Photocopy",
+            "D) Plotted drawing"
+        ],
+        "answer": "B) Display on monitor",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which memory is volatile in nature?",
+        "options": [
+            "A) ROM",
+            "B) RAM",
+            "C) Cache",
+            "D) Hard disk"
+        ],
+        "answer": "B) RAM",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "RAM stands for?",
+        "options": [
+            "A) Random Access Memory",
+            "B) Read Access Memory",
+            "C) Random Available Memory",
+            "D) Read Available Memory"
+        ],
+        "answer": "A) Random Access Memory",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "ROM stands for?",
+        "options": [
+            "A) Read Only Memory",
+            "B) Random Only Memory",
+            "C) Read Optical Memory",
+            "D) Random Optical Memory"
+        ],
+        "answer": "A) Read Only Memory",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which memory is non-volatile and retains data when power is off?",
+        "options": [
+            "A) RAM",
+            "B) Cache",
+            "C) ROM",
+            "D) Register"
+        ],
+        "answer": "C) ROM",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which memory is the fastest type used to store frequently used data near the CPU?",
+        "options": [
+            "A) RAM",
+            "B) Cache memory",
+            "C) ROM",
+            "D) Hard disk"
+        ],
+        "answer": "B) Cache memory",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A type of ROM that can be erased using ultraviolet light is called?",
+        "options": [
+            "A) PROM",
+            "B) EPROM",
+            "C) EEPROM",
+            "D) DRAM"
+        ],
+        "answer": "B) EPROM",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A type of ROM that can be electrically erased and reprogrammed is called?",
+        "options": [
+            "A) PROM",
+            "B) EPROM",
+            "C) EEPROM",
+            "D) SRAM"
+        ],
+        "answer": "C) EEPROM",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which type of RAM needs to be refreshed periodically?",
+        "options": [
+            "A) SRAM",
+            "B) DRAM",
+            "C) ROM",
+            "D) Cache"
+        ],
+        "answer": "B) DRAM",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which type of RAM is faster and used in cache memory?",
+        "options": [
+            "A) DRAM",
+            "B) SRAM",
+            "C) PROM",
+            "D) EPROM"
+        ],
+        "answer": "B) SRAM",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Registers are located inside the?",
+        "options": [
+            "A) Hard disk",
+            "B) CPU",
+            "C) Monitor",
+            "D) Keyboard"
+        ],
+        "answer": "B) CPU",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which of the following is a secondary storage device?",
+        "options": [
+            "A) RAM",
+            "B) Cache",
+            "C) Hard disk",
+            "D) Register"
+        ],
+        "answer": "C) Hard disk",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A CD can typically store up to?",
+        "options": [
+            "A) 700 MB",
+            "B) 4.7 GB",
+            "C) 1 TB",
+            "D) 128 GB"
+        ],
+        "answer": "A) 700 MB",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A standard DVD can typically store up to?",
+        "options": [
+            "A) 700 MB",
+            "B) 4.7 GB",
+            "C) 1 GB",
+            "D) 100 MB"
+        ],
+        "answer": "B) 4.7 GB",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which storage device uses flash memory and connects via USB?",
+        "options": [
+            "A) Hard disk",
+            "B) Pen drive",
+            "C) CD-ROM",
+            "D) Floppy disk"
+        ],
+        "answer": "B) Pen drive",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "SSD stands for?",
+        "options": [
+            "A) Solid State Drive",
+            "B) Secondary Storage Device",
+            "C) Static State Drive",
+            "D) Solid Storage Disk"
+        ],
+        "answer": "A) Solid State Drive",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which storage device offers faster data access, SSD or HDD?",
+        "options": [
+            "A) HDD",
+            "B) SSD",
+            "C) Both are equal",
+            "D) Neither"
+        ],
+        "answer": "B) SSD",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The older removable magnetic storage medium with limited capacity is called a?",
+        "options": [
+            "A) Floppy disk",
+            "B) Blu-ray disc",
+            "C) SSD",
+            "D) Pen drive"
+        ],
+        "answer": "A) Floppy disk",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Blu-ray discs are mainly used for storing?",
+        "options": [
+            "A) Text files only",
+            "B) High-definition video",
+            "C) Only audio files",
+            "D) Only software"
+        ],
+        "answer": "B) High-definition video",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Storage measured in the order of 10^12 bytes is called?",
+        "options": [
+            "A) Megabyte",
+            "B) Gigabyte",
+            "C) Terabyte",
+            "D) Kilobyte"
+        ],
+        "answer": "C) Terabyte",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Cloud storage stores data on?",
+        "options": [
+            "A) Local hard disk only",
+            "B) Remote servers accessed via internet",
+            "C) CD-ROM only",
+            "D) RAM only"
+        ],
+        "answer": "B) Remote servers accessed via internet",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The CPU is often referred to as the?",
+        "options": [
+            "A) Brain of the computer",
+            "B) Heart of the computer",
+            "C) Eyes of the computer",
+            "D) Memory of the computer"
+        ],
+        "answer": "A) Brain of the computer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The clock speed of a processor is measured in?",
+        "options": [
+            "A) Bytes",
+            "B) Hertz",
+            "C) Bits",
+            "D) Pixels"
+        ],
+        "answer": "B) Hertz",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A processor with more than one core is called a?",
+        "options": [
+            "A) Single-core processor",
+            "B) Multi-core processor",
+            "C) Dual RAM processor",
+            "D) Cache processor"
+        ],
+        "answer": "B) Multi-core processor",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which company is a leading manufacturer of microprocessors?",
+        "options": [
+            "A) Intel",
+            "B) Adobe",
+            "C) Oracle",
+            "D) Canon"
+        ],
+        "answer": "A) Intel",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The ALU performs which type of operations?",
+        "options": [
+            "A) Only input",
+            "B) Only output",
+            "C) Arithmetic and logical",
+            "D) Only storage"
+        ],
+        "answer": "C) Arithmetic and logical",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which unit temporarily holds data being processed by the CPU?",
+        "options": [
+            "A) Registers",
+            "B) Hard disk",
+            "C) Monitor",
+            "D) Printer"
+        ],
+        "answer": "A) Registers",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The instruction cycle in a CPU is also called the?",
+        "options": [
+            "A) Fetch-decode-execute cycle",
+            "B) Read-write cycle",
+            "C) Input-output cycle",
+            "D) Boot cycle"
+        ],
+        "answer": "A) Fetch-decode-execute cycle",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A 64-bit processor can process data in chunks of?",
+        "options": [
+            "A) 16 bits",
+            "B) 32 bits",
+            "C) 64 bits",
+            "D) 128 bits"
+        ],
+        "answer": "C) 64 bits",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The full form of GHz used to measure processor speed is?",
+        "options": [
+            "A) Gigahertz",
+            "B) Gigabyte",
+            "C) Global Hertz",
+            "D) Graphic Hertz"
+        ],
+        "answer": "A) Gigahertz",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which component connects the CPU, memory, and other components on the motherboard?",
+        "options": [
+            "A) Bus",
+            "B) Cache",
+            "C) Register",
+            "D) Port"
+        ],
+        "answer": "A) Bus",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The main circuit board of a computer is called the?",
+        "options": [
+            "A) Motherboard",
+            "B) Daughterboard",
+            "C) Circuit card",
+            "D) Backplane"
+        ],
+        "answer": "A) Motherboard",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "USB stands for?",
+        "options": [
+            "A) Universal Serial Bus",
+            "B) Universal System Bus",
+            "C) United Serial Bus",
+            "D) Universal Serial Board"
+        ],
+        "answer": "A) Universal Serial Bus",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which port is commonly used to connect a monitor to a computer?",
+        "options": [
+            "A) USB",
+            "B) VGA/HDMI",
+            "C) PS/2",
+            "D) Ethernet"
+        ],
+        "answer": "B) VGA/HDMI",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Ethernet port is mainly used for?",
+        "options": [
+            "A) Audio output",
+            "B) Network connection",
+            "C) Video output",
+            "D) Power supply"
+        ],
+        "answer": "B) Network connection",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A slot used to insert expansion cards on the motherboard is called a?",
+        "options": [
+            "A) USB port",
+            "B) PCI slot",
+            "C) Ethernet port",
+            "D) HDMI port"
+        ],
+        "answer": "B) PCI slot",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The socket on the motherboard that holds the CPU is called the?",
+        "options": [
+            "A) RAM slot",
+            "B) CPU socket",
+            "C) Expansion slot",
+            "D) Power connector"
+        ],
+        "answer": "B) CPU socket",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "HDMI stands for?",
+        "options": [
+            "A) High Definition Multimedia Interface",
+            "B) High Density Media Interface",
+            "C) High Definition Media Input",
+            "D) High Digital Media Interface"
+        ],
+        "answer": "A) High Definition Multimedia Interface",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which port is typically used to connect a keyboard or mouse in older systems?",
+        "options": [
+            "A) PS/2 port",
+            "B) HDMI port",
+            "C) Ethernet port",
+            "D) VGA port"
+        ],
+        "answer": "A) PS/2 port",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The BIOS chip is generally located on the?",
+        "options": [
+            "A) Hard disk",
+            "B) Motherboard",
+            "C) Monitor",
+            "D) Keyboard"
+        ],
+        "answer": "B) Motherboard",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "SATA is a type of interface used for connecting?",
+        "options": [
+            "A) Storage devices",
+            "B) Monitors",
+            "C) Speakers",
+            "D) Printers"
+        ],
+        "answer": "A) Storage devices",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "An operating system acts as an interface between the user and the?",
+        "options": [
+            "A) Internet",
+            "B) Hardware",
+            "C) Printer",
+            "D) Network"
+        ],
+        "answer": "B) Hardware",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which of the following is an operating system?",
+        "options": [
+            "A) MS Word",
+            "B) Windows",
+            "C) Excel",
+            "D) PowerPoint"
+        ],
+        "answer": "B) Windows",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "An OS that allows only one user to work at a time is called a?",
+        "options": [
+            "A) Multi-user OS",
+            "B) Single-user OS",
+            "C) Network OS",
+            "D) Real-time OS"
+        ],
+        "answer": "B) Single-user OS",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "An OS that allows multiple programs to run simultaneously is called?",
+        "options": [
+            "A) Batch OS",
+            "B) Multitasking OS",
+            "C) Single-tasking OS",
+            "D) Real-time OS"
+        ],
+        "answer": "B) Multitasking OS",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The process of starting or restarting a computer is called?",
+        "options": [
+            "A) Formatting",
+            "B) Booting",
+            "C) Compiling",
+            "D) Debugging"
+        ],
+        "answer": "B) Booting",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The main OS program loaded into memory is called the?",
+        "options": [
+            "A) Shell",
+            "B) Kernel",
+            "C) Utility",
+            "D) Driver"
+        ],
+        "answer": "B) Kernel",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A GUI-based OS uses which of the following for interaction?",
+        "options": [
+            "A) Command line only",
+            "B) Icons and menus",
+            "C) Punch cards",
+            "D) Binary code"
+        ],
+        "answer": "B) Icons and menus",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which of these is an open-source operating system?",
+        "options": [
+            "A) Windows",
+            "B) Linux",
+            "C) macOS",
+            "D) MS-DOS"
+        ],
+        "answer": "B) Linux",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "MS-DOS is an example of a?",
+        "options": [
+            "A) GUI-based OS",
+            "B) Command line-based OS",
+            "C) Multi-user OS",
+            "D) Network OS"
+        ],
+        "answer": "B) Command line-based OS",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "An OS designed to process tasks within a strict time limit is called a?",
+        "options": [
+            "A) Batch OS",
+            "B) Real-time OS",
+            "C) Distributed OS",
+            "D) Time-sharing OS"
+        ],
+        "answer": "B) Real-time OS",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which key combination is used to open Task Manager in Windows?",
+        "options": [
+            "A) Ctrl+Alt+Delete",
+            "B) Ctrl+Shift+Esc",
+            "C) Both A and B",
+            "D) Alt+F4"
+        ],
+        "answer": "C) Both A and B",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The default file manager in Windows is called?",
+        "options": [
+            "A) My Computer/File Explorer",
+            "B) Finder",
+            "C) Nautilus",
+            "D) Explorer Bar"
+        ],
+        "answer": "A) My Computer/File Explorer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key is used to copy selected text in Windows?",
+        "options": [
+            "A) Ctrl+C",
+            "B) Ctrl+V",
+            "C) Ctrl+X",
+            "D) Ctrl+Z"
+        ],
+        "answer": "A) Ctrl+C",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key is used to paste copied content in Windows?",
+        "options": [
+            "A) Ctrl+C",
+            "B) Ctrl+V",
+            "C) Ctrl+P",
+            "D) Ctrl+S"
+        ],
+        "answer": "B) Ctrl+V",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The Recycle Bin in Windows is used to?",
+        "options": [
+            "A) Permanently delete files instantly",
+            "B) Temporarily store deleted files",
+            "C) Store installed programs",
+            "D) Store downloaded files only"
+        ],
+        "answer": "B) Temporarily store deleted files",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which key is used to rename a selected file in Windows?",
+        "options": [
+            "A) F1",
+            "B) F2",
+            "C) F5",
+            "D) F10"
+        ],
+        "answer": "B) F2",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which key refreshes the desktop or a window in Windows?",
+        "options": [
+            "A) F2",
+            "B) F5",
+            "C) F1",
+            "D) F4"
+        ],
+        "answer": "B) F5",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The Windows key + D shortcut is used to?",
+        "options": [
+            "A) Open Documents",
+            "B) Show desktop",
+            "C) Delete file",
+            "D) Duplicate window"
+        ],
+        "answer": "B) Show desktop",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Control Panel in Windows is used to?",
+        "options": [
+            "A) Browse the internet",
+            "B) Change system settings",
+            "C) Edit documents",
+            "D) Play media"
+        ],
+        "answer": "B) Change system settings",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which Windows feature allows switching between open applications?",
+        "options": [
+            "A) Alt+Tab",
+            "B) Ctrl+Tab",
+            "C) Shift+Tab",
+            "D) Tab+Enter"
+        ],
+        "answer": "A) Alt+Tab",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "MS Word is mainly used for?",
+        "options": [
+            "A) Creating spreadsheets",
+            "B) Word processing",
+            "C) Creating presentations",
+            "D) Database management"
+        ],
+        "answer": "B) Word processing",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key is used to make text bold in MS Word?",
+        "options": [
+            "A) Ctrl+B",
+            "B) Ctrl+I",
+            "C) Ctrl+U",
+            "D) Ctrl+N"
+        ],
+        "answer": "A) Ctrl+B",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key is used to underline text in MS Word?",
+        "options": [
+            "A) Ctrl+B",
+            "B) Ctrl+U",
+            "C) Ctrl+I",
+            "D) Ctrl+E"
+        ],
+        "answer": "B) Ctrl+U",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key is used to italicize text in MS Word?",
+        "options": [
+            "A) Ctrl+I",
+            "B) Ctrl+B",
+            "C) Ctrl+U",
+            "D) Ctrl+P"
+        ],
+        "answer": "A) Ctrl+I",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The default file extension of a Word document (older versions) is?",
+        "options": [
+            "A) .xls",
+            "B) .doc",
+            "C) .ppt",
+            "D) .txt"
+        ],
+        "answer": "B) .doc",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The default file extension of Word documents in newer versions is?",
+        "options": [
+            "A) .docx",
+            "B) .xlsx",
+            "C) .pptx",
+            "D) .pdf"
+        ],
+        "answer": "A) .docx",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key opens the 'Find and Replace' dialog box in MS Word?",
+        "options": [
+            "A) Ctrl+F",
+            "B) Ctrl+H",
+            "C) Ctrl+R",
+            "D) Ctrl+G"
+        ],
+        "answer": "B) Ctrl+H",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which feature in MS Word checks spelling and grammar automatically?",
+        "options": [
+            "A) Auto Correct",
+            "B) Spell Check",
+            "C) Find and Replace",
+            "D) Mail Merge"
+        ],
+        "answer": "B) Spell Check",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Mail Merge in MS Word is used to?",
+        "options": [
+            "A) Merge cells in a table",
+            "B) Create personalized letters for multiple recipients",
+            "C) Insert pictures",
+            "D) Check grammar"
+        ],
+        "answer": "B) Create personalized letters for multiple recipients",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key saves a document in MS Word?",
+        "options": [
+            "A) Ctrl+S",
+            "B) Ctrl+P",
+            "C) Ctrl+N",
+            "D) Ctrl+O"
+        ],
+        "answer": "A) Ctrl+S",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "MS Excel is mainly used for?",
+        "options": [
+            "A) Word processing",
+            "B) Spreadsheet calculations",
+            "C) Creating presentations",
+            "D) Web browsing"
+        ],
+        "answer": "B) Spreadsheet calculations",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The intersection of a row and a column in Excel is called a?",
+        "options": [
+            "A) Sheet",
+            "B) Cell",
+            "C) Field",
+            "D) Record"
+        ],
+        "answer": "B) Cell",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which symbol must precede a formula in Excel?",
+        "options": [
+            "A) #",
+            "B) @",
+            "C) =",
+            "D) $"
+        ],
+        "answer": "C) =",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which function in Excel is used to add a range of numbers?",
+        "options": [
+            "A) AVERAGE",
+            "B) SUM",
+            "C) COUNT",
+            "D) MAX"
+        ],
+        "answer": "B) SUM",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which function returns the average of a range of cells in Excel?",
+        "options": [
+            "A) SUM",
+            "B) AVERAGE",
+            "C) COUNT",
+            "D) MIN"
+        ],
+        "answer": "B) AVERAGE",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which function returns the largest value in a range in Excel?",
+        "options": [
+            "A) MIN",
+            "B) MAX",
+            "C) SUM",
+            "D) COUNT"
+        ],
+        "answer": "B) MAX",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The default file extension of Excel files in newer versions is?",
+        "options": [
+            "A) .docx",
+            "B) .xlsx",
+            "C) .pptx",
+            "D) .txt"
+        ],
+        "answer": "B) .xlsx",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key is used to insert a new worksheet in Excel?",
+        "options": [
+            "A) Shift+F11",
+            "B) Ctrl+N",
+            "C) Alt+F1",
+            "D) Ctrl+F11"
+        ],
+        "answer": "A) Shift+F11",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Freezing panes in Excel is used to?",
+        "options": [
+            "A) Delete rows",
+            "B) Keep specific rows/columns visible while scrolling",
+            "C) Merge cells",
+            "D) Hide a worksheet"
+        ],
+        "answer": "B) Keep specific rows/columns visible while scrolling",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which chart type in Excel is best suited to show proportions of a whole?",
+        "options": [
+            "A) Line chart",
+            "B) Pie chart",
+            "C) Bar chart",
+            "D) Scatter chart"
+        ],
+        "answer": "B) Pie chart",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "MS PowerPoint is mainly used to create?",
+        "options": [
+            "A) Spreadsheets",
+            "B) Presentations",
+            "C) Documents",
+            "D) Databases"
+        ],
+        "answer": "B) Presentations",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which key starts a slide show from the beginning in PowerPoint?",
+        "options": [
+            "A) F2",
+            "B) F5",
+            "C) F7",
+            "D) F10"
+        ],
+        "answer": "B) F5",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A single page in a PowerPoint presentation is called a?",
+        "options": [
+            "A) Sheet",
+            "B) Slide",
+            "C) Page",
+            "D) Frame"
+        ],
+        "answer": "B) Slide",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The feature that controls how a slide appears on screen is called a?",
+        "options": [
+            "A) Transition",
+            "B) Animation",
+            "C) Template",
+            "D) Theme"
+        ],
+        "answer": "A) Transition",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The effect applied to individual objects within a slide is called?",
+        "options": [
+            "A) Transition",
+            "B) Animation",
+            "C) Layout",
+            "D) Master slide"
+        ],
+        "answer": "B) Animation",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The default file extension of PowerPoint files in newer versions is?",
+        "options": [
+            "A) .pptx",
+            "B) .docx",
+            "C) .xlsx",
+            "D) .pdf"
+        ],
+        "answer": "A) .pptx",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which view in PowerPoint shows small thumbnails of all slides?",
+        "options": [
+            "A) Normal view",
+            "B) Slide Sorter view",
+            "C) Notes Page view",
+            "D) Reading view"
+        ],
+        "answer": "B) Slide Sorter view",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The Slide Master in PowerPoint is used to?",
+        "options": [
+            "A) Add speaker notes",
+            "B) Control the overall design of all slides",
+            "C) Print slides",
+            "D) Add transitions only"
+        ],
+        "answer": "B) Control the overall design of all slides",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which panel in PowerPoint is used to add speaker notes?",
+        "options": [
+            "A) Notes pane",
+            "B) Outline pane",
+            "C) Slide pane",
+            "D) Thumbnail pane"
+        ],
+        "answer": "A) Notes pane",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key exits a slideshow in PowerPoint?",
+        "options": [
+            "A) Esc",
+            "B) F5",
+            "C) Ctrl+P",
+            "D) Alt+F4"
+        ],
+        "answer": "A) Esc",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A collection of related data organized for easy access is called a?",
+        "options": [
+            "A) File",
+            "B) Database",
+            "C) Folder",
+            "D) Register"
+        ],
+        "answer": "B) Database",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "DBMS stands for?",
+        "options": [
+            "A) Database Management System",
+            "B) Data Backup Management System",
+            "C) Database Modeling System",
+            "D) Digital Base Management System"
+        ],
+        "answer": "A) Database Management System",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A table in a database consists of rows and?",
+        "options": [
+            "A) Sheets",
+            "B) Columns",
+            "C) Files",
+            "D) Forms"
+        ],
+        "answer": "B) Columns",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A row in a database table is also called a?",
+        "options": [
+            "A) Field",
+            "B) Record",
+            "C) Attribute",
+            "D) Key"
+        ],
+        "answer": "B) Record",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A column in a database table is also called a?",
+        "options": [
+            "A) Record",
+            "B) Field",
+            "C) Row",
+            "D) Tuple"
+        ],
+        "answer": "B) Field",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A key that uniquely identifies a record in a table is called a?",
+        "options": [
+            "A) Foreign key",
+            "B) Primary key",
+            "C) Candidate key",
+            "D) Super key"
+        ],
+        "answer": "B) Primary key",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "SQL stands for?",
+        "options": [
+            "A) Structured Query Language",
+            "B) Standard Query Language",
+            "C) Sequential Query Language",
+            "D) System Query Language"
+        ],
+        "answer": "A) Structured Query Language",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "MS Access is used primarily to create?",
+        "options": [
+            "A) Presentations",
+            "B) Spreadsheets",
+            "C) Databases",
+            "D) Documents"
+        ],
+        "answer": "C) Databases",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A query in a database is used to?",
+        "options": [
+            "A) Store data permanently",
+            "B) Retrieve or manipulate specific data",
+            "C) Format text",
+            "D) Design slides"
+        ],
+        "answer": "B) Retrieve or manipulate specific data",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "An RDBMS organizes data in the form of?",
+        "options": [
+            "A) Trees",
+            "B) Graphs",
+            "C) Tables",
+            "D) Lists"
+        ],
+        "answer": "C) Tables",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The Internet is a network of interconnected?",
+        "options": [
+            "A) Files",
+            "B) Networks",
+            "C) Programs",
+            "D) Databases"
+        ],
+        "answer": "B) Networks",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "WWW stands for?",
+        "options": [
+            "A) World Wide Web",
+            "B) World Wide Wire",
+            "C) Web Wide World",
+            "D) Wide World Web"
+        ],
+        "answer": "A) World Wide Web",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A unique address used to identify a website is called a?",
+        "options": [
+            "A) IP address only",
+            "B) URL",
+            "C) MAC address",
+            "D) Port number"
+        ],
+        "answer": "B) URL",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "HTTP stands for?",
+        "options": [
+            "A) HyperText Transfer Protocol",
+            "B) High Text Transfer Protocol",
+            "C) HyperText Transmission Protocol",
+            "D) Hyper Transfer Text Protocol"
+        ],
+        "answer": "A) HyperText Transfer Protocol",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The secure version of HTTP is called?",
+        "options": [
+            "A) HTTPS",
+            "B) FTP",
+            "C) SMTP",
+            "D) TCP"
+        ],
+        "answer": "A) HTTPS",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "An ISP is a company that provides?",
+        "options": [
+            "A) Software",
+            "B) Internet access",
+            "C) Hardware",
+            "D) Antivirus"
+        ],
+        "answer": "B) Internet access",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The first page that appears when you visit a website is called the?",
+        "options": [
+            "A) Landing page",
+            "B) Home page",
+            "C) Main page",
+            "D) Index page only"
+        ],
+        "answer": "B) Home page",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A software used to access and view websites is called a?",
+        "options": [
+            "A) Web server",
+            "B) Web browser",
+            "C) Search engine",
+            "D) Web host"
+        ],
+        "answer": "B) Web browser",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which of the following is a popular web browser?",
+        "options": [
+            "A) MS Word",
+            "B) Google Chrome",
+            "C) MS Excel",
+            "D) Photoshop"
+        ],
+        "answer": "B) Google Chrome",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The protocol used to transfer files over the internet is called?",
+        "options": [
+            "A) HTTP",
+            "B) FTP",
+            "C) SMTP",
+            "D) POP"
+        ],
+        "answer": "B) FTP",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Email stands for?",
+        "options": [
+            "A) Electronic Mail",
+            "B) Enclosed Mail",
+            "C) Emergency Mail",
+            "D) Encrypted Mail"
+        ],
+        "answer": "A) Electronic Mail",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The symbol used in an email address to separate the username and domain is?",
+        "options": [
+            "A) #",
+            "B) @",
+            "C) %",
+            "D) &"
+        ],
+        "answer": "B) @",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which protocol is used to send emails?",
+        "options": [
+            "A) SMTP",
+            "B) FTP",
+            "C) HTTP",
+            "D) SNMP"
+        ],
+        "answer": "A) SMTP",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which protocol is used to receive/download emails to a local device?",
+        "options": [
+            "A) SMTP",
+            "B) POP3",
+            "C) HTTP",
+            "D) FTP"
+        ],
+        "answer": "B) POP3",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Sending a copy of an email visibly to additional recipients uses which field?",
+        "options": [
+            "A) To",
+            "B) CC",
+            "C) BCC",
+            "D) Subject"
+        ],
+        "answer": "B) CC",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Sending a hidden copy of an email to additional recipients uses which field?",
+        "options": [
+            "A) To",
+            "B) CC",
+            "C) BCC",
+            "D) Subject"
+        ],
+        "answer": "C) BCC",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A file sent along with an email is called an?",
+        "options": [
+            "A) Extension",
+            "B) Attachment",
+            "C) Insertion",
+            "D) Add-on"
+        ],
+        "answer": "B) Attachment",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Unwanted or unsolicited email is commonly called?",
+        "options": [
+            "A) Spam",
+            "B) Draft",
+            "C) Inbox",
+            "D) Trash"
+        ],
+        "answer": "A) Spam",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The folder that stores emails you have written but not yet sent is called?",
+        "options": [
+            "A) Inbox",
+            "B) Sent",
+            "C) Draft",
+            "D) Trash"
+        ],
+        "answer": "C) Draft",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which of the following is a popular email service?",
+        "options": [
+            "A) Gmail",
+            "B) MS Word",
+            "C) Excel",
+            "D) PowerPoint"
+        ],
+        "answer": "A) Gmail",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A network confined to a small area like an office is called a?",
+        "options": [
+            "A) WAN",
+            "B) LAN",
+            "C) MAN",
+            "D) PAN"
+        ],
+        "answer": "B) LAN",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A network that spans a large geographical area, like across countries, is called a?",
+        "options": [
+            "A) LAN",
+            "B) WAN",
+            "C) PAN",
+            "D) MAN"
+        ],
+        "answer": "B) WAN",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A network covering a city is called a?",
+        "options": [
+            "A) LAN",
+            "B) WAN",
+            "C) MAN",
+            "D) PAN"
+        ],
+        "answer": "C) MAN",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A very small network connecting personal devices is called a?",
+        "options": [
+            "A) LAN",
+            "B) WAN",
+            "C) PAN",
+            "D) MAN"
+        ],
+        "answer": "C) PAN",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The unique numerical address of a device on a network is called its?",
+        "options": [
+            "A) MAC address only",
+            "B) IP address",
+            "C) URL",
+            "D) Domain name"
+        ],
+        "answer": "B) IP address",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The physical hardware address of a network device is called its?",
+        "options": [
+            "A) IP address",
+            "B) MAC address",
+            "C) URL",
+            "D) Port number"
+        ],
+        "answer": "B) MAC address",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A device that connects multiple networks and routes data between them is called a?",
+        "options": [
+            "A) Switch",
+            "B) Router",
+            "C) Hub",
+            "D) Modem"
+        ],
+        "answer": "B) Router",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A device that converts digital signals to analog for transmission over telephone lines is a?",
+        "options": [
+            "A) Router",
+            "B) Modem",
+            "C) Switch",
+            "D) Hub"
+        ],
+        "answer": "B) Modem",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The arrangement of nodes and connections in a network is called network?",
+        "options": [
+            "A) Protocol",
+            "B) Topology",
+            "C) Bandwidth",
+            "D) Domain"
+        ],
+        "answer": "B) Topology",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "TCP/IP is primarily a set of?",
+        "options": [
+            "A) Hardware devices",
+            "B) Communication protocols",
+            "C) Software applications",
+            "D) Storage devices"
+        ],
+        "answer": "B) Communication protocols",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A device that connects multiple computers within a LAN and forwards data intelligently is a?",
+        "options": [
+            "A) Hub",
+            "B) Switch",
+            "C) Modem",
+            "D) Repeater"
+        ],
+        "answer": "B) Switch",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A device that simply broadcasts data to all connected devices is called a?",
+        "options": [
+            "A) Switch",
+            "B) Hub",
+            "C) Router",
+            "D) Gateway"
+        ],
+        "answer": "B) Hub",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A device that regenerates a signal to extend network distance is called a?",
+        "options": [
+            "A) Repeater",
+            "B) Bridge",
+            "C) Gateway",
+            "D) Firewall"
+        ],
+        "answer": "A) Repeater",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A device that connects two different types of networks is called a?",
+        "options": [
+            "A) Switch",
+            "B) Gateway",
+            "C) Hub",
+            "D) Repeater"
+        ],
+        "answer": "B) Gateway",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A security device/software that monitors and filters network traffic is called a?",
+        "options": [
+            "A) Router",
+            "B) Firewall",
+            "C) Modem",
+            "D) Switch"
+        ],
+        "answer": "B) Firewall",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A device connecting two similar network segments and filtering traffic between them is a?",
+        "options": [
+            "A) Bridge",
+            "B) Modem",
+            "C) Hub",
+            "D) Repeater"
+        ],
+        "answer": "A) Bridge",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Wi-Fi technology allows devices to connect to a network?",
+        "options": [
+            "A) Only via cables",
+            "B) Wirelessly",
+            "C) Only via fiber optics",
+            "D) Only via satellite"
+        ],
+        "answer": "B) Wirelessly",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A wireless access point provides network connectivity using?",
+        "options": [
+            "A) Radio waves",
+            "B) Fiber cables",
+            "C) Coaxial cables",
+            "D) USB cables"
+        ],
+        "answer": "A) Radio waves",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Bluetooth is mainly used for?",
+        "options": [
+            "A) Long-distance communication",
+            "B) Short-range wireless communication",
+            "C) Wired communication",
+            "D) Satellite communication"
+        ],
+        "answer": "B) Short-range wireless communication",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "NIC stands for?",
+        "options": [
+            "A) Network Interface Card",
+            "B) Network Internet Connection",
+            "C) New Internet Connection",
+            "D) Network Internal Circuit"
+        ],
+        "answer": "A) Network Interface Card",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which of the following is a search engine?",
+        "options": [
+            "A) Google",
+            "B) MS Word",
+            "C) PowerPoint",
+            "D) Excel"
+        ],
+        "answer": "A) Google",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A software program that finds information on the World Wide Web is called a?",
+        "options": [
+            "A) Browser",
+            "B) Search engine",
+            "C) Compiler",
+            "D) Operating system"
+        ],
+        "answer": "B) Search engine",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Temporary internet files stored by a browser to speed up loading are called?",
+        "options": [
+            "A) Cookies",
+            "B) Cache",
+            "C) History",
+            "D) Bookmarks"
+        ],
+        "answer": "B) Cache",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Small text files stored by websites to remember user information are called?",
+        "options": [
+            "A) Cache",
+            "B) Cookies",
+            "C) Plugins",
+            "D) Bookmarks"
+        ],
+        "answer": "B) Cookies",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Saving a webpage address for quick future access is called a?",
+        "options": [
+            "A) Cookie",
+            "B) Bookmark",
+            "C) Cache entry",
+            "D) Plugin"
+        ],
+        "answer": "B) Bookmark",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which of these is NOT a web browser?",
+        "options": [
+            "A) Firefox",
+            "B) Chrome",
+            "C) Safari",
+            "D) Excel"
+        ],
+        "answer": "D) Excel",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The list of previously visited websites in a browser is called?",
+        "options": [
+            "A) History",
+            "B) Bookmark",
+            "C) Cache",
+            "D) Cookie"
+        ],
+        "answer": "A) History",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A browsing mode that does not save history or cookies is called?",
+        "options": [
+            "A) Normal mode",
+            "B) Incognito/Private mode",
+            "C) Full screen mode",
+            "D) Reader mode"
+        ],
+        "answer": "B) Incognito/Private mode",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which company developed the Chrome browser?",
+        "options": [
+            "A) Microsoft",
+            "B) Google",
+            "C) Apple",
+            "D) Mozilla"
+        ],
+        "answer": "B) Google",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which company developed the Microsoft Edge browser?",
+        "options": [
+            "A) Google",
+            "B) Apple",
+            "C) Microsoft",
+            "D) Mozilla"
+        ],
+        "answer": "C) Microsoft",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A malicious program that replicates itself and spreads to other files is called a?",
+        "options": [
+            "A) Firewall",
+            "B) Virus",
+            "C) Antivirus",
+            "D) Cookie"
+        ],
+        "answer": "B) Virus",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Software designed to detect and remove viruses is called?",
+        "options": [
+            "A) Firewall",
+            "B) Antivirus",
+            "C) Malware",
+            "D) Spyware"
+        ],
+        "answer": "B) Antivirus",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A self-replicating program that spreads across networks without user action is called a?",
+        "options": [
+            "A) Virus",
+            "B) Worm",
+            "C) Trojan horse",
+            "D) Adware"
+        ],
+        "answer": "B) Worm",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Malicious software disguised as legitimate software is called a?",
+        "options": [
+            "A) Worm",
+            "B) Trojan horse",
+            "C) Firewall",
+            "D) Cookie"
+        ],
+        "answer": "B) Trojan horse",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Software that secretly monitors user activity is called?",
+        "options": [
+            "A) Spyware",
+            "B) Firewall",
+            "C) Antivirus",
+            "D) Compiler"
+        ],
+        "answer": "A) Spyware",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Software that displays unwanted advertisements is called?",
+        "options": [
+            "A) Spyware",
+            "B) Adware",
+            "C) Firewall",
+            "D) Worm"
+        ],
+        "answer": "B) Adware",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Malicious software that locks or encrypts data until a payment is made is called?",
+        "options": [
+            "A) Ransomware",
+            "B) Firewall",
+            "C) Adware",
+            "D) Antivirus"
+        ],
+        "answer": "A) Ransomware",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A security barrier that monitors and controls incoming/outgoing network traffic is a?",
+        "options": [
+            "A) Antivirus",
+            "B) Firewall",
+            "C) Virus",
+            "D) Cookie"
+        ],
+        "answer": "B) Firewall",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Fraudulent attempts to obtain sensitive information by disguising as a trustworthy entity is",
+        "options": [
+            "A) Hacking",
+            "B) Phishing",
+            "C) Firewalling",
+            "D) Encryption"
+        ],
+        "answer": "B) Phishing",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Unauthorized access to a computer system is called?",
+        "options": [
+            "A) Hacking",
+            "B) Phishing",
+            "C) Encryption",
+            "D) Debugging"
+        ],
+        "answer": "A) Hacking",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The process of converting readable data into a coded form is called?",
+        "options": [
+            "A) Decryption",
+            "B) Encryption",
+            "C) Compression",
+            "D) Formatting"
+        ],
+        "answer": "B) Encryption",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The process of converting encrypted data back to its original form is called?",
+        "options": [
+            "A) Encryption",
+            "B) Decryption",
+            "C) Compression",
+            "D) Formatting"
+        ],
+        "answer": "B) Decryption",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A digital signature is used to verify the?",
+        "options": [
+            "A) Speed of a file",
+            "B) Authenticity of a document",
+            "C) Size of a file",
+            "D) Color of a document"
+        ],
+        "answer": "B) Authenticity of a document",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A secret word or phrase used to authenticate a user is called a?",
+        "options": [
+            "A) Username",
+            "B) Password",
+            "C) Domain",
+            "D) Protocol"
+        ],
+        "answer": "B) Password",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Using two different methods to verify a user's identity is called?",
+        "options": [
+            "A) Single sign-on",
+            "B) Two-factor authentication",
+            "C) Encryption",
+            "D) Firewalling"
+        ],
+        "answer": "B) Two-factor authentication",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A cyberattack that overwhelms a server with traffic to make it unavailable is called a?",
+        "options": [
+            "A) Phishing attack",
+            "B) Denial of Service attack",
+            "C) Virus attack",
+            "D) Spam attack"
+        ],
+        "answer": "B) Denial of Service attack",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "India's cyber law is primarily governed by which act?",
+        "options": [
+            "A) Information Technology Act, 2000",
+            "B) Companies Act",
+            "C) Consumer Protection Act",
+            "D) Indian Penal Code"
+        ],
+        "answer": "A) Information Technology Act, 2000",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "CERT-In refers to the?",
+        "options": [
+            "A) Indian Computer Emergency Response Team",
+            "B) Central Election Response Team",
+            "C) Indian Communication Regulatory Team",
+            "D) Cyber Enforcement and Regulation Team"
+        ],
+        "answer": "A) Indian Computer Emergency Response Team",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Data theft through fraudulent SMS messages is called?",
+        "options": [
+            "A) Vishing",
+            "B) Smishing",
+            "C) Phishing",
+            "D) Spoofing"
+        ],
+        "answer": "B) Smishing",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Ethical hacking is performed to?",
+        "options": [
+            "A) Steal data",
+            "B) Identify and fix security vulnerabilities",
+            "C) Spread viruses",
+            "D) Send spam"
+        ],
+        "answer": "B) Identify and fix security vulnerabilities",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does CPU stand for?",
+        "options": [
+            "A) Central Processing Unit",
+            "B) Central Program Utility",
+            "C) Computer Personal Unit",
+            "D) Central Processor Utility"
+        ],
+        "answer": "A) Central Processing Unit",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does RAM stand for?",
+        "options": [
+            "A) Random Access Memory",
+            "B) Read Access Memory",
+            "C) Rapid Access Memory",
+            "D) Read Available Memory"
+        ],
+        "answer": "A) Random Access Memory",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does URL stand for?",
+        "options": [
+            "A) Uniform Resource Locator",
+            "B) Universal Resource Link",
+            "C) Uniform Reference Locator",
+            "D) Universal Reference Link"
+        ],
+        "answer": "A) Uniform Resource Locator",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does LAN stand for?",
+        "options": [
+            "A) Local Area Network",
+            "B) Large Area Network",
+            "C) Local Access Network",
+            "D) Limited Area Network"
+        ],
+        "answer": "A) Local Area Network",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does PDF stand for?",
+        "options": [
+            "A) Portable Document Format",
+            "B) Personal Document File",
+            "C) Printable Document Format",
+            "D) Portable Data File"
+        ],
+        "answer": "A) Portable Document Format",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does GUI stand for?",
+        "options": [
+            "A) Graphical User Interface",
+            "B) General User Interface",
+            "C) Graphic Utility Interface",
+            "D) General Utility Instruction"
+        ],
+        "answer": "A) Graphical User Interface",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does USB stand for?",
+        "options": [
+            "A) Universal Serial Bus",
+            "B) United Serial Bus",
+            "C) Universal System Board",
+            "D) Unified Serial Bus"
+        ],
+        "answer": "A) Universal Serial Bus",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            "A) HyperText Markup Language",
+            "B) HyperText Making Language",
+            "C) High Text Markup Language",
+            "D) HyperTransfer Markup Language"
+        ],
+        "answer": "A) HyperText Markup Language",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does IP (in IP address) stand for?",
+        "options": [
+            "A) Internet Protocol",
+            "B) Internal Program",
+            "C) Internet Program",
+            "D) Interconnected Protocol"
+        ],
+        "answer": "A) Internet Protocol",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does VIRUS stand for (as commonly expanded)?",
+        "options": [
+            "A) Vital Information Resources Under Siege",
+            "B) Very Important Resource Under System",
+            "C) Virtual Information Resource Utility System",
+            "D) Verified Internet Resource Update Software"
+        ],
+        "answer": "A) Vital Information Resources Under Siege",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A language understood directly by the computer's hardware is called?",
+        "options": [
+            "A) High-level language",
+            "B) Machine language",
+            "C) Assembly language",
+            "D) Natural language"
+        ],
+        "answer": "B) Machine language",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A program that converts high-level language code into machine code all at once is called a?",
+        "options": [
+            "A) Interpreter",
+            "B) Compiler",
+            "C) Assembler",
+            "D) Linker"
+        ],
+        "answer": "B) Compiler",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A program that translates and executes high-level code line by line is called an?",
+        "options": [
+            "A) Compiler",
+            "B) Interpreter",
+            "C) Assembler",
+            "D) Debugger"
+        ],
+        "answer": "B) Interpreter",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A language that uses mnemonics like ADD and MOV is called?",
+        "options": [
+            "A) Machine language",
+            "B) Assembly language",
+            "C) High-level language",
+            "D) Natural language"
+        ],
+        "answer": "B) Assembly language",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "C, Java, and Python are examples of?",
+        "options": [
+            "A) Machine languages",
+            "B) Assembly languages",
+            "C) High-level languages",
+            "D) Low-level languages"
+        ],
+        "answer": "C) High-level languages",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A program used to convert assembly language into machine code is called an?",
+        "options": [
+            "A) Assembler",
+            "B) Compiler",
+            "C) Interpreter",
+            "D) Editor"
+        ],
+        "answer": "A) Assembler",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Errors in a program are commonly called?",
+        "options": [
+            "A) Viruses",
+            "B) Bugs",
+            "C) Cookies",
+            "D) Patches"
+        ],
+        "answer": "B) Bugs",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The process of finding and fixing errors in a program is called?",
+        "options": [
+            "A) Compiling",
+            "B) Debugging",
+            "C) Formatting",
+            "D) Encrypting"
+        ],
+        "answer": "B) Debugging",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Java is a language mainly known for being platform-?",
+        "options": [
+            "A) Dependent",
+            "B) Independent",
+            "C) Specific",
+            "D) Restricted"
+        ],
+        "answer": "B) Independent",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Python is widely known as a language that is easy to?",
+        "options": [
+            "A) Compile only",
+            "B) Read and learn",
+            "C) Encrypt",
+            "D) Format"
+        ],
+        "answer": "B) Read and learn",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Software that manages computer hardware and provides a platform for applications is",
+        "options": [
+            "A) Application software",
+            "B) System software",
+            "C) Utility only",
+            "D) Firmware only"
+        ],
+        "answer": "B) System software",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Software designed for end users to perform specific tasks is called?",
+        "options": [
+            "A) System software",
+            "B) Application software",
+            "C) Operating system",
+            "D) Firmware"
+        ],
+        "answer": "B) Application software",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "MS Word and MS Excel are examples of?",
+        "options": [
+            "A) System software",
+            "B) Application software",
+            "C) Utility software",
+            "D) Firmware"
+        ],
+        "answer": "B) Application software",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Windows and Linux are examples of?",
+        "options": [
+            "A) Application software",
+            "B) System software (OS)",
+            "C) Utility software",
+            "D) Firmware"
+        ],
+        "answer": "B) System software (OS)",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Software permanently stored in ROM to control hardware is called?",
+        "options": [
+            "A) Application software",
+            "B) System software",
+            "C) Firmware",
+            "D) Freeware"
+        ],
+        "answer": "C) Firmware",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Software available for free use without restriction is called?",
+        "options": [
+            "A) Shareware",
+            "B) Freeware",
+            "C) Firmware",
+            "D) Malware"
+        ],
+        "answer": "B) Freeware",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Software available for trial use before purchase is called?",
+        "options": [
+            "A) Freeware",
+            "B) Shareware",
+            "C) Firmware",
+            "D) Open source"
+        ],
+        "answer": "B) Shareware",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Software whose source code is publicly available for modification is called?",
+        "options": [
+            "A) Freeware",
+            "B) Shareware",
+            "C) Open source software",
+            "D) Firmware"
+        ],
+        "answer": "C) Open source software",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A software tool used to perform maintenance tasks like disk cleanup is called?",
+        "options": [
+            "A) Utility software",
+            "B) Application software",
+            "C) Firmware",
+            "D) Malware"
+        ],
+        "answer": "A) Utility software",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Antivirus software is an example of?",
+        "options": [
+            "A) Application software",
+            "B) Utility software",
+            "C) Firmware",
+            "D) Operating system"
+        ],
+        "answer": "B) Utility software",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "1 Byte equals how many bits?",
+        "options": [
+            "A) 4",
+            "B) 8",
+            "C) 16",
+            "D) 1024"
+        ],
+        "answer": "B) 8",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "1 Kilobyte equals how many bytes?",
+        "options": [
+            "A) 100",
+            "B) 1000",
+            "C) 1024",
+            "D) 10000"
+        ],
+        "answer": "C) 1024",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "1 Megabyte equals how many kilobytes?",
+        "options": [
+            "A) 100",
+            "B) 1000",
+            "C) 1024",
+            "D) 10000"
+        ],
+        "answer": "C) 1024",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "1 Gigabyte equals how many megabytes?",
+        "options": [
+            "A) 100",
+            "B) 1000",
+            "C) 1024",
+            "D) 512"
+        ],
+        "answer": "C) 1024",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "1 Terabyte equals how many gigabytes?",
+        "options": [
+            "A) 100",
+            "B) 512",
+            "C) 1000",
+            "D) 1024"
+        ],
+        "answer": "D) 1024",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which is the largest unit of storage among these?",
+        "options": [
+            "A) Kilobyte",
+            "B) Megabyte",
+            "C) Gigabyte",
+            "D) Terabyte"
+        ],
+        "answer": "D) Terabyte",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which is the smallest unit of storage among these?",
+        "options": [
+            "A) Byte",
+            "B) Kilobyte",
+            "C) Megabyte",
+            "D) Gigabyte"
+        ],
+        "answer": "A) Byte",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "1 Petabyte equals how many terabytes?",
+        "options": [
+            "A) 100",
+            "B) 1000",
+            "C) 1024",
+            "D) 512"
+        ],
+        "answer": "C) 1024",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Data transfer speed on networks is commonly measured in?",
+        "options": [
+            "A) Bytes only",
+            "B) Bits per second",
+            "C) Meters",
+            "D) Hertz only"
+        ],
+        "answer": "B) Bits per second",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "File sizes are commonly displayed in?",
+        "options": [
+            "A) Bits",
+            "B) Bytes/KB/MB/GB",
+            "C) Hertz",
+            "D) Watts"
+        ],
+        "answer": "B) Bytes/KB/MB/GB",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key is used to cut selected text?",
+        "options": [
+            "A) Ctrl+C",
+            "B) Ctrl+X",
+            "C) Ctrl+V",
+            "D) Ctrl+Z"
+        ],
+        "answer": "B) Ctrl+X",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key undoes the last action?",
+        "options": [
+            "A) Ctrl+Y",
+            "B) Ctrl+Z",
+            "C) Ctrl+U",
+            "D) Ctrl+R"
+        ],
+        "answer": "B) Ctrl+Z",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key redoes the last undone action?",
+        "options": [
+            "A) Ctrl+Y",
+            "B) Ctrl+Z",
+            "C) Ctrl+X",
+            "D) Ctrl+C"
+        ],
+        "answer": "A) Ctrl+Y",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key selects all content in a document?",
+        "options": [
+            "A) Ctrl+A",
+            "B) Ctrl+S",
+            "C) Ctrl+D",
+            "D) Ctrl+F"
+        ],
+        "answer": "A) Ctrl+A",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key opens a new document/window?",
+        "options": [
+            "A) Ctrl+O",
+            "B) Ctrl+N",
+            "C) Ctrl+P",
+            "D) Ctrl+W"
+        ],
+        "answer": "B) Ctrl+N",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key closes the current window?",
+        "options": [
+            "A) Alt+F4",
+            "B) Ctrl+F4",
+            "C) Alt+F5",
+            "D) Ctrl+Q"
+        ],
+        "answer": "A) Alt+F4",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key is used to print a document?",
+        "options": [
+            "A) Ctrl+P",
+            "B) Ctrl+O",
+            "C) Ctrl+S",
+            "D) Ctrl+E"
+        ],
+        "answer": "A) Ctrl+P",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key opens an existing file?",
+        "options": [
+            "A) Ctrl+N",
+            "B) Ctrl+O",
+            "C) Ctrl+S",
+            "D) Ctrl+P"
+        ],
+        "answer": "B) Ctrl+O",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which function key is commonly used to open Help in most applications?",
+        "options": [
+            "A) F1",
+            "B) F2",
+            "C) F5",
+            "D) F12"
+        ],
+        "answer": "A) F1",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key is used to switch between open applications on Windows?",
+        "options": [
+            "A) Alt+Tab",
+            "B) Ctrl+Alt+Del",
+            "C) Ctrl+Esc",
+            "D) Shift+Tab"
+        ],
+        "answer": "A) Alt+Tab",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which file extension is used for a Microsoft Word document (modern)?",
+        "options": [
+            "A) .xlsx",
+            "B) .docx",
+            "C) .pptx",
+            "D) .txt"
+        ],
+        "answer": "B) .docx",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which file extension is used for a Microsoft Excel document (modern)?",
+        "options": [
+            "A) .docx",
+            "B) .xlsx",
+            "C) .pptx",
+            "D) .pdf"
+        ],
+        "answer": "B) .xlsx",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which file extension is used for a Microsoft PowerPoint presentation (modern)?",
+        "options": [
+            "A) .docx",
+            "B) .xlsx",
+            "C) .pptx",
+            "D) .pdf"
+        ],
+        "answer": "C) .pptx",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which file extension represents a plain text file?",
+        "options": [
+            "A) .txt",
+            "B) .exe",
+            "C) .jpg",
+            "D) .mp3"
+        ],
+        "answer": "A) .txt",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which file extension is used for an executable program in Windows?",
+        "options": [
+            "A) .exe",
+            "B) .txt",
+            "C) .doc",
+            "D) .jpg"
+        ],
+        "answer": "A) .exe",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which file extension is commonly used for image files?",
+        "options": [
+            "A) .jpg",
+            "B) .exe",
+            "C) .doc",
+            "D) .mp3"
+        ],
+        "answer": "A) .jpg",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which file extension is commonly used for audio files?",
+        "options": [
+            "A) .mp3",
+            "B) .jpg",
+            "C) .exe",
+            "D) .doc"
+        ],
+        "answer": "A) .mp3",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which file extension is commonly used for video files?",
+        "options": [
+            "A) .mp4",
+            "B) .jpg",
+            "C) .mp3",
+            "D) .txt"
+        ],
+        "answer": "A) .mp4",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which file extension is used for Portable Document Format files?",
+        "options": [
+            "A) .pdf",
+            "B) .doc",
+            "C) .txt",
+            "D) .exe"
+        ],
+        "answer": "A) .pdf",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which file extension is used for compressed/zipped files?",
+        "options": [
+            "A) .zip",
+            "B) .exe",
+            "C) .txt",
+            "D) .doc"
+        ],
+        "answer": "A) .zip",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which type of printer is generally cheaper but slower and noisier?",
+        "options": [
+            "A) Laser printer",
+            "B) Dot matrix printer",
+            "C) Inkjet printer",
+            "D) 3D printer"
+        ],
+        "answer": "B) Dot matrix printer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which type of printer sprays tiny droplets of ink onto paper?",
+        "options": [
+            "A) Laser printer",
+            "B) Dot matrix printer",
+            "C) Inkjet printer",
+            "D) Thermal printer"
+        ],
+        "answer": "C) Inkjet printer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which printer type is generally best for high-volume, high-quality office printing?",
+        "options": [
+            "A) Dot matrix printer",
+            "B) Inkjet printer",
+            "C) Laser printer",
+            "D) Line printer"
+        ],
+        "answer": "C) Laser printer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A 3D printer creates objects by?",
+        "options": [
+            "A) Printing on paper",
+            "B) Adding material layer by layer",
+            "C) Scanning documents",
+            "D) Displaying images"
+        ],
+        "answer": "B) Adding material layer by layer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A scanner converts a physical document into a?",
+        "options": [
+            "A) Printed copy",
+            "B) Digital image",
+            "C) Audio file",
+            "D) Video file"
+        ],
+        "answer": "B) Digital image",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Flatbed scanners are commonly used to scan?",
+        "options": [
+            "A) Only 3D objects",
+            "B) Documents and photos",
+            "C) Only audio",
+            "D) Only video"
+        ],
+        "answer": "B) Documents and photos",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A printer's speed is commonly measured in?",
+        "options": [
+            "A) DPI",
+            "B) Pages Per Minute (PPM)",
+            "C) Hertz",
+            "D) Bits per second"
+        ],
+        "answer": "B) Pages Per Minute (PPM)",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which type of printer is commonly used for printing barcodes and labels?",
+        "options": [
+            "A) Thermal printer",
+            "B) Laser printer",
+            "C) 3D printer",
+            "D) Dot matrix printer"
+        ],
+        "answer": "A) Thermal printer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Print resolution quality is commonly measured in?",
+        "options": [
+            "A) DPI (Dots Per Inch)",
+            "B) PPM",
+            "C) GHz",
+            "D) RPM"
+        ],
+        "answer": "A) DPI (Dots Per Inch)",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "OCR software used with scanners is used to?",
+        "options": [
+            "A) Print documents",
+            "B) Convert scanned text images into editable text",
+            "C) Compress files",
+            "D) Encrypt files"
+        ],
+        "answer": "B) Convert scanned text images into editable text",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Vacuum tube-based computers belong to which generation?",
+        "options": [
+            "A) First",
+            "B) Second",
+            "C) Third",
+            "D) Fourth"
+        ],
+        "answer": "A) First",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Transistor-based computers belong to which generation?",
+        "options": [
+            "A) First",
+            "B) Second",
+            "C) Third",
+            "D) Fourth"
+        ],
+        "answer": "B) Second",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Integrated Circuit-based computers belong to which generation?",
+        "options": [
+            "A) First",
+            "B) Second",
+            "C) Third",
+            "D) Fourth"
+        ],
+        "answer": "C) Third",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Microprocessor-based computers belong to which generation?",
+        "options": [
+            "A) Second",
+            "B) Third",
+            "C) Fourth",
+            "D) Fifth"
+        ],
+        "answer": "C) Fourth",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "AI-based computers are expected to belong to which generation?",
+        "options": [
+            "A) Third",
+            "B) Fourth",
+            "C) Fifth",
+            "D) First"
+        ],
+        "answer": "C) Fifth",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which generation of computers saw a dramatic reduction in size using microprocessors?",
+        "options": [
+            "A) First",
+            "B) Second",
+            "C) Third",
+            "D) Fourth"
+        ],
+        "answer": "D) Fourth",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "First generation computers were extremely large mainly due to?",
+        "options": [
+            "A) Transistors",
+            "B) Vacuum tubes",
+            "C) Microprocessors",
+            "D) Integrated circuits"
+        ],
+        "answer": "B) Vacuum tubes",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which generation introduced the use of high-level programming languages like FORTRAN?",
+        "options": [
+            "A) First",
+            "B) Second",
+            "C) Third",
+            "D) Fourth"
+        ],
+        "answer": "B) Second",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "VLSI technology, used in fourth generation computers, stands for?",
+        "options": [
+            "A) Very Large Scale Integration",
+            "B) Very Long Storage Interface",
+            "C) Variable Large Systems Integration",
+            "D) Virtual Large Scale Interface"
+        ],
+        "answer": "A) Very Large Scale Integration",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which generation of computers introduced GUI-based operating systems widely?",
+        "options": [
+            "A) Second",
+            "B) Third",
+            "C) Fourth",
+            "D) First"
+        ],
+        "answer": "C) Fourth",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Who is credited with inventing the World Wide Web?",
+        "options": [
+            "A) Bill Gates",
+            "B) Tim Berners-Lee",
+            "C) Steve Jobs",
+            "D) Larry Page"
+        ],
+        "answer": "B) Tim Berners-Lee",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Who co-founded Microsoft along with Paul Allen?",
+        "options": [
+            "A) Steve Jobs",
+            "B) Bill Gates",
+            "C) Larry Page",
+            "D) Mark Zuckerberg"
+        ],
+        "answer": "B) Bill Gates",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Who co-founded Apple Inc. along with Steve Wozniak?",
+        "options": [
+            "A) Bill Gates",
+            "B) Steve Jobs",
+            "C) Larry Page",
+            "D) Jeff Bezos"
+        ],
+        "answer": "B) Steve Jobs",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Who is known as the father of Artificial Intelligence?",
+        "options": [
+            "A) Alan Turing",
+            "B) John McCarthy",
+            "C) Charles Babbage",
+            "D) Ada Lovelace"
+        ],
+        "answer": "B) John McCarthy",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Who developed the theoretical basis for modern computing, the Turing Machine?",
+        "options": [
+            "A) Alan Turing",
+            "B) John von Neumann",
+            "C) Charles Babbage",
+            "D) Blaise Pascal"
+        ],
+        "answer": "A) Alan Turing",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Who proposed the stored-program computer architecture concept?",
+        "options": [
+            "A) Alan Turing",
+            "B) John von Neumann",
+            "C) Charles Babbage",
+            "D) Ada Lovelace"
+        ],
+        "answer": "B) John von Neumann",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Who founded Facebook?",
+        "options": [
+            "A) Larry Page",
+            "B) Mark Zuckerberg",
+            "C) Jeff Bezos",
+            "D) Elon Musk"
+        ],
+        "answer": "B) Mark Zuckerberg",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Who founded Amazon?",
+        "options": [
+            "A) Jeff Bezos",
+            "B) Bill Gates",
+            "C) Larry Page",
+            "D) Steve Jobs"
+        ],
+        "answer": "A) Jeff Bezos",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Who co-founded Google along with Sergey Brin?",
+        "options": [
+            "A) Larry Page",
+            "B) Steve Jobs",
+            "C) Bill Gates",
+            "D) Jeff Bezos"
+        ],
+        "answer": "A) Larry Page",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Who developed the Linux operating system kernel?",
+        "options": [
+            "A) Linus Torvalds",
+            "B) Bill Gates",
+            "C) Dennis Ritchie",
+            "D) Steve Jobs"
+        ],
+        "answer": "A) Linus Torvalds",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "AI stands for?",
+        "options": [
+            "A) Artificial Intelligence",
+            "B) Automated Interface",
+            "C) Applied Informatics",
+            "D) Advanced Internet"
+        ],
+        "answer": "A) Artificial Intelligence",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "IoT stands for?",
+        "options": [
+            "A) Internet of Technology",
+            "B) Internet of Things",
+            "C) Integration of Things",
+            "D) Interface of Technology"
+        ],
+        "answer": "B) Internet of Things",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Cloud computing delivers computing resources over the?",
+        "options": [
+            "A) Local network only",
+            "B) Internet",
+            "C) USB cable",
+            "D) Bluetooth"
+        ],
+        "answer": "B) Internet",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Machine Learning is a subset of?",
+        "options": [
+            "A) Networking",
+            "B) Artificial Intelligence",
+            "C) Database management",
+            "D) Cyber security"
+        ],
+        "answer": "B) Artificial Intelligence",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Blockchain technology is primarily known for maintaining a?",
+        "options": [
+            "A) Centralized database",
+            "B) Distributed and secure ledger",
+            "C) Single-user file",
+            "D) Local backup"
+        ],
+        "answer": "B) Distributed and secure ledger",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Big Data refers to?",
+        "options": [
+            "A) Small structured data",
+            "B) Extremely large and complex data sets",
+            "C) Only text files",
+            "D) Only image files"
+        ],
+        "answer": "B) Extremely large and complex data sets",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Virtual Reality creates a simulated?",
+        "options": [
+            "A) Physical environment",
+            "B) Immersive digital environment",
+            "C) Audio file",
+            "D) Text document"
+        ],
+        "answer": "B) Immersive digital environment",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Augmented Reality overlays digital content onto the?",
+        "options": [
+            "A) Virtual world only",
+            "B) Real world",
+            "C) Cloud",
+            "D) Database"
+        ],
+        "answer": "B) Real world",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "5G refers to the fifth generation of?",
+        "options": [
+            "A) Computer processors",
+            "B) Mobile network technology",
+            "C) Operating systems",
+            "D) Programming languages"
+        ],
+        "answer": "B) Mobile network technology",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A chatbot is an example of an application using?",
+        "options": [
+            "A) Artificial Intelligence",
+            "B) Hardware virtualization",
+            "C) Cloud storage only",
+            "D) Firewall technology"
+        ],
+        "answer": "A) Artificial Intelligence",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The process of exchanging data between devices is called?",
+        "options": [
+            "A) Data communication",
+            "B) Data storage",
+            "C) Data compression",
+            "D) Data encryption"
+        ],
+        "answer": "A) Data communication",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The route data takes between sender and receiver over multiple networks is enabled by?",
+        "options": [
+            "A) Switching",
+            "B) Routing",
+            "C) Caching",
+            "D) Formatting"
+        ],
+        "answer": "B) Routing",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The amount of data that can be transmitted over a network in a given time is called?",
+        "options": [
+            "A) Latency",
+            "B) Bandwidth",
+            "C) Frequency",
+            "D) Voltage"
+        ],
+        "answer": "B) Bandwidth",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The delay in data transmission over a network is called?",
+        "options": [
+            "A) Bandwidth",
+            "B) Latency",
+            "C) Throughput",
+            "D) Frequency"
+        ],
+        "answer": "B) Latency",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Data sent in one direction only is called ______ communication.",
+        "options": [
+            "A) Simplex",
+            "B) Half-duplex",
+            "C) Full-duplex",
+            "D) Duplex"
+        ],
+        "answer": "A) Simplex",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Data sent in both directions but not simultaneously is called ______ communication.",
+        "options": [
+            "A) Simplex",
+            "B) Half-duplex",
+            "C) Full-duplex",
+            "D) None"
+        ],
+        "answer": "B) Half-duplex",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Data sent in both directions simultaneously is called ______ communication.",
+        "options": [
+            "A) Simplex",
+            "B) Half-duplex",
+            "C) Full-duplex",
+            "D) None"
+        ],
+        "answer": "C) Full-duplex",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A modem's main function is to modulate and?",
+        "options": [
+            "A) Amplify signals",
+            "B) Demodulate signals",
+            "C) Encrypt signals",
+            "D) Compress signals"
+        ],
+        "answer": "B) Demodulate signals",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Fiber optic cables transmit data using?",
+        "options": [
+            "A) Electrical signals",
+            "B) Light signals",
+            "C) Radio waves",
+            "D) Sound waves"
+        ],
+        "answer": "B) Light signals",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Wi-Fi uses which type of signal for communication?",
+        "options": [
+            "A) Radio waves",
+            "B) Light waves",
+            "C) Sound waves",
+            "D) Electrical wires"
+        ],
+        "answer": "A) Radio waves",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A topology where all devices connect to a single central cable is called?",
+        "options": [
+            "A) Star",
+            "B) Bus",
+            "C) Ring",
+            "D) Mesh"
+        ],
+        "answer": "B) Bus",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A topology where devices are connected in a closed loop is called?",
+        "options": [
+            "A) Star",
+            "B) Ring",
+            "C) Bus",
+            "D) Tree"
+        ],
+        "answer": "B) Ring",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A topology where all devices connect to a central hub or switch is called?",
+        "options": [
+            "A) Bus",
+            "B) Ring",
+            "C) Star",
+            "D) Mesh"
+        ],
+        "answer": "C) Star",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A topology where every device is connected to every other device is called?",
+        "options": [
+            "A) Star",
+            "B) Bus",
+            "C) Mesh",
+            "D) Ring"
+        ],
+        "answer": "C) Mesh",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A topology combining characteristics of star and bus topologies is called?",
+        "options": [
+            "A) Ring topology",
+            "B) Tree topology",
+            "C) Mesh topology",
+            "D) Point-to-point topology"
+        ],
+        "answer": "B) Tree topology",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which topology is most fault-tolerant since failure of one link doesn't isolate other nodes?",
+        "options": [
+            "A) Bus",
+            "B) Ring",
+            "C) Mesh",
+            "D) Star (partially, but mesh is best)"
+        ],
+        "answer": "C) Mesh",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "In star topology, failure of the central hub causes?",
+        "options": [
+            "A) No effect",
+            "B) The entire network to fail",
+            "C) Only one device to fail",
+            "D) Faster speed"
+        ],
+        "answer": "B) The entire network to fail",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "In bus topology, all devices share a single communication line called the?",
+        "options": [
+            "A) Backbone",
+            "B) Node",
+            "C) Hub",
+            "D) Switch"
+        ],
+        "answer": "A) Backbone",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which topology requires the most cabling for a large network?",
+        "options": [
+            "A) Bus",
+            "B) Star",
+            "C) Mesh",
+            "D) Ring"
+        ],
+        "answer": "C) Mesh",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A topology used within most modern office LANs is typically?",
+        "options": [
+            "A) Bus",
+            "B) Ring",
+            "C) Star",
+            "D) Mesh"
+        ],
+        "answer": "C) Star",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Buying and selling goods and services over the internet is called?",
+        "options": [
+            "A) E-governance",
+            "B) E-commerce",
+            "C) E-mail",
+            "D) E-learning"
+        ],
+        "answer": "B) E-commerce",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Business conducted between businesses online is called?",
+        "options": [
+            "A) B2C",
+            "B) B2B",
+            "C) C2C",
+            "D) G2C"
+        ],
+        "answer": "B) B2B",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Business conducted between a business and consumers online is called?",
+        "options": [
+            "A) B2B",
+            "B) B2C",
+            "C) C2C",
+            "D) G2G"
+        ],
+        "answer": "B) B2C",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Delivery of government services to citizens through digital means is called?",
+        "options": [
+            "A) E-commerce",
+            "B) E-governance",
+            "C) E-mail",
+            "D) E-banking"
+        ],
+        "answer": "B) E-governance",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "India's flagship digital initiative to transform government services is called?",
+        "options": [
+            "A) Digital India",
+            "B) Make in India",
+            "C) Skill India",
+            "D) Start-up India"
+        ],
+        "answer": "A) Digital India",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Online transfer of money between bank accounts is enabled through?",
+        "options": [
+            "A) E-commerce",
+            "B) E-banking",
+            "C) E-mail",
+            "D) E-learning"
+        ],
+        "answer": "B) E-banking",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A digital wallet is used to?",
+        "options": [
+            "A) Store physical cash",
+            "B) Store payment information for online transactions",
+            "C) Send emails",
+            "D) Browse websites"
+        ],
+        "answer": "B) Store payment information for online transactions",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "UPI, widely used in India for payments, stands for?",
+        "options": [
+            "A) Unified Payments Interface",
+            "B) Universal Payment Identity",
+            "C) United Payment Interface",
+            "D) Unified Public Interface"
+        ],
+        "answer": "A) Unified Payments Interface",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Aadhaar-based digital identity is an example of?",
+        "options": [
+            "A) E-commerce",
+            "B) E-governance",
+            "C) E-banking",
+            "D) E-mail"
+        ],
+        "answer": "B) E-governance",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "An online marketplace connecting individual sellers and buyers is an example of?",
+        "options": [
+            "A) B2B",
+            "B) B2C",
+            "C) C2C",
+            "D) G2C"
+        ],
+        "answer": "C) C2C",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Machine language belongs to which generation of programming languages?",
+        "options": [
+            "A) First",
+            "B) Second",
+            "C) Third",
+            "D) Fourth"
+        ],
+        "answer": "A) First",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Assembly language belongs to which generation of programming languages?",
+        "options": [
+            "A) First",
+            "B) Second",
+            "C) Third",
+            "D) Fourth"
+        ],
+        "answer": "B) Second",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "High-level languages like COBOL and FORTRAN belong to which generation?",
+        "options": [
+            "A) First",
+            "B) Second",
+            "C) Third",
+            "D) Fourth"
+        ],
+        "answer": "C) Third",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Fourth generation languages (4GL) are designed to be closer to?",
+        "options": [
+            "A) Machine code",
+            "B) Human/natural language",
+            "C) Binary code",
+            "D) Assembly code"
+        ],
+        "answer": "B) Human/natural language",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "SQL is commonly classified as a?",
+        "options": [
+            "A) First generation language",
+            "B) Second generation language",
+            "C) Fourth generation language",
+            "D) Machine language"
+        ],
+        "answer": "C) Fourth generation language",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Fifth generation languages are closely associated with?",
+        "options": [
+            "A) Assembly programming",
+            "B) Artificial Intelligence",
+            "C) Machine code",
+            "D) Binary logic only"
+        ],
+        "answer": "B) Artificial Intelligence",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which generation of language requires the programmer to specify hardware-level details?",
+        "options": [
+            "A) First",
+            "B) Third",
+            "C) Fourth",
+            "D) Fifth"
+        ],
+        "answer": "A) First",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "COBOL was designed mainly for?",
+        "options": [
+            "A) Scientific computing",
+            "B) Business data processing",
+            "C) Game development",
+            "D) AI research"
+        ],
+        "answer": "B) Business data processing",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "FORTRAN was designed mainly for?",
+        "options": [
+            "A) Business applications",
+            "B) Scientific and mathematical computing",
+            "C) Web development",
+            "D) Database queries"
+        ],
+        "answer": "B) Scientific and mathematical computing",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Object-oriented languages like Java and C++ are considered?",
+        "options": [
+            "A) First generation",
+            "B) Second generation",
+            "C) Third generation",
+            "D) Fourth generation"
+        ],
+        "answer": "C) Third generation",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A logic gate that outputs true only when all inputs are true is called?",
+        "options": [
+            "A) OR gate",
+            "B) AND gate",
+            "C) NOT gate",
+            "D) XOR gate"
+        ],
+        "answer": "B) AND gate",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A logic gate that outputs true when at least one input is true is called?",
+        "options": [
+            "A) AND gate",
+            "B) OR gate",
+            "C) NOT gate",
+            "D) NAND gate"
+        ],
+        "answer": "B) OR gate",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A logic gate that inverts its input is called?",
+        "options": [
+            "A) AND gate",
+            "B) OR gate",
+            "C) NOT gate",
+            "D) XOR gate"
+        ],
+        "answer": "C) NOT gate",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A logic gate that outputs true only when inputs are different is called?",
+        "options": [
+            "A) AND gate",
+            "B) OR gate",
+            "C) XOR gate",
+            "D) NOT gate"
+        ],
+        "answer": "C) XOR gate",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The combination of an AND gate followed by a NOT gate is called a?",
+        "options": [
+            "A) NOR gate",
+            "B) NAND gate",
+            "C) XOR gate",
+            "D) Buffer"
+        ],
+        "answer": "B) NAND gate",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The combination of an OR gate followed by a NOT gate is called a?",
+        "options": [
+            "A) NAND gate",
+            "B) NOR gate",
+            "C) XOR gate",
+            "D) Buffer"
+        ],
+        "answer": "B) NOR gate",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Digital circuits process data using which two states?",
+        "options": [
+            "A) High and Low voltage",
+            "B) Hot and Cold",
+            "C) Fast and Slow",
+            "D) Big and Small"
+        ],
+        "answer": "A) High and Low voltage",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Binary logic represents 'true' and 'false' using?",
+        "options": [
+            "A) 1 and 0",
+            "B) A and B",
+            "C) Yes and No only in text",
+            "D) High and Medium"
+        ],
+        "answer": "A) 1 and 0",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A half adder circuit adds how many binary bits?",
+        "options": [
+            "A) One",
+            "B) Two",
+            "C) Three",
+            "D) Four"
+        ],
+        "answer": "B) Two",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A full adder circuit can add how many inputs, including carry?",
+        "options": [
+            "A) Two",
+            "B) Three",
+            "C) Four",
+            "D) One"
+        ],
+        "answer": "B) Three",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A device connected externally to a computer to add functionality is called a?",
+        "options": [
+            "A) Peripheral device",
+            "B) Core device",
+            "C) Internal device",
+            "D) Firmware device"
+        ],
+        "answer": "A) Peripheral device",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which of the following is considered a peripheral device?",
+        "options": [
+            "A) CPU",
+            "B) Printer",
+            "C) Motherboard",
+            "D) RAM"
+        ],
+        "answer": "B) Printer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A UPS is used to?",
+        "options": [
+            "A) Speed up the CPU",
+            "B) Provide backup power during outages",
+            "C) Increase storage",
+            "D) Improve display quality"
+        ],
+        "answer": "B) Provide backup power during outages",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "UPS stands for?",
+        "options": [
+            "A) Uninterruptible Power Supply",
+            "B) Universal Power System",
+            "C) Unified Power Supply",
+            "D) Uninterrupted Program Supply"
+        ],
+        "answer": "A) Uninterruptible Power Supply",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A device used to connect a computer to a telephone line for internet access is a?",
+        "options": [
+            "A) Router",
+            "B) Modem",
+            "C) Switch",
+            "D) Hub"
+        ],
+        "answer": "B) Modem",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "An external storage device that connects via USB is a?",
+        "options": [
+            "A) Motherboard",
+            "B) External hard drive",
+            "C) CPU",
+            "D) RAM module"
+        ],
+        "answer": "B) External hard drive",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A device used to reduce voltage fluctuations and protect computers is called a?",
+        "options": [
+            "A) Stabilizer",
+            "B) Modem",
+            "C) Router",
+            "D) Scanner"
+        ],
+        "answer": "A) Stabilizer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Speakers are used as which type of device?",
+        "options": [
+            "A) Input device",
+            "B) Output device",
+            "C) Storage device",
+            "D) Processing device"
+        ],
+        "answer": "B) Output device",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A webcam is commonly used for?",
+        "options": [
+            "A) Printing documents",
+            "B) Video calls and recording",
+            "C) Data storage",
+            "D) Data encryption"
+        ],
+        "answer": "B) Video calls and recording",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A microphone converts sound waves into?",
+        "options": [
+            "A) Printed text",
+            "B) Electrical/digital signals",
+            "C) Video signals",
+            "D) Light signals"
+        ],
+        "answer": "B) Electrical/digital signals",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "MS Office is a suite developed by?",
+        "options": [
+            "A) Google",
+            "B) Microsoft",
+            "C) Apple",
+            "D) Adobe"
+        ],
+        "answer": "B) Microsoft",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which MS Office application is used for creating spreadsheets?",
+        "options": [
+            "A) MS Word",
+            "B) MS Excel",
+            "C) MS PowerPoint",
+            "D) MS Access"
+        ],
+        "answer": "B) MS Excel",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which MS Office application is used for creating presentations?",
+        "options": [
+            "A) MS Word",
+            "B) MS Excel",
+            "C) MS PowerPoint",
+            "D) MS Outlook"
+        ],
+        "answer": "C) MS PowerPoint",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which MS Office application is used for managing emails?",
+        "options": [
+            "A) MS Word",
+            "B) MS Outlook",
+            "C) MS Excel",
+            "D) MS Access"
+        ],
+        "answer": "B) MS Outlook",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which MS Office application is used for database management?",
+        "options": [
+            "A) MS Word",
+            "B) MS Excel",
+            "C) MS Access",
+            "D) MS PowerPoint"
+        ],
+        "answer": "C) MS Access",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The 'Ribbon' interface in MS Office contains?",
+        "options": [
+            "A) Only menus",
+            "B) Tabs, groups, and commands",
+            "C) Only icons",
+            "D) Only shortcuts"
+        ],
+        "answer": "B) Tabs, groups, and commands",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which shortcut key is used to open the Save As dialog box in MS Office?",
+        "options": [
+            "A) F12",
+            "B) F5",
+            "C) F2",
+            "D) F10"
+        ],
+        "answer": "A) F12",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The Quick Access Toolbar in MS Office is used for?",
+        "options": [
+            "A) Frequently used commands",
+            "B) System settings",
+            "C) Printing only",
+            "D) Formatting only"
+        ],
+        "answer": "A) Frequently used commands",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which MS Office feature allows combining a document with a data source for bulk letters?",
+        "options": [
+            "A) Mail Merge",
+            "B) Track Changes",
+            "C) Auto Save",
+            "D) Find and Replace"
+        ],
+        "answer": "A) Mail Merge",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Track Changes in MS Word is used to?",
+        "options": [
+            "A) Delete a document",
+            "B) Record edits made by reviewers",
+            "C) Print a document",
+            "D) Encrypt a document"
+        ],
+        "answer": "B) Record edits made by reviewers",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Google is primarily known as a?",
+        "options": [
+            "A) Operating system",
+            "B) Search engine",
+            "C) Word processor",
+            "D) Antivirus"
+        ],
+        "answer": "B) Search engine",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which of the following is Google's email service?",
+        "options": [
+            "A) Outlook",
+            "B) Gmail",
+            "C) Yahoo Mail",
+            "D) iCloud Mail"
+        ],
+        "answer": "B) Gmail",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Google Maps is primarily used for?",
+        "options": [
+            "A) Sending emails",
+            "B) Navigation and location services",
+            "C) Word processing",
+            "D) Video editing"
+        ],
+        "answer": "B) Navigation and location services",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which company owns YouTube?",
+        "options": [
+            "A) Microsoft",
+            "B) Google",
+            "C) Apple",
+            "D) Amazon"
+        ],
+        "answer": "B) Google",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Google Drive is used mainly for?",
+        "options": [
+            "A) Video calling",
+            "B) Cloud storage and file sharing",
+            "C) Web browsing",
+            "D) Antivirus scanning"
+        ],
+        "answer": "B) Cloud storage and file sharing",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which of the following is a search engine other than Google?",
+        "options": [
+            "A) Bing",
+            "B) Excel",
+            "C) Word",
+            "D) PowerPoint"
+        ],
+        "answer": "A) Bing",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Google Chrome OS is designed mainly for?",
+        "options": [
+            "A) Gaming PCs",
+            "B) Lightweight cloud-centric computing",
+            "C) Server hosting only",
+            "D) Industrial machines"
+        ],
+        "answer": "B) Lightweight cloud-centric computing",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Google's video conferencing service is called?",
+        "options": [
+            "A) Zoom",
+            "B) Google Meet",
+            "C) Skype",
+            "D) Teams"
+        ],
+        "answer": "B) Google Meet",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A search engine crawls and indexes web pages using programs called?",
+        "options": [
+            "A) Bots/Spiders",
+            "B) Browsers",
+            "C) Cookies",
+            "D) Plugins"
+        ],
+        "answer": "A) Bots/Spiders",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Google Docs is a cloud-based alternative to?",
+        "options": [
+            "A) MS Excel",
+            "B) MS Word",
+            "C) MS PowerPoint",
+            "D) MS Access"
+        ],
+        "answer": "B) MS Word",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which of the following is a social media platform?",
+        "options": [
+            "A) Facebook",
+            "B) MS Word",
+            "C) Excel",
+            "D) Notepad"
+        ],
+        "answer": "A) Facebook",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which platform is primarily used for professional networking?",
+        "options": [
+            "A) Instagram",
+            "B) LinkedIn",
+            "C) Snapchat",
+            "D) TikTok"
+        ],
+        "answer": "B) LinkedIn",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which platform is known for short messages limited in character count, historically called",
+        "options": [
+            "A) Facebook",
+            "B) Twitter (X)",
+            "C) LinkedIn",
+            "D) YouTube"
+        ],
+        "answer": "B) Twitter (X)",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Instagram is primarily used for sharing?",
+        "options": [
+            "A) Documents",
+            "B) Photos and videos",
+            "C) Spreadsheets",
+            "D) Presentations"
+        ],
+        "answer": "B) Photos and videos",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "WhatsApp is primarily used for?",
+        "options": [
+            "A) Video editing",
+            "B) Instant messaging and calls",
+            "C) Web hosting",
+            "D) Antivirus protection"
+        ],
+        "answer": "B) Instant messaging and calls",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which company owns WhatsApp and Instagram?",
+        "options": [
+            "A) Google",
+            "B) Meta (Facebook)",
+            "C) Microsoft",
+            "D) Amazon"
+        ],
+        "answer": "B) Meta (Facebook)",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A short-form video sharing app popular globally is?",
+        "options": [
+            "A) TikTok",
+            "B) MS Word",
+            "C) Excel",
+            "D) Access"
+        ],
+        "answer": "A) TikTok",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Zoom is primarily used for?",
+        "options": [
+            "A) Video conferencing",
+            "B) Word processing",
+            "C) Data storage",
+            "D) Antivirus scanning"
+        ],
+        "answer": "A) Video conferencing",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A hashtag on social media is used to?",
+        "options": [
+            "A) Encrypt a post",
+            "B) Categorize content by topic",
+            "C) Delete a post",
+            "D) Store a file"
+        ],
+        "answer": "B) Categorize content by topic",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Which of the following is a professional video-sharing platform for long-form content?",
+        "options": [
+            "A) YouTube",
+            "B) LinkedIn",
+            "C) Excel",
+            "D) Outlook"
+        ],
+        "answer": "A) YouTube",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Malicious software in general is commonly called?",
+        "options": [
+            "A) Firmware",
+            "B) Malware",
+            "C) Freeware",
+            "D) Shareware"
+        ],
+        "answer": "B) Malware",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A virus that infects the boot sector of a storage device is called a?",
+        "options": [
+            "A) File virus",
+            "B) Boot sector virus",
+            "C) Macro virus",
+            "D) Worm"
+        ],
+        "answer": "B) Boot sector virus",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A virus that infects documents using embedded scripts is called a?",
+        "options": [
+            "A) Boot sector virus",
+            "B) Macro virus",
+            "C) Worm",
+            "D) Trojan"
+        ],
+        "answer": "B) Macro virus",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A program that appears harmless but performs malicious actions once activated is a?",
+        "options": [
+            "A) Worm",
+            "B) Trojan horse",
+            "C) Boot sector virus",
+            "D) Firewall"
+        ],
+        "answer": "B) Trojan horse",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A network of infected computers controlled remotely by an attacker is called a?",
+        "options": [
+            "A) Firewall",
+            "B) Botnet",
+            "C) VPN",
+            "D) LAN"
+        ],
+        "answer": "B) Botnet",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Software installed without user consent that tracks browsing habits is?",
+        "options": [
+            "A) Spyware",
+            "B) Firmware",
+            "C) Antivirus",
+            "D) Freeware"
+        ],
+        "answer": "A) Spyware",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A keylogger is a type of malware that records?",
+        "options": [
+            "A) Screen brightness",
+            "B) Keystrokes",
+            "C) Battery usage",
+            "D) Network speed"
+        ],
+        "answer": "B) Keystrokes",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Malware that demands payment to restore access to data is called?",
+        "options": [
+            "A) Adware",
+            "B) Ransomware",
+            "C) Spyware",
+            "D) Firmware"
+        ],
+        "answer": "B) Ransomware",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Regularly updating antivirus definitions helps protect against new?",
+        "options": [
+            "A) Hardware failures",
+            "B) Malware threats",
+            "C) Power outages",
+            "D) Printer errors"
+        ],
+        "answer": "B) Malware threats",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A sandbox environment is used to safely test potentially malicious?",
+        "options": [
+            "A) Hardware",
+            "B) Software/files",
+            "C) Cables",
+            "D) Power supplies"
+        ],
+        "answer": "B) Software/files",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The architecture where a single memory is used for both instructions and data is called?",
+        "options": [
+            "A) Harvard architecture",
+            "B) Von Neumann architecture",
+            "C) RISC architecture",
+            "D) CISC architecture"
+        ],
+        "answer": "B) Von Neumann architecture",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The architecture that uses separate memory for instructions and data is called?",
+        "options": [
+            "A) Von Neumann architecture",
+            "B) Harvard architecture",
+            "C) CISC architecture",
+            "D) Pipeline architecture"
+        ],
+        "answer": "B) Harvard architecture",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "RISC stands for?",
+        "options": [
+            "A) Reduced Instruction Set Computer",
+            "B) Rapid Instruction Set Computer",
+            "C) Reduced Internal System Computer",
+            "D) Real Instruction Set Computer"
+        ],
+        "answer": "A) Reduced Instruction Set Computer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "CISC stands for?",
+        "options": [
+            "A) Complex Instruction Set Computer",
+            "B) Compact Internal System Computer",
+            "C) Complex Internal Set Computer",
+            "D) Compact Instruction Set Computer"
+        ],
+        "answer": "A) Complex Instruction Set Computer",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A technique that allows overlapping execution of multiple instructions is called?",
+        "options": [
+            "A) Pipelining",
+            "B) Caching",
+            "C) Buffering",
+            "D) Virtualization"
+        ],
+        "answer": "A) Pipelining",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The system bus that carries data between components is called the?",
+        "options": [
+            "A) Address bus",
+            "B) Data bus",
+            "C) Control bus",
+            "D) Power bus"
+        ],
+        "answer": "B) Data bus",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The bus that specifies memory locations to be accessed is called the?",
+        "options": [
+            "A) Data bus",
+            "B) Address bus",
+            "C) Control bus",
+            "D) System bus only"
+        ],
+        "answer": "B) Address bus",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The bus that carries command signals between CPU and other components is the?",
+        "options": [
+            "A) Data bus",
+            "B) Address bus",
+            "C) Control bus",
+            "D) Power bus"
+        ],
+        "answer": "C) Control bus",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A computer architecture with multiple processors working together is called?",
+        "options": [
+            "A) Single-core architecture",
+            "B) Multiprocessor architecture",
+            "C) Uniprocessor architecture",
+            "D) Serial architecture"
+        ],
+        "answer": "B) Multiprocessor architecture",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Cache memory is placed between the CPU and?",
+        "options": [
+            "A) Main memory",
+            "B) Hard disk",
+            "C) Monitor",
+            "D) Keyboard"
+        ],
+        "answer": "A) Main memory",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Digital India is a flagship program launched by the Government of?",
+        "options": [
+            "A) USA",
+            "B) India",
+            "C) UK",
+            "D) China"
+        ],
+        "answer": "B) India",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Aadhaar is a unique identification system managed by?",
+        "options": [
+            "A) UIDAI",
+            "B) TRAI",
+            "C) SEBI",
+            "D) RBI"
+        ],
+        "answer": "A) UIDAI",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "UIDAI stands for?",
+        "options": [
+            "A) Unique Identification Authority of India",
+            "B) Universal Internet Development Authority of India",
+            "C) Unified Identity and Data Authority of India",
+            "D) United Identification Agency of India"
+        ],
+        "answer": "A) Unique Identification Authority of India",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "DigiLocker is used mainly for?",
+        "options": [
+            "A) Online shopping",
+            "B) Storing digital versions of documents",
+            "C) Video calling",
+            "D) Social networking"
+        ],
+        "answer": "B) Storing digital versions of documents",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The government portal for online public grievance redressal is called?",
+        "options": [
+            "A) CPGRAMS",
+            "B) UPI",
+            "C) DigiLocker",
+            "D) MyGov"
+        ],
+        "answer": "A) CPGRAMS",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "MyGov is a platform for?",
+        "options": [
+            "A) Citizen engagement with government initiatives",
+            "B) Online banking",
+            "C) Video streaming",
+            "D) Cloud storage"
+        ],
+        "answer": "A) Citizen engagement with government initiatives",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "BHIM app, promoted by the Government of India, is used for?",
+        "options": [
+            "A) Video calls",
+            "B) Digital payments via UPI",
+            "C) Document storage",
+            "D) Social media"
+        ],
+        "answer": "B) Digital payments via UPI",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Common Service Centres (CSCs) are set up to deliver ______ services in rural areas.",
+        "options": [
+            "A) Only banking",
+            "B) Digital/e-governance",
+            "C) Only postal",
+            "D) Only medical"
+        ],
+        "answer": "B) Digital/e-governance",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The National Informatics Centre (NIC) provides IT support mainly to?",
+        "options": [
+            "A) Private companies",
+            "B) Government departments",
+            "C) Foreign embassies",
+            "D) NGOs only"
+        ],
+        "answer": "B) Government departments",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "e-Sign, part of Digital India, is used to?",
+        "options": [
+            "A) Digitally sign documents",
+            "B) Print documents",
+            "C) Scan documents",
+            "D) Encrypt hard disks"
+        ],
+        "answer": "A) Digitally sign documents",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The process of planning, creating, testing, and maintaining software is called?",
+        "options": [
+            "A) Software development",
+            "B) Data entry",
+            "C) Networking",
+            "D) Hardware assembly"
+        ],
+        "answer": "A) Software development",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The phase where user needs are gathered and analyzed is called?",
+        "options": [
+            "A) Testing",
+            "B) Requirement analysis",
+            "C) Deployment",
+            "D) Maintenance"
+        ],
+        "answer": "B) Requirement analysis",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The phase where the software structure and interface are planned is called?",
+        "options": [
+            "A) Testing",
+            "B) Design",
+            "C) Coding",
+            "D) Maintenance"
+        ],
+        "answer": "B) Design",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The phase where the actual program is written is called?",
+        "options": [
+            "A) Design",
+            "B) Coding/Implementation",
+            "C) Testing",
+            "D) Maintenance"
+        ],
+        "answer": "B) Coding/Implementation",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The phase where software is checked for errors before release is called?",
+        "options": [
+            "A) Design",
+            "B) Coding",
+            "C) Testing",
+            "D) Requirement analysis"
+        ],
+        "answer": "C) Testing",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The phase after release where updates and fixes are made is called?",
+        "options": [
+            "A) Design",
+            "B) Testing",
+            "C) Maintenance",
+            "D) Analysis"
+        ],
+        "answer": "C) Maintenance",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "SDLC stands for?",
+        "options": [
+            "A) Software Development Life Cycle",
+            "B) System Design Logic Chart",
+            "C) Software Data Life Cycle",
+            "D) System Development Logic Cycle"
+        ],
+        "answer": "A) Software Development Life Cycle",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A model where each phase of SDLC is completed before moving to the next is called the?",
+        "options": [
+            "A) Agile model",
+            "B) Waterfall model",
+            "C) Spiral model",
+            "D) V-model only"
+        ],
+        "answer": "B) Waterfall model",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A development approach emphasizing iterative progress and flexibility is called?",
+        "options": [
+            "A) Waterfall model",
+            "B) Agile model",
+            "C) Big bang model",
+            "D) Linear model"
+        ],
+        "answer": "B) Agile model",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Testing performed by end users before final release is called?",
+        "options": [
+            "A) Unit testing",
+            "B) Beta testing",
+            "C) Alpha testing (internal)",
+            "D) Regression testing"
+        ],
+        "answer": "B) Beta testing",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The full form of PDF is?",
+        "options": [
+            "A) Portable Document Format",
+            "B) Printable Data Format",
+            "C) Personal Document File",
+            "D) Public Document Format"
+        ],
+        "answer": "A) Portable Document Format",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The full form of CD-ROM is?",
+        "options": [
+            "A) Compact Disc Read Only Memory",
+            "B) Compact Data Read Only Memory",
+            "C) Computer Disc Read Only Memory",
+            "D) Compact Disc Rapid Output Memory"
+        ],
+        "answer": "A) Compact Disc Read Only Memory",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A folder used to organize files on a computer is also called a?",
+        "options": [
+            "A) Directory",
+            "B) Register",
+            "C) Cache",
+            "D) Buffer"
+        ],
+        "answer": "A) Directory",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The process of arranging data on a storage device for use is called?",
+        "options": [
+            "A) Formatting",
+            "B) Compiling",
+            "C) Debugging",
+            "D) Encrypting"
+        ],
+        "answer": "A) Formatting",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A backup copy of data used for recovery is called a?",
+        "options": [
+            "A) Cache",
+            "B) Backup",
+            "C) Cookie",
+            "D) Log"
+        ],
+        "answer": "B) Backup",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Compressing a file reduces its?",
+        "options": [
+            "A) Speed",
+            "B) Size",
+            "C) Security",
+            "D) Color"
+        ],
+        "answer": "B) Size",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The full form of WYSIWYG is?",
+        "options": [
+            "A) What You See Is What You Get",
+            "B) What You Save Is What You Get",
+            "C) What You See Is What You Save",
+            "D) What You Store Is What You Get"
+        ],
+        "answer": "A) What You See Is What You Get",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A program that manages files and folders on a computer is called a?",
+        "options": [
+            "A) File manager",
+            "B) Web browser",
+            "C) Compiler",
+            "D) Firewall"
+        ],
+        "answer": "A) File manager",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The taskbar in Windows typically shows?",
+        "options": [
+            "A) Only the time",
+            "B) Open applications, Start menu, and notifications",
+            "C) Only wallpaper settings",
+            "D) Only battery status"
+        ],
+        "answer": "B) Open applications, Start menu, and notifications",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A pop-up window that appears without user request is called a?",
+        "options": [
+            "A) Dialog box",
+            "B) Pop-up",
+            "C) Toolbar",
+            "D) Ribbon"
+        ],
+        "answer": "B) Pop-up",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The main function of an operating system's file system is to?",
+        "options": [
+            "A) Manage how data is stored and retrieved",
+            "B) Only display graphics",
+            "C) Only manage printers",
+            "D) Only connect to internet"
+        ],
+        "answer": "A) Manage how data is stored and retrieved",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A computer virus mainly spreads through?",
+        "options": [
+            "A) Infected files, emails, and removable media",
+            "B) Electric current only",
+            "C) Sound waves",
+            "D) Sunlight"
+        ],
+        "answer": "A) Infected files, emails, and removable media",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The main advantage of using cloud storage is?",
+        "options": [
+            "A) Access data from anywhere with internet",
+            "B) Only local access",
+            "C) No internet needed",
+            "D) Unlimited free storage always"
+        ],
+        "answer": "A) Access data from anywhere with internet",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A 'cookie' in web browsing mainly helps in?",
+        "options": [
+            "A) Deleting files",
+            "B) Remembering user preferences",
+            "C) Formatting hard disks",
+            "D) Installing software"
+        ],
+        "answer": "B) Remembering user preferences",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The main purpose of a firewall is to?",
+        "options": [
+            "A) Speed up the internet",
+            "B) Filter and control network traffic for security",
+            "C) Increase storage",
+            "D) Improve display resolution"
+        ],
+        "answer": "B) Filter and control network traffic for security",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A computer's IP address is used to?",
+        "options": [
+            "A) Identify a device on a network",
+            "B) Store files",
+            "C) Display graphics",
+            "D) Print documents"
+        ],
+        "answer": "A) Identify a device on a network",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The term 'Wi-Fi' is generally associated with?",
+        "options": [
+            "A) Wired networking",
+            "B) Wireless networking",
+            "C) Optical networking only",
+            "D) Satellite networking only"
+        ],
+        "answer": "B) Wireless networking",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The main function of RAM is to?",
+        "options": [
+            "A) Permanently store data",
+            "B) Temporarily store data being actively used",
+            "C) Print documents",
+            "D) Display graphics"
+        ],
+        "answer": "B) Temporarily store data being actively used",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A 'driver' in computing refers to software that?",
+        "options": [
+            "A) Enables communication between OS and hardware",
+            "B) Encrypts files",
+            "C) Compresses data",
+            "D) Manages emails"
+        ],
+        "answer": "A) Enables communication between OS and hardware",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The abbreviation 'OS' commonly refers to?",
+        "options": [
+            "A) Output System",
+            "B) Operating System",
+            "C) Optical System",
+            "D) Online Service"
+        ],
+        "answer": "B) Operating System",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does FTP stand for?",
+        "options": [
+            "A) File Transfer Protocol",
+            "B) Fast Transfer Protocol",
+            "C) File Transmission Process",
+            "D) Fixed Transfer Protocol"
+        ],
+        "answer": "A) File Transfer Protocol",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does SMTP stand for?",
+        "options": [
+            "A) Simple Mail Transfer Protocol",
+            "B) System Mail Transfer Protocol",
+            "C) Secure Mail Transfer Protocol",
+            "D) Simple Message Transfer Process"
+        ],
+        "answer": "A) Simple Mail Transfer Protocol",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does POP (in POP3) stand for?",
+        "options": [
+            "A) Post Office Protocol",
+            "B) Personal Output Protocol",
+            "C) Public Office Protocol",
+            "D) Post Operation Protocol"
+        ],
+        "answer": "A) Post Office Protocol",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does DNS stand for?",
+        "options": [
+            "A) Domain Name System",
+            "B) Data Network System",
+            "C) Digital Name Service",
+            "D) Domain Network Service"
+        ],
+        "answer": "A) Domain Name System",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does VPN stand for?",
+        "options": [
+            "A) Virtual Private Network",
+            "B) Verified Public Network",
+            "C) Virtual Public Node",
+            "D) Verified Private Node"
+        ],
+        "answer": "A) Virtual Private Network",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does SSD stand for?",
+        "options": [
+            "A) Solid State Drive",
+            "B) Secondary Storage Device",
+            "C) Static State Drive",
+            "D) Secure Storage Disk"
+        ],
+        "answer": "A) Solid State Drive",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does OCR stand for?",
+        "options": [
+            "A) Optical Character Recognition",
+            "B) Optical Code Reader",
+            "C) Online Character Recognition",
+            "D) Optical Computer Reader"
+        ],
+        "answer": "A) Optical Character Recognition",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does JPEG stand for?",
+        "options": [
+            "A) Joint Photographic Experts Group",
+            "B) Joint Picture Export Group",
+            "C) Java Photo Experts Group",
+            "D) Joint Program Export Group"
+        ],
+        "answer": "A) Joint Photographic Experts Group",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does GIF stand for?",
+        "options": [
+            "A) Graphics Interchange Format",
+            "B) Graphic Image File",
+            "C) Global Image Format",
+            "D) Graphics Internal File"
+        ],
+        "answer": "A) Graphics Interchange Format",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "What does MICR stand for?",
+        "options": [
+            "A) Magnetic Ink Character Recognition",
+            "B) Magnetic Internal Character Reader",
+            "C) Machine Ink Character Recognition",
+            "D) Magnetic Image Character Reader"
+        ],
+        "answer": "A) Magnetic Ink Character Recognition",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "ChatGPT is an example of?",
+        "options": [
+            "A) A search engine",
+            "B) A generative AI chatbot",
+            "C) An operating system",
+            "D) A database system"
+        ],
+        "answer": "B) A generative AI chatbot",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A large language model is trained mainly to process and generate?",
+        "options": [
+            "A) Images only",
+            "B) Human-like text",
+            "C) Audio only",
+            "D) Video only"
+        ],
+        "answer": "B) Human-like text",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Digital payments using QR codes are commonly used in India through the?",
+        "options": [
+            "A) UPI system",
+            "B) SMTP protocol",
+            "C) FTP protocol",
+            "D) DNS system"
+        ],
+        "answer": "A) UPI system",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Cybersecurity awareness month is generally observed to promote?",
+        "options": [
+            "A) Safe online practices",
+            "B) Faster internet speed",
+            "C) Cheaper hardware",
+            "D) New programming languages"
+        ],
+        "answer": "A) Safe online practices",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "The term 'metaverse' refers to a shared?",
+        "options": [
+            "A) Physical marketplace",
+            "B) Immersive virtual/digital space",
+            "C) Printed document",
+            "D) Local network only"
+        ],
+        "answer": "B) Immersive virtual/digital space",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Generative AI tools are commonly used to create?",
+        "options": [
+            "A) Only spreadsheets",
+            "B) Text, images, audio, and other content",
+            "C) Only hardware designs",
+            "D) Only network cables"
+        ],
+        "answer": "B) Text, images, audio, and other content",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "A 'smart' device typically connects to the internet as part of the?",
+        "options": [
+            "A) Internet of Things",
+            "B) Local printer only",
+            "C) Landline telephone",
+            "D) Postal system"
+        ],
+        "answer": "A) Internet of Things",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Digital literacy refers to a person's ability to?",
+        "options": [
+            "A) Repair hardware only",
+            "B) Effectively use digital technology and information",
+            "C) Manufacture computers",
+            "D) Design chips only"
+        ],
+        "answer": "B) Effectively use digital technology and information",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Two-factor authentication improves account security by requiring?",
+        "options": [
+            "A) Only a password",
+            "B) A password plus a second verification method",
+            "C) No verification",
+            "D) Only biometric data"
+        ],
+        "answer": "B) A password plus a second verification method",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    },
+    {
+        "question": "Net neutrality refers to the principle that internet service providers should?",
+        "options": [
+            "A) Treat all internet data equally without discrimination",
+            "B) Charge more for certain websites",
+            "C) Block competitor websites",
+            "D) Slow down all traffic equally by default"
+        ],
+        "answer": "A) Treat all internet data equally without discrimination",
+        "unit": "UNIT 4 - Computer Awareness (LDC)"
+    }
+]

@@ -1,0 +1,2994 @@
+[
+    {
+        "question": "The OS X has ____________",
+        "options": [
+            "A) monolithic kernel",
+            "B) hybrid kernel",
+            "C) microkernel",
+            "D) monolithic kernel with modules"
+        ],
+        "answer": "B) hybrid kernel",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which one of the following is not a real time operating system?",
+        "options": [
+            "A) Palm OS",
+            "B) VxWorks",
+            "C) Windows CE",
+            "D) RTLinux"
+        ],
+        "answer": "A) Palm OS",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "To access the services of operating system, the interface is provided by the",
+        "options": [
+            "A) System calls",
+            "B) API",
+            "C) Library",
+            "D) Assembly instructions"
+        ],
+        "answer": "A) System calls",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which one of the following is not true?",
+        "options": [
+            "A) kernel is the program that constitutes the central core of the operating system",
+            "B) kernel is the first part of operating system to load into memory during booting",
+            "C) kernel is made of various modules which can not be loaded in running operating system",
+            "D) kernel remains in the memory during the entire computer session"
+        ],
+        "answer": "C) kernel is made of various modules which can not be loaded in running operating system",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which one of the following error will be handle by the operating system?",
+        "options": [
+            "A) lack of paper in printer",
+            "B) connection failure in the network",
+            "C) power failure",
+            "D) all of the above"
+        ],
+        "answer": "D) all of the above",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which facility dynamically adds probes to a running system, both in user processes and in the kernel?",
+        "options": [
+            "A) DTrace",
+            "B) DLocate",
+            "C) DMap",
+            "D) DAdd"
+        ],
+        "answer": "A) DTrace",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The main function of the command interpreter is",
+        "options": [
+            "A) to get and execute the next user-specified command",
+            "B) to provide the interface between the API and application program",
+            "C) to handle the files in operating system",
+            "D) none of the above"
+        ],
+        "answer": "A) to get and execute the next user-specified command",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "If a process fails, most operating system write the error information to a ______",
+        "options": [
+            "A) log file",
+            "B) another running process",
+            "C) new file",
+            "D) None of these"
+        ],
+        "answer": "A) log file",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "By operating system, the resource management can be done via",
+        "options": [
+            "A) time division multiplexing",
+            "B) space division multiplexing",
+            "C) both time and space division multiplexing",
+            "D) none of these"
+        ],
+        "answer": "B) space division multiplexing",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Pre-emptive scheduling, is the strategy of temporarily suspending a running process",
+        "options": [
+            "A) before the CPU time slice expires",
+            "B) to allow starving processes to run",
+            "C) when it requests I/O)",
+            "D) none of the above"
+        ],
+        "answer": "A) before the CPU time slice expires",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Mutual exclusion problem occurs",
+        "options": [
+            "A) between two disjoint processes that do not interact",
+            "B) among processes that share resources",
+            "C) among processes that do not use the same resource",
+            "D) none of the above"
+        ],
+        "answer": "B) among processes that share resources",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Sector interleaving in disks is done by",
+        "options": [
+            "A) the disk manufacturer",
+            "B) the disk controller cord",
+            "C) the operating system",
+            "D) none of the above"
+        ],
+        "answer": "C) the operating system",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Memory protection is of no use in a",
+        "options": [
+            "A) single user system",
+            "B) non-multiprogramming system",
+            "C) non-multitasking system",
+            "D) none of the above"
+        ],
+        "answer": "D) none of the above",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Some computer systems support dual mode operation—the user mode and the supervisor or monitor mode. These refer to the modes",
+        "options": [
+            "A) by which user programs handle their data",
+            "B) by which the operating system executes user programs",
+            "C) in which the processor and the associated hardware operate.",
+            "D) of memory access"
+        ],
+        "answer": "C) in which the processor and the associated hardware operate.",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Disk scheduling involves deciding",
+        "options": [
+            "A) which disk should be accessed next",
+            "B) the order in which disk access requests must be serviced",
+            "C) the physical location where files should be accessed in the disk",
+            "D) none of the above"
+        ],
+        "answer": "B) the order in which disk access requests must be serviced",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A computer system has 6 tape drives, with 'n' processes competing for them. Each process may need 3 drives. The maximum value of 'n' for which the system is guaranteed to be deadlock free is",
+        "options": [
+            "A) 2",
+            "B) 3",
+            "C) 4",
+            "D) 1"
+        ],
+        "answer": "A) 2",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Dirty bit is used to show the",
+        "options": [
+            "A) page with corrupted data",
+            "B) wrong page in the memory",
+            "C) page that is modified after being loaded into cache memory",
+            "D) page that is less frequently accessed"
+        ],
+        "answer": "C) page that is modified after being loaded into cache memory",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Fence register is used for",
+        "options": [
+            "A) CPU protection",
+            "B) memory protection",
+            "C) file protection",
+            "D) all of the above"
+        ],
+        "answer": "B) memory protection",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which of the following is a service not supported by the operating system?",
+        "options": [
+            "A) Protection",
+            "B) Accounting",
+            "C) Compilation",
+            "D) I/O operation"
+        ],
+        "answer": "C) Compilation",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A collection of instructions that performs a single logical function is called :",
+        "options": [
+            "A) transaction",
+            "B) operation",
+            "C) function",
+            "D) all of the mentioned"
+        ],
+        "answer": "A) transaction",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A terminated transaction that has completed its execution successfully is ____________ otherwise it is __________",
+        "options": [
+            "A) committed, destroyed",
+            "B) aborted, destroyed",
+            "C) committed, aborted",
+            "D) none of the mentioned"
+        ],
+        "answer": "C) committed, aborted",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The state of the data accessed by an aborted transaction must be restored to what it was just before the transaction started executing. This restoration is known as ________ of transaction.",
+        "options": [
+            "A) safety",
+            "B) protection",
+            "C) roll – back",
+            "D) revert – back"
+        ],
+        "answer": "C) roll – back",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Write ahead logging is a way :",
+        "options": [
+            "A) to ensure atomicity",
+            "B) to keep data consistent",
+            "C) that records data on stable storage",
+            "D) all of the mentioned"
+        ],
+        "answer": "D) all of the mentioned",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In the write ahead logging a _____ is maintained.",
+        "options": [
+            "A) a memory",
+            "B) a system",
+            "C) a disk",
+            "D) a log record"
+        ],
+        "answer": "D) a log record",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "An actual update is not allowed to a data item :",
+        "options": [
+            "A) before the corresponding log record is written out to stable storage",
+            "B) after the corresponding log record is written out to stable storage",
+            "C) until the whole log record has been checked for inconsistencies",
+            "D) all of the mentioned"
+        ],
+        "answer": "A) before the corresponding log record is written out to stable storage",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The undo and redo operations must be _________ to guarantee correct behaviour, even if a failure occurs during recovery process.",
+        "options": [
+            "A) idempotent",
+            "B) easy",
+            "C) protected",
+            "D) all of the mentioned"
+        ],
+        "answer": "A) idempotent",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The system periodically performs checkpoints that consists of the following operation(s) :",
+        "options": [
+            "A) Putting all the log records currently in main memory onto stable storage",
+            "B) putting all modified data residing in main memory onto stable storage",
+            "C) putting a log record onto stable storage",
+            "D) all of the mentioned"
+        ],
+        "answer": "D) all of the mentioned",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Consider a transaction T1 that committed prior to checkpoint. The <T1 commits> record appears in the log before  the <checkpoint> record. Any modifications made by T1 must have been written to the stable storage either with the  checkpoint or prior to it. Thus at recovery time:",
+        "options": [
+            "A) There is a need to perform an undo operation on T1",
+            "B) There is a need to perform a redo operation on T1",
+            "C) There is no need to perform an undo and redo operation on T1",
+            "D) All of the mentioned"
+        ],
+        "answer": "C) There is no need to perform an undo and redo operation on T1",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Serializable schedules are ones where :",
+        "options": [
+            "A) concurrent execution of transactions is equivalent to the transactions executed serially",
+            "B) the transactions can be carried out one after the other",
+            "C) a valid result occurs after execution transactions",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) concurrent execution of transactions is equivalent to the transactions executed serially",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A locking protocol is one that :",
+        "options": [
+            "A) governs how locks are acquired",
+            "B) governs how locks are released",
+            "C) governs how locks are acquired and released",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) governs how locks are acquired",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The two phase locking protocol consists of :",
+        "options": [
+            "A) growing & shrinking phase",
+            "B) shrinking & creation phase",
+            "C) creation & growing phase",
+            "D) destruction & creation phase"
+        ],
+        "answer": "A) growing & shrinking phase",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The growing phase is a phase in which :",
+        "options": [
+            "A) A transaction may obtain locks, but does not release any",
+            "B) A transaction may obtain locks, and releases a few or all of them",
+            "C) A transaction may release locks, but does not obtain any new locks",
+            "D) A transaction may release locks, and does obtain new locks"
+        ],
+        "answer": "A) A transaction may obtain locks, but does not release any",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The shrinking phase is a phase in which :",
+        "options": [
+            "A) A transaction may obtain locks, but does not release any",
+            "B) A transaction may obtain locks, and releases a few or all of them",
+            "C) A transaction may obtain locks, and releases a few or all of them",
+            "D) A transaction may release locks, and does obtain new locks"
+        ],
+        "answer": "B) A transaction may obtain locks, and releases a few or all of them",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which of the following concurrency control protocols ensure both conflict serializability and freedom from  deadlock ? I) 2-phase locking II) Time-stamp ordering",
+        "options": [
+            "A) I only",
+            "B) II only",
+            "C) Both I and II",
+            "D) Neither I nor II"
+        ],
+        "answer": "A) I only",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In the bounded buffer problem, there are the empty and full semaphores that :",
+        "options": [
+            "A) count the number of empty and full buffers",
+            "B) count the number of empty and full memory spaces",
+            "C) count the number of empty and full queues",
+            "D) none of these"
+        ],
+        "answer": "A) count the number of empty and full buffers",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In the bounded buffer problem :",
+        "options": [
+            "A) there is only one buffer",
+            "B) there are n buffers ( n being greater than one but finite)",
+            "C) there are infinite buffers",
+            "D) the buffer size is bounded"
+        ],
+        "answer": "B) there are n buffers ( n being greater than one but finite)",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "To ensure difficulties do not arise in the readers – writers problem, _______ are given exclusive access to the shared object.",
+        "options": [
+            "A) readers",
+            "B) writers",
+            "C) readers and writers",
+            "D) none of these"
+        ],
+        "answer": "B) writers",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The dining – philosophers problem will occur in case of :",
+        "options": [
+            "A) 5 philosophers and 5 chopsticks",
+            "B) 4 philosophers and 5 chopsticks",
+            "C) 3 philosophers and 5 chopsticks",
+            "D) 6 philosophers and 5 chopsticks"
+        ],
+        "answer": "A) 5 philosophers and 5 chopsticks",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A deadlock free solution to the dining philosophers problem :",
+        "options": [
+            "A) necessarily eliminates the possibility of starvation",
+            "B) does not necessarily eliminate the possibility of starvation",
+            "C) eliminates any possibility of any kind of problem further",
+            "D) none of these"
+        ],
+        "answer": "B) does not necessarily eliminate the possibility of starvation",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Round robin scheduling falls under the category of :",
+        "options": [
+            "A) Non preemptive scheduling",
+            "B) Preemptive scheduling",
+            "C) All of the mentioned",
+            "D) None of these"
+        ],
+        "answer": "A) Non preemptive scheduling",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Under multiprogramming, turnaround time for short jobs is usually ________ and that for long jobs is slightly _____",
+        "options": [
+            "A) Lengthened; Shortened",
+            "B) Shortened; Lengthened",
+            "C) Shortened; Shortened",
+            "D) Shortened; Unchanged"
+        ],
+        "answer": "B) Shortened; Lengthened",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which of the following algorithms tends to minimize the process flow time?",
+        "options": [
+            "A) First come First served",
+            "B) Shortest Job First",
+            "C) Earliest Deadline First",
+            "D) Longest Job First"
+        ],
+        "answer": "B) Shortest Job First",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Orders are processed in the sequence they arrive if _______ rule sequences the jobs.",
+        "options": [
+            "A) earliest due date",
+            "B) slack time remaining",
+            "C) first come, first served",
+            "D) critical ratio"
+        ],
+        "answer": "C) first come, first served",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "There are 10 different processes running on a workstation. Idle processes are waiting for an input  event in the  input queue. Busy processes are scheduled with the Round-Robin timesharing method. Which out of the following quantum times is the best value for small response times, if the processes have a short runtime, e.g. less than 10ms ?",
+        "options": [
+            "A) tQ = 50ms",
+            "B) tQ = 15ms",
+            "C) tQ = 40ms",
+            "D) tQ = 45ms"
+        ],
+        "answer": "B) tQ = 15ms",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Scheduling is :",
+        "options": [
+            "A) allowing a job to use the processor",
+            "B) making proper use of processor",
+            "C) all of the mentioned",
+            "D) none of these"
+        ],
+        "answer": "A) allowing a job to use the processor",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The strategy of making processes that are logically runnable to be temporarily suspended is called:",
+        "options": [
+            "A) Non preemptive scheduling",
+            "B) Preemptive scheduling",
+            "C) Shortest job first",
+            "D) First come First served"
+        ],
+        "answer": "A) Non preemptive scheduling",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The FIFO algorithm :",
+        "options": [
+            "A) first executes the job that came in last in the queue",
+            "B) first executes the job that came in first in the queue",
+            "C) first executes the job that needs minimal processor",
+            "D) first executes the job that has maximum processor needs"
+        ],
+        "answer": "B) first executes the job that came in first in the queue",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "With round robin scheduling algorithm in a time shared system,",
+        "options": [
+            "A) using very large time slices converts it into First come First served scheduling algorithm",
+            "B) using very small time slices converts it into First come First served scheduling algorithm",
+            "C) using extremely small time slices increases performance",
+            "D) using very small time slices converts it into Shortest Job First algorithm"
+        ],
+        "answer": "A) using very large time slices converts it into First come First served scheduling algorithm",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The portion of the process scheduler in an operating system that dispatches processes is concerned with :",
+        "options": [
+            "A) assigning ready processes to CPU",
+            "B) assigning ready processes to waiting queue",
+            "C) assigning running processes to blocked queue",
+            "D) all of these"
+        ],
+        "answer": "A) assigning ready processes to CPU",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Complex scheduling algorithms :",
+        "options": [
+            "A) are very appropriate for very large computers",
+            "B) use minimal resources",
+            "C) use many resources",
+            "D) all of these"
+        ],
+        "answer": "A) are very appropriate for very large computers",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The most optimal scheduling algorithm is :",
+        "options": [
+            "A) FCFS – First come First served",
+            "B) SJF – Shortest Job First",
+            "C) RR – Round Robin",
+            "D) None of these"
+        ],
+        "answer": "B) SJF – Shortest Job First",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The real difficulty with SJF in short term scheduling is :",
+        "options": [
+            "A) it is too good an algorithm",
+            "B) knowing the length of the next CPU request",
+            "C) it is too complex to understand",
+            "D) none of these"
+        ],
+        "answer": "B) knowing the length of the next CPU request",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Consider the following set of processes, the length of the CPU burst time given in milliseconds :  Process  Burst time  P1  P2  P3  P4  6  8  7  3   Assuming the above process being scheduled with the SJF scheduling algorithm.",
+        "options": [
+            "A) The waiting time for process P1 is 3ms",
+            "B) The waiting time for process P1 is 0ms",
+            "C) The waiting time for process P1 is 16ms",
+            "D) The waiting time for process P1 is 9ms"
+        ],
+        "answer": "A) The waiting time for process P1 is 3ms",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Preemptive Shortest Job First scheduling is sometimes called:",
+        "options": [
+            "A) Fast SJF scheduling",
+            "B) EDF scheduling – Earliest Deadline First",
+            "C) HRRN scheduling – Highest Response Ratio Next",
+            "D) SRTN scheduling – Shortest Remaining Time Next"
+        ],
+        "answer": "D) SRTN scheduling – Shortest Remaining Time Next",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "An SJF algorithm is simply a priority algorithm where the priority is :",
+        "options": [
+            "A) the predicted next CPU burst",
+            "B) the inverse of the predicted next CPU burst",
+            "C) the current CPU burst",
+            "D) anything the user wants"
+        ],
+        "answer": "A) the predicted next CPU burst",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "One of the disadvantages of the priority scheduling algorithm is that :",
+        "options": [
+            "A) it schedules in a very complex manner",
+            "B) its scheduling takes up a lot of time",
+            "C) it can lead to some low priority process waiting indefinitely for the CPU",
+            "D) none of these"
+        ],
+        "answer": "C) it can lead to some low priority process waiting indefinitely for the CPU",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "‘Aging’ i  is :",
+        "options": [
+            "A) keeping track of cache contents",
+            "B) keeping track of what pages are currently residing in memory",
+            "C) keeping track of how many times a given page is referenced",
+            "D) increasing the priority of jobs to ensure termination in a finite time"
+        ],
+        "answer": "D) increasing the priority of jobs to ensure termination in a finite time",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A solution to the problem of indefinite blockage of low – priority processes is :",
+        "options": [
+            "A) Starvation",
+            "B) Wait queue",
+            "C) Ready queue",
+            "D) Aging"
+        ],
+        "answer": "D) Aging",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which of the following statements are true ? (GATE 2010) i) Shortest remaining time first scheduling may cause starvation ii) Preemptive scheduling may cause starvation iii) Round robin is better than FCFS in terns of response time",
+        "options": [
+            "A) i only",
+            "B) i and iii only",
+            "C) ii and iii only",
+            "D) i, ii and iii"
+        ],
+        "answer": "D) i, ii and iii",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which of the following scheduling algorithms gives minimum average waiting time ?",
+        "options": [
+            "A) FCFS",
+            "B) SJF",
+            "C) Round – robin",
+            "D) Priority"
+        ],
+        "answer": "B) SJF",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "CPU scheduling is the basis of ___________",
+        "options": [
+            "A) multiprocessor systems",
+            "B) multiprogramming operating systems",
+            "C) larger memory sized systems",
+            "D) none of these"
+        ],
+        "answer": "B) multiprogramming operating systems",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Response time is :",
+        "options": [
+            "A) the total time taken from the submission time till the completion time",
+            "B) the total time taken from the submission time till the first response is produced",
+            "C) the total time taken from submission time till the response is output",
+            "D) none of these"
+        ],
+        "answer": "B) the total time taken from the submission time till the first response is produced",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Scheduling is done so as to :",
+        "options": [
+            "A) increase the waiting time",
+            "B) keep the waiting time the same",
+            "C) decrease the waiting time",
+            "D) none of these"
+        ],
+        "answer": "C) decrease the waiting time",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Waiting time is :",
+        "options": [
+            "A) the total time in the blocked and waiting queues",
+            "B) the total time spent in the ready queue",
+            "C) the total time spent in the running queue",
+            "D) the total time from the completion till the submission of a process"
+        ],
+        "answer": "B) the total time spent in the ready queue",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "With multiprogramming, ______ is used productively.",
+        "options": [
+            "A) time",
+            "B) space",
+            "C) money",
+            "D) all of these"
+        ],
+        "answer": "A) time",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The two steps of a process execution are :",
+        "options": [
+            "A) OS & Memory Burst",
+            "B) CPU & I/O Burst",
+            "C) I/O & OS Burst",
+            "D) Memory & I/O Burst"
+        ],
+        "answer": "B) CPU & I/O Burst",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "An I/O bound program will typically have :",
+        "options": [
+            "A) a few very short CPU bursts",
+            "B) many very short I/O bursts",
+            "C) many very short CPU bursts",
+            "D) a few very short I/O bursts"
+        ],
+        "answer": "C) many very short CPU bursts",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A process is selected from the ______ queue by the ________ scheduler, to be executed.",
+        "options": [
+            "A) ready, long term",
+            "B) ready, short term",
+            "C) blocked, short term",
+            "D) wait, long term"
+        ],
+        "answer": "B) ready, short term",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In the following cases non – preemptive scheduling occurs :",
+        "options": [
+            "A) When a process switches from the running state to the ready state",
+            "B) When a process goes from the running state to the waiting state",
+            "C) When a process switches from the waiting state to the ready state",
+            "D) All of these"
+        ],
+        "answer": "B) When a process goes from the running state to the waiting state",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Scheduling is done so as to :",
+        "options": [
+            "A) increase the turnaround time",
+            "B) decrease the turnaround time",
+            "C) keep the turnaround time same",
+            "D) there is no relation between scheduling and turnaround time"
+        ],
+        "answer": "B) decrease the turnaround time",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Turnaround time is :",
+        "options": [
+            "A) the total waiting time for a process to finish execution",
+            "B) the total time spent in the ready queue",
+            "C) the total time spent in the running queue",
+            "D) the total time from the completion till the submission of a process"
+        ],
+        "answer": "D) the total time from the completion till the submission of a process",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The switching of the CPU from one process or thread to another is called :",
+        "options": [
+            "A) process switch",
+            "B) task switch",
+            "C) context switch",
+            "D) all of these"
+        ],
+        "answer": "D) all of these",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Dispatch latency is :",
+        "options": [
+            "A) the speed of dispatching a process from running to the ready state For more questions visit our website please click here",
+            "B) the time of dispatching a process from running to ready state and keeping the CPU idle",
+            "C) the time to stop one process and start running another one",
+            "D) none of these"
+        ],
+        "answer": "C) the time to stop one process and start running another one",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Scheduling is done so as to :",
+        "options": [
+            "A) increase CPU utilization",
+            "B) decrease CPU utilization",
+            "C) keep the CPU more idle",
+            "D) None of these"
+        ],
+        "answer": "A) increase CPU utilization",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Scheduling is done so as to :",
+        "options": [
+            "A) increase the throughput",
+            "B) decrease the throughput",
+            "C) increase the duration of a specific amount of work",
+            "D) None of these"
+        ],
+        "answer": "A) increase the throughput",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Concurrent access to shared data may result in :",
+        "options": [
+            "A) data consistency",
+            "B) data insecurity",
+            "C) data inconsistency",
+            "D) none of these"
+        ],
+        "answer": "C) data inconsistency",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A situation where several processes access and manipulate the same data concurrently and the outcome of the  execution depends on the particular order in which access takes place is called :",
+        "options": [
+            "A) data consistency",
+            "B) race condition",
+            "C) aging",
+            "D) starvation"
+        ],
+        "answer": "B) race condition",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The segment of code in which the process may change common variables, update tables, write into files is known  as :",
+        "options": [
+            "A) program",
+            "B) critical section",
+            "C) non – critical section",
+            "D) synchronizing"
+        ],
+        "answer": "B) critical section",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The following three conditions must be satisfied to solve the critical section problem :",
+        "options": [
+            "A) Mutual Exclusion",
+            "B) Progress",
+            "C) Bounded Waiting",
+            "D) All of these"
+        ],
+        "answer": "D) All of these",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Mutual exclusion implies that :",
+        "options": [
+            "A) if a process is executing in its critical section, then no other process must be executing in their critical sections",
+            "B) if a process is executing in its critical section, then other processes must be executing in their critical sections",
+            "C) if a process is executing in its critical section, then all the resources of the system must be blocked until it  finishes execution",
+            "D) none of these"
+        ],
+        "answer": "A) if a process is executing in its critical section, then no other process must be executing in their critical sections",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Bounded waiting implies that there exists a bound on the number of times a process is allowed to enter its critical  section :",
+        "options": [
+            "A) after a process has made a request to enter its critical section and before the request is granted",
+            "B) when another process is in its critical section",
+            "C) before a process has made a request to enter its critical section",
+            "D) none of these"
+        ],
+        "answer": "A) after a process has made a request to enter its critical section and before the request is granted",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A minimum of _____ variable(s) is/are required to be shared between processes to solve the critical section  problem.",
+        "options": [
+            "A) one",
+            "B) two",
+            "C) three",
+            "D) four"
+        ],
+        "answer": "B) two",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In the bakery algorithm to solve the critical section problem :",
+        "options": [
+            "A) each process is put into a queue and picked up in an ordered manner",
+            "B) each process receives a number (may or may not be unique) and the one with the lowest number is served  next",
+            "C) each process gets a unique number and the one with the highest number is served next",
+            "D) each process gets a unique number and the one with the lowest number is served next"
+        ],
+        "answer": "B) each process receives a number (may or may not be unique) and the one with the lowest number is served  next",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "What is the reusable resource?",
+        "options": [
+            "A) that can be used by one process at a time and is not depleted by that use",
+            "B) that can be used by more than one process at a time",
+            "C) that can be shared between various threads",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) that can be used by one process at a time and is not depleted by that use",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which of the following condition is required for deadlock to be possible?",
+        "options": [
+            "A) mutual exclusion",
+            "B) a process may hold allocated resources while awaiting assignment of other resources",
+            "C) no resource can be forcibly removed from a process holding it",
+            "D) all of the mentioned"
+        ],
+        "answer": "D) all of the mentioned",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A system is in the safe state if",
+        "options": [
+            "A) the system can allocate resources to each process in some order and still avoid a deadlock",
+            "B) there exist a safe sequence",
+            "C) all of the mentioned",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) the system can allocate resources to each process in some order and still avoid a deadlock",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The circular wait condition can be prevented by",
+        "options": [
+            "A) defining a linear ordering of resource types",
+            "B) using thread",
+            "C) using pipes",
+            "D) all of the mentioned"
+        ],
+        "answer": "A) defining a linear ordering of resource types",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which one of the following is the deadlock avoidance algorithm?",
+        "options": [
+            "A) banker’s algorithm",
+            "B) round-robin algorithm",
+            "C) elevator algorithm",
+            "D) karn’s algorithm"
+        ],
+        "answer": "A) banker’s algorithm",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "What is the drawback of banker’s s algorithm?",
+        "options": [
+            "A) in advance processes rarely know that how much resource they will need",
+            "B) the number of processes changes as time progresses",
+            "C) resource once available can disappear",
+            "D) all of the mentioned"
+        ],
+        "answer": "D) all of the mentioned",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "For effective operating system, when to check for deadlock?",
+        "options": [
+            "A) every time a resource request is made",
+            "B) at fixed time intervals",
+            "C) every time a resource request is made at fixed time intervals",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) every time a resource request is made",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A problem encountered in multitasking when a process is perpetually denied necessary resources is called",
+        "options": [
+            "A) deadlock",
+            "B) starvation",
+            "C) inversion",
+            "D) aging"
+        ],
+        "answer": "B) starvation",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which one of the following is a visual ( mathematical ) way to determine the deadlock occurrence?",
+        "options": [
+            "A) resource allocation graph",
+            "B) starvation graph",
+            "C) inversion graph",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) resource allocation graph",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "To avoid deadlock",
+        "options": [
+            "A) there must be a fixed number of resources to allocate",
+            "B) resource allocation must be done only once",
+            "C) all deadlocked processes must be aborted",
+            "D) inversion technique can be used"
+        ],
+        "answer": "A) there must be a fixed number of resources to allocate",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Each request requires that the system consider the _____________ to decide whether the current request can be satisfied or must wait to avoid a future possible deadlock.",
+        "options": [
+            "A) resources currently available",
+            "B) processes that have previously been in the system",
+            "C) resources currently allocated to each process",
+            "D) future requests and releases of each process"
+        ],
+        "answer": "A) resources currently available",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Given a priori information about the ________ number of resources of each type that maybe requested for each  process, it is possible to construct an algorithm that ensures that the system will never enter a deadlock state.",
+        "options": [
+            "A) minimum",
+            "B) average",
+            "C) maximum",
+            "D) approximate"
+        ],
+        "answer": "C) maximum",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A deadlock avoidance algorithm dynamically examines the __________ to ensure that a circular wait condition can  never exist.",
+        "options": [
+            "A) resource allocation state",
+            "B) system storage state",
+            "C) operating system",
+            "D) resources"
+        ],
+        "answer": "A) resource allocation state",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A state is safe, if :",
+        "options": [
+            "A) the system does not crash due to deadlock occurrence",
+            "B) the system can allocate resources to each process in some order and still avoid a deadlock",
+            "C) the state keeps the system protected and safe",
+            "D) all of the mentioned"
+        ],
+        "answer": "B) the system can allocate resources to each process in some order and still avoid a deadlock",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A system is in a safe state only if there exists a :",
+        "options": [
+            "A) safe allocation",
+            "B) safe resource",
+            "C) safe sequence",
+            "D) all of the mentioned"
+        ],
+        "answer": "C) safe sequence",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "All unsafe states are :",
+        "options": [
+            "A) deadlocks",
+            "B) not deadlocks",
+            "C) fatal",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) deadlocks",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "If no cycle exists in the resource allocation graph :",
+        "options": [
+            "A) then the system will not be in a safe state",
+            "B) then the system will be in a safe state",
+            "C) all of the mentioned",
+            "D) none of the mentioned"
+        ],
+        "answer": "B) then the system will be in a safe state",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The resource allocation graph is not applicable to a resource allocation system :",
+        "options": [
+            "A) with multiple instances of each resource type",
+            "B) with a single instance of each resource type",
+            "C) single & multiple instance of each resource type",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) with multiple instances of each resource type",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The Banker’s s algorithm is _____________ than the resource allocation graph algorithm.",
+        "options": [
+            "A) less efficient",
+            "B) more efficient",
+            "C) equal",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) less efficient",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The data structures available in the Banker’s s algorithm are :",
+        "options": [
+            "A) Available",
+            "B) Need",
+            "C) Allocation",
+            "D) All of the mentioned"
+        ],
+        "answer": "D) All of the mentioned",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The content of the matrix Need is :",
+        "options": [
+            "A) Allocation – Available",
+            "B) Max – Available",
+            "C) Max – Allocation",
+            "D) Allocation – Max"
+        ],
+        "answer": "C) Max – Allocation",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The wait-for graph is a deadlock detection algorithm that is applicable when :",
+        "options": [
+            "A) all resources have a single instance",
+            "B) all resources have multiple instances",
+            "C) all resources have a single 7 multiple instance",
+            "D) all of the mentioned"
+        ],
+        "answer": "A) all resources have a single instance",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "An edge from process Pi to Pj in a wait for graph indicates that :",
+        "options": [
+            "A) Pi is waiting for Pj to release a resource that Pi needs",
+            "B) Pj is waiting for Pi to release a resource that Pj needs",
+            "C) Pi is waiting for Pj to leave the system",
+            "D) Pj is waiting for Pi to leave the system"
+        ],
+        "answer": "A) Pi is waiting for Pj to release a resource that Pi needs",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "If the wait for graph contains a cycle :",
+        "options": [
+            "A) then a deadlock does not exist",
+            "B) then a deadlock exists",
+            "C) then the system is in a safe state",
+            "D) either deadlock exists or system is in a safe state"
+        ],
+        "answer": "B) then a deadlock exists",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "If deadlocks occur frequently, the detection algorithm must be invoked ________",
+        "options": [
+            "A) rarely",
+            "B) frequently",
+            "C) rarely & frequently",
+            "D) none of the mentioned"
+        ],
+        "answer": "B) frequently",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The disadvantage of invoking the detection algorithm for every request is :",
+        "options": [
+            "A) overhead of the detection algorithm due to consumption of memory",
+            "B) excessive time consumed in the request to be allocated memory",
+            "C) considerable overhead in computation time",
+            "D) all of the mentioned"
+        ],
+        "answer": "C) considerable overhead in computation time",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A deadlock eventually cripples system throughput and will cause the CPU utilization to ______",
+        "options": [
+            "A) increase",
+            "B) drop",
+            "C) stay still",
+            "D) none of the mentioned"
+        ],
+        "answer": "B) drop",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Every time a request for allocation cannot be granted immediately, the detection algorithm is invoked. This will help identify :",
+        "options": [
+            "A) the set of processes that have been deadlocked",
+            "B) the set of processes in the deadlock queue",
+            "C) the specific process that caused the deadlock",
+            "D) all of the mentioned"
+        ],
+        "answer": "A) the set of processes that have been deadlocked",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A computer system has 6 tape drives, with ‘n’ pro processes competing for them. Each process may need 3 tape drives. The maximum value of ‘n’ for for which the system is guaranteed to be deadlock free is :",
+        "options": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "answer": "B) 2",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A system has 3 processes sharing 4 resources. If each process needs a maximum of 2 units then, deadlock :",
+        "options": [
+            "A) can never occur",
+            "B) may occur",
+            "C) has to occur",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) can never occur",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "‘m’ processes share ‘n’ r resources of the same type. The maximum need of each process doesn’t exceed ‘n’ and and  the sum of all their maximum needs is always less than m+n. In this setup, deadlock :",
+        "options": [
+            "A) can never occur",
+            "B) may occur",
+            "C) has to occur",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) can never occur",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The number of resources requested by a process :",
+        "options": [
+            "A) must always be less than the total number of resources available in the system",
+            "B) must always be equal to the total number of resources available in the system",
+            "C) must not exceed the total number of resources available in the system",
+            "D) must exceed the total number of resources available in the system"
+        ],
+        "answer": "C) must not exceed the total number of resources available in the system",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The request and release of resources are ___________",
+        "options": [
+            "A) command line statements",
+            "B) interrupts",
+            "C) system calls",
+            "D) special programs"
+        ],
+        "answer": "C) system calls",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Multithreaded programs are :",
+        "options": [
+            "A) lesser prone to deadlocks",
+            "B) more prone to deadlocks",
+            "C) not at all prone to deadlocks",
+            "D) none of the mentioned"
+        ],
+        "answer": "B) more prone to deadlocks",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "For a deadlock to arise, which of the following conditions must hold simultaneously?",
+        "options": [
+            "A) Mutual exclusion",
+            "B) No preemption",
+            "C) Hold and wait",
+            "D) All of the mentioned"
+        ],
+        "answer": "D) All of the mentioned",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "For a Hold and wait condition to prevail :",
+        "options": [
+            "A) A process must be not be holding a resource, but waiting for one to be freed, and then request to acquire it",
+            "B) A process must be holding at least one resource and waiting to acquire additional resources that are being held by other processes",
+            "C) A process must hold at least one resource and not be waiting to acquire additional resources",
+            "D) None of the mentioned"
+        ],
+        "answer": "B) A process must be holding at least one resource and waiting to acquire additional resources that are being held by other processes",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Deadlock prevention is a set of methods :",
+        "options": [
+            "A) to ensure that at least one of the necessary conditions cannot hold",
+            "B) to ensure that all of the necessary conditions do not hold",
+            "C) to decide if the requested resources for a process have to be given or not",
+            "D) to recover from a deadlock"
+        ],
+        "answer": "A) to ensure that at least one of the necessary conditions cannot hold",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "For non sharable resources like a printer, mutual exclusion :",
+        "options": [
+            "A) must exist",
+            "B) must not exist",
+            "C) may exist",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) must exist",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The disadvantage of a process being allocated all its resources before beginning its execution is :",
+        "options": [
+            "A) Low CPU utilization",
+            "B) Low resource utilization",
+            "C) Very high resource utilization",
+            "D) None of the mentioned"
+        ],
+        "answer": "B) Low resource utilization",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "To ensure no preemption, if a process is holding some resources and requests another resource that cannot be immediately allocated to it :",
+        "options": [
+            "A) then the process waits for the resources be allocated to it",
+            "B) the process keeps sending requests until the resource is allocated to it",
+            "C) the process resumes execution without the resource being allocated to it",
+            "D) then all resources currently being held are preempted"
+        ],
+        "answer": "D) then all resources currently being held are preempted",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "One way to ensure that the circular wait condition never holds is to :",
+        "options": [
+            "A) impose a total ordering of all resource types and to determine whether one precedes another in the ordering",
+            "B) to never let a process acquire resources that are held by other processes",
+            "C) to let a process wait for only one resource at a time",
+            "D) all of the mentioned"
+        ],
+        "answer": "A) impose a total ordering of all resource types and to determine whether one precedes another in the ordering",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A deadlock can be broken by :",
+        "options": [
+            "A) abort one or more processes to break the circular wait",
+            "B) abort all the process in the system",
+            "C) preempt all resources from all processes",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) abort one or more processes to break the circular wait",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The two ways of aborting processes and eliminating deadlocks are :",
+        "options": [
+            "A) Abort all deadlocked processes",
+            "B) Abort all processes",
+            "C) Abort one process at a time until the deadlock cycle is eliminated",
+            "D) All of the mentioned"
+        ],
+        "answer": "C) Abort one process at a time until the deadlock cycle is eliminated",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Those processes should be aborted on occurrence of a deadlock, the termination of which :",
+        "options": [
+            "A) is more time consuming",
+            "B) incurs minimum cost",
+            "C) safety is not hampered",
+            "D) all of the mentioned"
+        ],
+        "answer": "B) incurs minimum cost",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The process to be aborted is chosen on the basis of the following factors :",
+        "options": [
+            "A) priority of the process",
+            "B) process is interactive or batch",
+            "C) how long the process has computed",
+            "D) all of the mentioned"
+        ],
+        "answer": "D) all of the mentioned",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Cost factors of process termination include :",
+        "options": [
+            "A) Number of resources the deadlock process is not holding",
+            "B) CPU utilization at the time of deadlock",
+            "C) Amount of time a deadlocked process has thus far consumed during its execution",
+            "D) All of the mentioned"
+        ],
+        "answer": "C) Amount of time a deadlocked process has thus far consumed during its execution",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "If we preempt a resource from a process, the process cannot continue with its normal execution and it must be :",
+        "options": [
+            "A) aborted",
+            "B) rolled back",
+            "C) terminated",
+            "D) queued"
+        ],
+        "answer": "B) rolled back",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "To _______ to a safe state, the system needs to keep more information about the states of processes.",
+        "options": [
+            "A) abort the process",
+            "B) roll back the process",
+            "C) queue the process",
+            "D) none of the mentioned"
+        ],
+        "answer": "B) roll back the process",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "If the resources are always preempted from the same process, __________ can occur.",
+        "options": [
+            "A) deadlock",
+            "B) system crash",
+            "C) aging",
+            "D) starvation"
+        ],
+        "answer": "D) starvation",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The solution to starvation is :",
+        "options": [
+            "A) the number of rollbacks must be included in the cost factor",
+            "B) the number of resources must be included in resource preemption",
+            "C) resource preemption be done instead",
+            "D) all of the mentioned"
+        ],
+        "answer": "A) the number of rollbacks must be included in the cost factor",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Inter process communication :",
+        "options": [
+            "A) allows processes to communicate and synchronize their actions when using the same address space",
+            "B) allows processes to communicate and synchronize their actions without using the same address space",
+            "C) allows the processes to only synchronize their actions without communication",
+            "D) none of these"
+        ],
+        "answer": "B) allows processes to communicate and synchronize their actions without using the same address space",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Bounded capacity and Unbounded capacity queues are referred to as :",
+        "options": [
+            "A) Programmed buffering",
+            "B) Automatic buffering",
+            "C) User defined buffering",
+            "D) No buffering"
+        ],
+        "answer": "B) Automatic buffering",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Message passing system allows processes to :",
+        "options": [
+            "A) communicate with one another without resorting to shared data",
+            "B) communicate with one another by resorting to shared data",
+            "C) share data",
+            "D) name the recipient or sender of the message"
+        ],
+        "answer": "A) communicate with one another without resorting to shared data",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "An IPC facility provides at least two operations:",
+        "options": [
+            "A) write & delete message",
+            "B) delete & receive message",
+            "C) send & delete message",
+            "D) receive & send message"
+        ],
+        "answer": "D) receive & send message",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The Zero Capacity queue :",
+        "options": [
+            "A) is referred to as a message system with buffering",
+            "B) is referred to as a message system with no buffering",
+            "C) is referred to as a link",
+            "D) none of these"
+        ],
+        "answer": "B) is referred to as a message system with no buffering",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Messages sent by a process :",
+        "options": [
+            "A) have to be of a fixed size",
+            "B) have to be a variable size",
+            "C) can be fixed or variable sized",
+            "D) None of these"
+        ],
+        "answer": "C) can be fixed or variable sized",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In the Zero capacity queue :",
+        "options": [
+            "A) the queue can store at least one message",
+            "B) the sender blocks until the receiver receives the message",
+            "C) the sender keeps sending and the messages dont wait in the queue",
+            "D) none of these"
+        ],
+        "answer": "B) the sender blocks until the receiver receives the message",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The link between two processes P and Q to send and receive messages is called :",
+        "options": [
+            "A) communication link",
+            "B) message-passing link",
+            "C) synchronization link",
+            "D) all of these"
+        ],
+        "answer": "A) communication link",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which of the following are TRUE for direct communication :",
+        "options": [
+            "A) A communication link can be associated with N number of process(N = max. number of processes supported by system)",
+            "B) A communication link can be associated with exactly two processes",
+            "C) Exactly N/2 links exist between each pair of processes(N = max. number of processes supported by system)",
+            "D) Exactly two link exists between each pair of processes"
+        ],
+        "answer": "B) A communication link can be associated with exactly two processes",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In indirect communication between processes P and Q :",
+        "options": [
+            "A) there is another process R to handle and pass on the messages between P and Q",
+            "B) there is another machine between the two processes to help communication",
+            "C) there is a mailbox to help communication between P and Q",
+            "D) none of these"
+        ],
+        "answer": "C) there is a mailbox to help communication between P and Q",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In the non blocking send :",
+        "options": [
+            "A) the sending process keeps sending until the message is received",
+            "B) the sending process sends the message and resumes operation",
+            "C) the sending process keeps sending until it receives a message",
+            "D) none of these"
+        ],
+        "answer": "B) the sending process sends the message and resumes operation",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Address Binding is :",
+        "options": [
+            "A) going to an address in memory",
+            "B) locating an address with the help of another address",
+            "C) binding two addresses together to form a new address in a different memory space",
+            "D) a mapping from one address space to another"
+        ],
+        "answer": "D) a mapping from one address space to another",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Binding of instructions and data to memory addresses can be done at :",
+        "options": [
+            "A) Compile time",
+            "B) Load time",
+            "C) Execution time",
+            "D) All of the mentioned"
+        ],
+        "answer": "D) All of the mentioned",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "If the process can be moved during its execution from one memory segment to another, then binding must be :",
+        "options": [
+            "A) delayed until run time",
+            "B) preponed to compile time",
+            "C) preponed to load time",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) delayed until run time",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Dynamic loading is :",
+        "options": [
+            "A) loading multiple routines dynamically",
+            "B) loading a routine only when it is called",
+            "C) loading multiple routines randomly",
+            "D) none of the mentioned"
+        ],
+        "answer": "B) loading a routine only when it is called",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The advantage of dynamic loading is that :",
+        "options": [
+            "A) A used routine is used multiple times",
+            "B) An unused routine is never loaded",
+            "C) CPU utilization increases",
+            "D) All of the mentioned"
+        ],
+        "answer": "B) An unused routine is never loaded",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The idea of overlays is to :",
+        "options": [
+            "A) data that are needed at any given time",
+            "B) enable a process to be larger than the amount of memory allocated to it",
+            "C) keep in memory only those instructions",
+            "D) all of the mentioned"
+        ],
+        "answer": "D) all of the mentioned",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The ___________ must design and program the overlay structure.",
+        "options": [
+            "A) programmer",
+            "B) system architect",
+            "C) system designer",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) programmer",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The ___________ swaps processes in and out of the memory.",
+        "options": [
+            "A) Memory manager",
+            "B) CPU",
+            "C) CPU manager",
+            "D) User"
+        ],
+        "answer": "A) Memory manager",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "If a higher priority process arrives and wants service, the memory manager can swap out the lower priority process to execute the higher priority process. When the higher priority process finishes, the lower priority process is swapped back in and continues execution. This variant of swapping is sometimes called :",
+        "options": [
+            "A) priority swapping",
+            "B) pull out, push in",
+            "C) roll out, roll in",
+            "D) none of the mentioned"
+        ],
+        "answer": "C) roll out, roll in",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "If binding is done at assembly or load time, then the process _____ be moved to different locations after being swapped out and in again.",
+        "options": [
+            "A) can",
+            "B) must",
+            "C) can never",
+            "D) may"
+        ],
+        "answer": "A) can",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In a system that does not support swapping,",
+        "options": [
+            "A) the compiler normally binds symbolic addresses (variables) to relocatable addresses",
+            "B) the compiler normally binds symbolic addresses to physical addresses",
+            "C) the loader binds relocatable addresses to physical addresses",
+            "D) binding of symbolic addresses to physical addresses normally takes place during execution"
+        ],
+        "answer": "A) the compiler normally binds symbolic addresses (variables) to relocatable addresses",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In a system that does not support swapping,",
+        "options": [
+            "A) the compiler normally binds symbolic addresses (variables) to relocatable addresses",
+            "B) the compiler normally binds symbolic addresses to physical addresses",
+            "C) the loader binds relocatable addresses to physical addresses",
+            "D) binding of symbolic addresses to physical addresses normally takes place during execution"
+        ],
+        "answer": "A) the compiler normally binds symbolic addresses (variables) to relocatable addresses",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which of the following is TRUE ?",
+        "options": [
+            "A) Overlays are used to increase the size of physical memory",
+            "B) Overlays are used to increase the logical address space",
+            "C) When overlays are used, the size of a process is not limited to the size of the physical memory",
+            "D) Overlays are used whenever the physical address space is smaller than the logical address space"
+        ],
+        "answer": "C) When overlays are used, the size of a process is not limited to the size of the physical memory",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The address generated by the CPU is referred to as :",
+        "options": [
+            "A) Physical address",
+            "B) Logical address",
+            "C) Neither physical nor logical",
+            "D) None of the mentioned"
+        ],
+        "answer": "B) Logical address",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The address loaded into the memory address register of the memory is referred to as :",
+        "options": [
+            "A) Physical address",
+            "B) Logical address",
+            "C) Neither physical nor logical",
+            "D) None of the mentioned"
+        ],
+        "answer": "A) Physical address",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The run time mapping from virtual to physical addresses is done by a hardware device called the:",
+        "options": [
+            "A) Virtual to physical mapper",
+            "B) Memory management unit",
+            "C) Memory mapping unit",
+            "D) None of the mentioned"
+        ],
+        "answer": "B) Memory management unit",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The base register is also known as the :",
+        "options": [
+            "A) basic register",
+            "B) regular register",
+            "C) relocation register",
+            "D) delocation register"
+        ],
+        "answer": "C) relocation register",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The size of a process is limited to the size of :",
+        "options": [
+            "A) physical memory",
+            "B) external storage",
+            "C) secondary storage",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) physical memory",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "If execution time binding is being used, then a process ______ be swapped to a different memory space.",
+        "options": [
+            "A) has to be",
+            "B) can never",
+            "C) must",
+            "D) may"
+        ],
+        "answer": "D) may",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Swapping requires a _________",
+        "options": [
+            "A) motherboard",
+            "B) keyboard",
+            "C) monitor",
+            "D) backing store"
+        ],
+        "answer": "D) backing store",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The backing store is generally a :",
+        "options": [
+            "A) fast disk",
+            "B) disk large enough to accommodate copies of all memory images for all users",
+            "C) disk to provide direct access to the memory images",
+            "D) all of the mentioned"
+        ],
+        "answer": "D) all of the mentioned",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The ________ consists of all processes whose memory images are in the backing store or in memory and are ready to run.",
+        "options": [
+            "A) wait queue",
+            "B) ready queue",
+            "C) cpu",
+            "D) secondary storage"
+        ],
+        "answer": "B) ready queue",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The _________ time in a swap out of a running process and swap in of a new process into the memory is very high.",
+        "options": [
+            "A) context – switch",
+            "B) waiting",
+            "C) execution",
+            "D) all of the mentioned"
+        ],
+        "answer": "A) context – switch",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The major part of swap time is _______ time.",
+        "options": [
+            "A) waiting",
+            "B) transfer",
+            "C) execution",
+            "D) none of the mentioned"
+        ],
+        "answer": "B) transfer",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Swapping _______ be done when a process has pending I/O, or has to execute I/O operations only into operating system buffers.",
+        "options": [
+            "A) must",
+            "B) can",
+            "C) must never",
+            "D) maybe"
+        ],
+        "answer": "A) must",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Swap space is allocated :",
+        "options": [
+            "A) as a chunk of disk",
+            "B) separate from a file system",
+            "C) into a file system",
+            "D) all of the mentioned"
+        ],
+        "answer": "A) as a chunk of disk",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A monitor is a type of :",
+        "options": [
+            "A) semaphore",
+            "B) low level synchronization construct",
+            "C) high level synchronization construct",
+            "D) none of the mentioned"
+        ],
+        "answer": "C) high level synchronization construct",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A monitor is characterized by :",
+        "options": [
+            "A) a set of programmer defined operators",
+            "B) an identifier",
+            "C) the number of variables in it",
+            "D) all of the mentioned"
+        ],
+        "answer": "A) a set of programmer defined operators",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A procedure defined within a ________ can access only those variables declared locally within the _______ and its formal parameters.",
+        "options": [
+            "A) process, semaphore",
+            "B) process, monitor",
+            "C) semaphore, semaphore",
+            "D) monitor, monitor"
+        ],
+        "answer": "D) monitor, monitor",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The monitor construct ensures that :",
+        "options": [
+            "A) only one process can be active at a time within the monitor",
+            "B) n number of processes can be active at a time within the monitor (n being greater than 1)",
+            "C) the queue has only one process in it at a time",
+            "D) all of the mentioned"
+        ],
+        "answer": "A) only one process can be active at a time within the monitor",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The operations that can be invoked on a condition variable are :",
+        "options": [
+            "A) wait & signal",
+            "B) hold & wait",
+            "C) signal & hold",
+            "D) continue & signal"
+        ],
+        "answer": "A) wait & signal",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The process invoking the wait operation is :",
+        "options": [
+            "A) suspended until another process invokes the signal operation",
+            "B) waiting for another process to complete before it can itself call the signal operation",
+            "C) stopped until the next process in the queue finishes execution",
+            "D) none of the mentioned"
+        ],
+        "answer": "A) suspended until another process invokes the signal operation",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A Process Control Block(PCB) does not contain which of the following :",
+        "options": [
+            "A) Code",
+            "B) Bootstrap program",
+            "C) Stack",
+            "D) Data"
+        ],
+        "answer": "B) Bootstrap program",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The number of processes completed per unit time is known as __________",
+        "options": [
+            "A) Output",
+            "B) Throughput",
+            "C) Efficiency",
+            "D) Capacity"
+        ],
+        "answer": "B) Throughput",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which of the following is not the state of a process?",
+        "options": [
+            "A) Running",
+            "B) Old",
+            "C) New",
+            "D) Waiting"
+        ],
+        "answer": "B) Old",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The state of a process is defined by:",
+        "options": [
+            "A) the current activity of the process",
+            "B) the final activity of the process",
+            "C) the activity just executed by the process",
+            "D) the activity to next be executed by the process"
+        ],
+        "answer": "A) the current activity of the process",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The Process Control Block is:",
+        "options": [
+            "A) Process type variable",
+            "B) Data Structure",
+            "C) A secondary storage section",
+            "D) A Block in memory"
+        ],
+        "answer": "B) Data Structure",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The objective of multi-programming is to :",
+        "options": [
+            "A) Have some process running at all times",
+            "B) Have multiple programs waiting in a queue ready to run",
+            "C) To minimize CPU utilization",
+            "D) None of these"
+        ],
+        "answer": "A) Have some process running at all times",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A single thread of control allows the process to perform:",
+        "options": [
+            "A) only one task at a time",
+            "B) multiple tasks at a time",
+            "C) only two tasks at a time",
+            "D) all of these"
+        ],
+        "answer": "A) only one task at a time",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The entry of all the PCBs of the current processes is in:",
+        "options": [
+            "A) Process Register",
+            "B) Program Counter",
+            "C) Process Table",
+            "D) Process Unit"
+        ],
+        "answer": "C) Process Table",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The degree of multi-programming is:",
+        "options": [
+            "A) the number of processes executed per unit time",
+            "B) the number of processes in the ready queue",
+            "C) the number of processes in the I/O queue",
+            "D) the number of processes in memory"
+        ],
+        "answer": "D) the number of processes in memory",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Restricting the child process to a subset of the parent’s s resources prevents any process from",
+        "options": [
+            "A) overloading the system by using a lot of secondary storage",
+            "B) under-loading the system by very less CPU utilization",
+            "C) overloading the system by creating a lot of sub-processes",
+            "D) crashing the system by utilizing multiple resources"
+        ],
+        "answer": "C) overloading the system by creating a lot of sub-processes",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The child process completes execution,but the parent keeps executing, then the child process is known as :",
+        "options": [
+            "A) Dead",
+            "B) Zombie",
+            "C) Orphan",
+            "D) Body"
+        ],
+        "answer": "B) Zombie",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The child process can :",
+        "options": [
+            "A) be a duplicate of the parent process",
+            "B) never be a duplicate of the parent process",
+            "C) cannot have another program loaded into it",
+            "D) never have another program loaded into it"
+        ],
+        "answer": "A) be a duplicate of the parent process",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A parent process calling _____ system call will be suspended until children processes terminate.",
+        "options": [
+            "A) exec",
+            "B) wait",
+            "C) fork",
+            "D) exit"
+        ],
+        "answer": "B) wait",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In UNIX, the return value for the fork system call is _____ for the child process and _____ for the parent process.",
+        "options": [
+            "A) A Negative integer, Zero",
+            "B) Zero, A Negative integer",
+            "C) Zero, A nonzero integer",
+            "D) A nonzero integer, Zero"
+        ],
+        "answer": "C) Zero, A nonzero integer",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In UNIX, each process is identified by its :",
+        "options": [
+            "A) Process Control Block",
+            "B) Device Queue",
+            "C) Process Identifier",
+            "D) None of these"
+        ],
+        "answer": "C) Process Identifier",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "With _____________ only one process can execute at a time; meanwhile all other process are waiting for the processor. With ______________ more than one process can be running simultaneously each on a different.",
+        "options": [
+            "A) Multiprocessing, Multiprogramming",
+            "B) Multiprogramming, Uniprocessing",
+            "C) Multiprogramming, Multiprocessing",
+            "D) Uniprogramming, Multiprocessing"
+        ],
+        "answer": "D) Uniprogramming, Multiprocessing",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Cascading termination refers to termination of all child processes before the parent terminates ______",
+        "options": [
+            "A) Normally",
+            "B) Abnormally",
+            "C) Normally or abnormally",
+            "D) None of these"
+        ],
+        "answer": "A) Normally",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Remote Procedure Calls are used :",
+        "options": [
+            "A) for communication between two processes remotely different from each other on the same system",
+            "B) for communication between two processes on the same system",
+            "C) for communication between two processes on separate systems",
+            "D) None of these"
+        ],
+        "answer": "C) for communication between two processes on separate systems",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "processes using message based communication, is called ________",
+        "options": [
+            "A) Local Procedure Call",
+            "B) Inter Process Communication",
+            "C) Remote Procedure Call",
+            "D) Remote Machine Invocation"
+        ],
+        "answer": "C) Remote Procedure Call",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A process that is based on IPC mechanism which executes on different systems and can communicate with other.",
+        "options": [
+            "A) Local Procedure Call",
+            "B) Inter Process Communication",
+            "C) Remote Procedure Call",
+            "D) Remote Machine Invocation"
+        ],
+        "answer": "C) Remote Procedure Call",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "To differentiate the many network services a system supports ______ are used.",
+        "options": [
+            "A) Variables",
+            "B) Sockets",
+            "C) Ports",
+            "D) Service names"
+        ],
+        "answer": "C) Ports",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The remote method invocation :",
+        "options": [
+            "A) allows a process to invoke memory on a remote object",
+            "B) allows a thread to invoke a method on a remote object",
+            "C) allows a thread to invoke memory on a remote object",
+            "D) allows a process to invoke a method on a remote object"
+        ],
+        "answer": "B) allows a thread to invoke a method on a remote object",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "RPC provides a(an) _____ on the client side, a separate one for each remote procedure.",
+        "options": [
+            "A) stub",
+            "B) identifier",
+            "C) name",
+            "D) process identifier"
+        ],
+        "answer": "A) stub",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The stub :",
+        "options": [
+            "A) transmits the message to the server where the server side stub receives the message and invokes procedure on the server side",
+            "B) packs the parameters into a form transmittable over the network",
+            "C) locates the port on the server",
+            "D) all of these"
+        ],
+        "answer": "D) all of these",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The full form of RMI :",
+        "options": [
+            "A) Remote Memory Installation",
+            "B) Remote Memory Invocation",
+            "C) Remote Method Installation",
+            "D) Remote Method Invocation"
+        ],
+        "answer": "D) Remote Method Invocation",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "To resolve the problem of data representation on different systems RPCs define _____________",
+        "options": [
+            "A) machine dependent representation of data",
+            "B) machine representation of data",
+            "C) machine-independent representation of data",
+            "D) none of these"
+        ],
+        "answer": "C) machine-independent representation of data",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which of the following do not belong to queues for processes?",
+        "options": [
+            "A) Ready Queue",
+            "B) PCB queue",
+            "C) Device Queue",
+            "D) Job Queue"
+        ],
+        "answer": "B) PCB queue",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which of the following does not interrupt a running process?",
+        "options": [
+            "A) Power failure",
+            "B) Scheduler process",
+            "C) A device",
+            "D) Mutex"
+        ],
+        "answer": "B) Scheduler process",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "When the process issues an I/O request :",
+        "options": [
+            "A) It is placed in an I/O queue",
+            "B) It is placed in a waiting queue",
+            "C) It is placed in the ready queue",
+            "D) Timer"
+        ],
+        "answer": "A) It is placed in an I/O queue",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which of the following need not necessarily be saved on a context switch between processes?",
+        "options": [
+            "A) General purpose registers",
+            "B) Program counter",
+            "C) Translation look-aside buffer",
+            "D) All of the above"
+        ],
+        "answer": "C) Translation look-aside buffer",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "When a process terminates :",
+        "options": [
+            "A) It is removed from all queues",
+            "B) It is removed from all, but the job queue",
+            "C) Its process control block is de-allocated",
+            "D) Its process control block is never de-allocated"
+        ],
+        "answer": "A) It is removed from all queues",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The context of a process in the PCB of a process does not contain :",
+        "options": [
+            "A) the value of the CPU registers",
+            "B) memory-management information",
+            "C) context switch time",
+            "D) the process state"
+        ],
+        "answer": "C) context switch time",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Suppose that a process is in “Blocked” sta state waiting for some I/O service. When the service is completed, it goes to the :",
+        "options": [
+            "A) Running state",
+            "B) Ready state",
+            "C) Suspended state",
+            "D) Terminated state"
+        ],
+        "answer": "B) Ready state",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "What is a long-term scheduler?",
+        "options": [
+            "A) It selects which process has to be brought into the ready queue",
+            "B) It selects which process has to be executed next and allocates CPU",
+            "C) It selects which process to remove from memory by swapping",
+            "D) None of these"
+        ],
+        "answer": "A) It selects which process has to be brought into the ready queue",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In a multi-programming environment :",
+        "options": [
+            "A) the processor executes more than one process at a time",
+            "B) more than one process resides in the memory",
+            "C) the programs are developed by more than one person",
+            "D) a single user can execute many programs at the same time"
+        ],
+        "answer": "B) more than one process resides in the memory",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In a time-sharing operating system, when the time slot given to a process is completed, the process goes from the running state to the :",
+        "options": [
+            "A) Blocked state",
+            "B) Ready state",
+            "C) Terminated state",
+            "D) Suspended state"
+        ],
+        "answer": "B) Ready state",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "If all processes I/O bound, the ready queue will almost always be ______ and the Short term Scheduler will have a_____ to do.",
+        "options": [
+            "A) full,little",
+            "B) full,lot",
+            "C) empty,little",
+            "D) empty,lot"
+        ],
+        "answer": "C) empty,little",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The initial program that is run when the computer is powered up is called :",
+        "options": [
+            "A) boot program",
+            "B) bootloader",
+            "C) initializer",
+            "D) bootstrap program"
+        ],
+        "answer": "D) bootstrap program",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which operation is performed by an interrupt handler ?",
+        "options": [
+            "A) Saving the current state of the system",
+            "B) Loading the interrupt handling code and executing it",
+            "C) Once done handling, bringing back the system to the original state it was before the interrupt occurred",
+            "D) All of these"
+        ],
+        "answer": "D) All of these",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "How does the software trigger an interrupt?",
+        "options": [
+            "A) Sending signals to CPU through bus",
+            "B) Executing a special operation called system call",
+            "C) Executing a special program called system program",
+            "D) Executing a special program calle interrupt trigger program"
+        ],
+        "answer": "B) Executing a special operation called system call",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "What is a trap/exception?",
+        "options": [
+            "A) hardware generated interrupt caused by an error",
+            "B) software generated interrupt caused by an error",
+            "C) user generated interrupt caused by an error",
+            "D) none of these"
+        ],
+        "answer": "B) software generated interrupt caused by an error",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "How does the Hardware trigger an interrupt?",
+        "options": [
+            "A) Sending signals to CPU through system bus",
+            "B) Executing a special program called interrupt program",
+            "C) Executing a special program called system program",
+            "D) Executing a special operation called system call"
+        ],
+        "answer": "A) Sending signals to CPU through system bus",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "What is an ISR?",
+        "options": [
+            "A) Information Service Request",
+            "B) Interrupt Service Request",
+            "C) Interrupt Service Routine",
+            "D) Information Service Routine"
+        ],
+        "answer": "C) Interrupt Service Routine",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In the layered approach of Operating Systems :",
+        "options": [
+            "A) Bottom Layer(0) is the User interface",
+            "B) Highest Layer(N) is the User interface",
+            "C) Bottom Layer(N) is the hardware",
+            "D) Highest Layer(N) is the hardware"
+        ],
+        "answer": "B) Highest Layer(N) is the User interface",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "An interrupt vector",
+        "options": [
+            "A) is an address that is indexed to an interrupt handler",
+            "B) is a unique device number that is indexed by an address",
+            "C) is a unique identity given to an interrupt",
+            "D) none of these"
+        ],
+        "answer": "A) is an address that is indexed to an interrupt handler",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "DMA is used for :",
+        "options": [
+            "A) High speed devices(disks and communications network)",
+            "B) Low speed devices",
+            "C) Utilizing CPU cycles",
+            "D) All of these"
+        ],
+        "answer": "A) High speed devices(disks and communications network)",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In a memory mapped input/output :",
+        "options": [
+            "A) the CPU uses polling to watch the control bit constantly, looping to see if device is ready",
+            "B) the CPU writes one data byte to the data register and sets a bit in control register to show that a byte is available",
+            "C) the CPU receives an interrupt when the device is ready for the next byte",
+            "D) the CPU runs a user written code and does accordingly"
+        ],
+        "answer": "B) the CPU writes one data byte to the data register and sets a bit in control register to show that a byte is available",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In a programmed input/output(PIO) :",
+        "options": [
+            "A) the CPU uses polling to watch the control bit constantly, looping to see if device is ready",
+            "B) the CPU writes one data byte to the data register and sets a bit in control register to show that a byte is available",
+            "C) the CPU receives an interrupt when the device is ready for the next byte",
+            "D) the CPU runs a user written code and does accordingly"
+        ],
+        "answer": "A) the CPU uses polling to watch the control bit constantly, looping to see if device is ready",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "An un-interruptible unit is known as :",
+        "options": [
+            "A) static",
+            "B) single",
+            "C) atomic",
+            "D) none of these"
+        ],
+        "answer": "C) atomic",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The TestAndSet instruction is executed :",
+        "options": [
+            "A) after a particular process",
+            "B) periodically",
+            "C) atomically",
+            "D) none of these"
+        ],
+        "answer": "C) atomically",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Semaphore is a/an _______ to solve the critical section problem.",
+        "options": [
+            "A) hardware for a system",
+            "B) special program for a system",
+            "C) integer variable",
+            "D) none of these"
+        ],
+        "answer": "C) integer variable",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The two atomic operations permissible on semaphores are :",
+        "options": [
+            "A) wait",
+            "B) stop",
+            "C) hold",
+            "D) none of these"
+        ],
+        "answer": "A) wait",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Spinlocks are :",
+        "options": [
+            "A) CPU cycles wasting locks over critical sections of programs",
+            "B) Locks that avoid time wastage in context switches",
+            "C) Locks that work better on multiprocessor systems",
+            "D) All of these"
+        ],
+        "answer": "D) All of these",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The main disadvantage of spinlocks is that :",
+        "options": [
+            "A) they are not sufficient for many process",
+            "B) they require busy waiting",
+            "C) they are unreliable sometimes",
+            "D) they are too complex for programmers"
+        ],
+        "answer": "B) they require busy waiting",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The wait operation of the semaphore basically works on the basic _______ system call.",
+        "options": [
+            "A) Stop()",
+            "B) block()",
+            "C) hold()",
+            "D) wait()"
+        ],
+        "answer": "B) block()",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The signal operation of the semaphore basically works on the basic _______ system call.",
+        "options": [
+            "A) continue()",
+            "B) wakeup()",
+            "C) getup()",
+            "D) start()"
+        ],
+        "answer": "B) wakeup()",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "If the semaphore value is negative :",
+        "options": [
+            "A) its magnitude is the number of processes waiting on that semaphore",
+            "B) it is invalid",
+            "C) no operation can be further performed on it until the signal operation is performed on it",
+            "D) none of these"
+        ],
+        "answer": "A) its magnitude is the number of processes waiting on that semaphore",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The code that changes the value of the semaphore is :",
+        "options": [
+            "A) remainder section code",
+            "B) non – critical section code",
+            "C) critical section code",
+            "D) none of these"
+        ],
+        "answer": "B) non – critical section code",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "What will happen if a non-recursive mutex is locked more than once?",
+        "options": [
+            "A) Signaling",
+            "B) Starvation",
+            "C) Deadlock",
+            "D) Aging"
+        ],
+        "answer": "C) Deadlock",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A semaphore :",
+        "options": [
+            "A) is a binary mutex",
+            "B) must be accessed from only one process",
+            "C) can be accessed from multiple processes",
+            "D) none of these"
+        ],
+        "answer": "C) can be accessed from multiple processes",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The two kinds of semaphores are :",
+        "options": [
+            "A) mutex & counting",
+            "B) binary & counting",
+            "C) counting & decimal",
+            "D) decimal & binary"
+        ],
+        "answer": "B) binary & counting",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A mutex :",
+        "options": [
+            "A) is a binary mutex",
+            "B) must be accessed from only one process",
+            "C) can be accessed from multiple processes",
+            "D) None of these"
+        ],
+        "answer": "B) must be accessed from only one process",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "At a particular time of computation the value of a counting semaphore is 7.Then 20 P operations and 15 V operations were completed on this semaphore.The resulting value of the semaphore is :",
+        "options": [
+            "A) 42",
+            "B) 2",
+            "C) 7",
+            "D) 12"
+        ],
+        "answer": "B) 2",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A binary semaphore is a semaphore with integer values :",
+        "options": [
+            "A) 1",
+            "B) -1",
+            "C) 1.5",
+            "D) 2.5"
+        ],
+        "answer": "A) 1",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Semaphores are mostly used to implement :",
+        "options": [
+            "A) System calls",
+            "B) IPC mechanisms",
+            "C) System protection",
+            "D) None of these"
+        ],
+        "answer": "B) IPC mechanisms",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Spinlocks are intended to provide __________ only.",
+        "options": [
+            "A) Mutual Exclusion",
+            "B) Bounded Waiting",
+            "C) Aging",
+            "D) Progress"
+        ],
+        "answer": "B) Bounded Waiting",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which module gives control of the CPU to the process selected by the short-term scheduler?",
+        "options": [
+            "A) scheduler",
+            "B) dispatcher",
+            "C) interrupt",
+            "D) none of the mentioned"
+        ],
+        "answer": "B) dispatcher",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which one of the following can not be scheduled by the kernel?",
+        "options": [
+            "A) process",
+            "B) kernel level thread",
+            "C) user level thread",
+            "D) none of these"
+        ],
+        "answer": "C) user level thread",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In multilevel feedback scheduling algorithm",
+        "options": [
+            "A) a process can move to a different classified ready queue",
+            "B) classification of ready queue is permanent",
+            "C) processes are not classified into groups",
+            "D) None of these"
+        ],
+        "answer": "A) a process can move to a different classified ready queue",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The processes that are residing in main memory and are ready and waiting to execute are kept on a list called",
+        "options": [
+            "A) job queue",
+            "B) ready queue",
+            "C) execution queue",
+            "D) process queue"
+        ],
+        "answer": "B) ready queue",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The interval from the time of submission of a process to the time of completion is termed as",
+        "options": [
+            "A) waiting time",
+            "B) turnaround time",
+            "C) response time",
+            "D) throughput"
+        ],
+        "answer": "B) turnaround time",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Process are classified into different groups in",
+        "options": [
+            "A) shortest job scheduling algorithm",
+            "B) round robin scheduling algorithm",
+            "C) priority scheduling algorithm",
+            "D) multilevel queue scheduling algorithm"
+        ],
+        "answer": "D) multilevel queue scheduling algorithm",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which scheduling algorithm allocates the CPU first to the process that requests the CPU first?",
+        "options": [
+            "A) first-come, first-served scheduling",
+            "B) shortest job scheduling",
+            "C) priority scheduling",
+            "D) none of these"
+        ],
+        "answer": "A) first-come, first-served scheduling",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In priority scheduling algorithm",
+        "options": [
+            "A) CPU is allocated to the process with highest priority",
+            "B) CPU is allocated to the process with lowest priority",
+            "C) Equal priority processes can not be scheduled",
+            "D) None of these"
+        ],
+        "answer": "A) CPU is allocated to the process with highest priority",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In priority scheduling algorithm, when a process arrives at the ready queue, its priority is compared with the priority of",
+        "options": [
+            "A) all process",
+            "B) currently running process",
+            "C) parent process",
+            "D) init process"
+        ],
+        "answer": "B) currently running process",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Time quantum is defined in",
+        "options": [
+            "A) shortest job scheduling algorithm",
+            "B) round robin scheduling algorithm",
+            "C) priority scheduling algorithm",
+            "D) multilevel queue scheduling algorithm"
+        ],
+        "answer": "B) round robin scheduling algorithm",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The systems which allows only one process execution at a time, are called",
+        "options": [
+            "A) uniprogramming systems",
+            "B) uniprocessing systems",
+            "C) unitasking systems",
+            "D) none of these"
+        ],
+        "answer": "B) uniprocessing systems",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "The address of the next instruction to be executed by the current process is provided by the",
+        "options": [
+            "A) CPU registers",
+            "B) Program counter",
+            "C) Process stack",
+            "D) Pipe"
+        ],
+        "answer": "B) Program counter",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which system call returns the process identifier of a terminated child?",
+        "options": [
+            "A) wait",
+            "B) exit",
+            "C) fork",
+            "D) fork"
+        ],
+        "answer": "A) wait",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In operating system, each process has its own",
+        "options": [
+            "A) address space and global variables",
+            "B) open files",
+            "C) pending alarms, signals and signal handlers",
+            "D) all of these"
+        ],
+        "answer": "D) all of these",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A process stack does not contain",
+        "options": [
+            "A) Function parameters",
+            "B) Local variables",
+            "C) Return addresses",
+            "D) PID of child process"
+        ],
+        "answer": "D) PID of child process",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "In Unix, Which system call creates the new process?",
+        "options": [
+            "A) create",
+            "B) fork",
+            "C) new",
+            "D) none of these"
+        ],
+        "answer": "B) fork",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A set of processes is deadlock if",
+        "options": [
+            "A) each process is blocked and will remain so forever",
+            "B) each process is terminated",
+            "C) all processes are trying to kill each other",
+            "D) None of these"
+        ],
+        "answer": "A) each process is blocked and will remain so forever",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A process can be terminated due to",
+        "options": [
+            "A) normal exit",
+            "B) fatal error",
+            "C) killed by another process",
+            "D) all of the above"
+        ],
+        "answer": "D) all of the above",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "What is the ready state of a process?",
+        "options": [
+            "A) when process is scheduled to run after some execution",
+            "B) when process is unable to run until some task has been completed",
+            "C) when process is using the CPU",
+            "D) none of these"
+        ],
+        "answer": "A) when process is scheduled to run after some execution",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "What is interprocess communication?",
+        "options": [
+            "A) communication within the process",
+            "B) communication between two process",
+            "C) communication between two threads of same process",
+            "D) none of these"
+        ],
+        "answer": "B) communication between two process",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which process can be affected by other processes executing in the system?",
+        "options": [
+            "A) cooperating process",
+            "B) child process",
+            "C) parent process",
+            "D) init process"
+        ],
+        "answer": "A) cooperating process",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "When several processes access the same data concurrently and the outcome of the execution depends on the particular order in which the access takes place, is called",
+        "options": [
+            "A) dynamic condition",
+            "B) race condition",
+            "C) essential condition",
+            "D) critical condition"
+        ],
+        "answer": "B) race condition",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "To enable a process to wait within the monitor,",
+        "options": [
+            "A) a condition variable must be declared as condition",
+            "B) condition variables must be used as boolean objects",
+            "C) semaphore must be used",
+            "D) all of these"
+        ],
+        "answer": "A) a condition variable must be declared as condition",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "If a process is executing in its critical section, then no other processes can be executing in their critical section. This condition is called",
+        "options": [
+            "A) mutual exclusion",
+            "B) synchronous exclusion",
+            "C) critical exclusion",
+            "D) asynchronous exclusion"
+        ],
+        "answer": "A) mutual exclusion",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A monitor is a module that encapsulates",
+        "options": [
+            "A) shared data structures",
+            "B) procedures that operate on shared data structure",
+            "C) synchronization between concurrent procedure invocation",
+            "D) all of the above"
+        ],
+        "answer": "D) all of the above",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Which one of the following is a synchronization tool?",
+        "options": [
+            "A) socket",
+            "B) semaphore",
+            "C) pipe",
+            "D) thread"
+        ],
+        "answer": "B) semaphore",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "A semaphore is a shared integer variable",
+        "options": [
+            "A) that can not drop below zero",
+            "B) that can not be more than zero",
+            "C) that can not drop below one",
+            "D) that can not be more than one"
+        ],
+        "answer": "A) that can not drop below zero",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Process synchronization can be done on",
+        "options": [
+            "A) hardware level",
+            "B) software level",
+            "C) both hardware and software level",
+            "D) none of these"
+        ],
+        "answer": "B) software level",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "When high priority task is indirectly preempted by medium priority task effectively inverting the relative priority of the two tasks, the scenario is called.",
+        "options": [
+            "A) priority inversion",
+            "B) priority removal",
+            "C) priority exchange",
+            "D) priority modification"
+        ],
+        "answer": "A) priority inversion",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    },
+    {
+        "question": "Mutual exclusion can be provided by the",
+        "options": [
+            "A) mutex locks",
+            "B) binary semaphores",
+            "C) both mutex locks and binary semaphores",
+            "D) none of these"
+        ],
+        "answer": "A) mutex locks",
+        "unit": "UNIT 5 - Operating System (New PDF)"
+    }
+]
